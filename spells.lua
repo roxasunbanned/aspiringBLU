@@ -5305,5 +5305,564 @@ return {
             }
         }
     },
-    
+    [707] = {
+        name = "Retinal Glare",
+        mobs = {
+            {
+                monster = "Beady Panopt",
+                level = "100+",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Cave Panopt",
+                level = "100+",
+                zone = "Moh Gates"
+            },
+            {
+                monster = "Tenacious Panopt",
+                level = "100+",
+                zone = "Yorcia Weald"
+            },
+            {
+                monster = "Obstreperous Panopt",
+                level = "122-124",
+                zone = "Reisenjima"
+            }
+        }
+    },
+    [744] = {
+        name = "Droning Whirlwind (U)",
+        mobs = {
+            {
+                monster = "Colkhab",
+                level = "116",
+                zone = "Ceizak Battlegrounds Ceizak Wildskeeper Reive"
+            },
+            {
+                monster = "Muyingwa",
+                level = "119",
+                zone = "Cirdas Caverns (U) Cirdas Delve Boss"
+            }
+        }
+    },
+    [745] = {
+        name = "Carcharian Verve (U)",
+        mobs = {
+            {
+                monster = "Tchakka",
+                level = "116",
+                zone = "Foret de Hennetiel Foret Wildskeeper Reive"
+            },
+            {
+                monster = "Dakuwaqa",
+                level = "119",
+                zone = "Cirdas Caverns (U) Foret Delve Boss"
+            }
+        }
+    },
+    [746] = {
+        name = "Blistering Roar (U)",
+        mobs = {
+            {
+                monster = "Achuka",
+                level = "116",
+                zone = "Morimar Basalt Fields Morimar Wildskeeper Reive"
+            },
+            {
+                monster = "Tojil",
+                level = "119",
+                zone = "Cirdas Caverns (U) Morimar Delve Boss"
+            }
+        }
+    },
+    [710] = {
+        name = "Erratic Flutter",
+        mobs = {
+            {
+                monster = "Wamoura",
+                level = "77-80",
+                zone = "Halvung (H-4)"
+            },
+            {
+                monster = "Wamoura",
+                level = "80-82",
+                zone = "Mount Zhayolm"
+            },
+            {
+                monster = "Ignamoth",
+                level = "81",
+                zone = "Mount Zhayolm"
+            }
+        }
+    },
+    [708] = {
+        name = "Subduction",
+        mobs = {
+            {
+                monster = "Asperous Marolith",
+                level = "103+",
+                zone = "Cirdas Caverns F-5"
+            },
+            {
+                monster = "Shambling Marolith",
+                level = "95~",
+                zone = "Ghoyu's Reverie Associate Researcher Expedition 1 (Sauromugue)"
+            }
+        }
+    },
+    [709] = {
+        name = "Thrashing Assault",
+        mobs = {
+            {
+                monster = "Meeble",
+                level = "105",
+                zone = "Ghoyu's Reverie Associate Researcher Expedition 3 (Sauromugue)"
+            }
+        }
+    },
+    [713] = {
+        name = "Diffusion Ray",
+        mobs = {
+            {
+                monster = "Refitted Chariot",
+                level = "~90",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            },
+            {
+                monster = "Impervious Chariot",
+                level = "~90",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            },
+            {
+                monster = "Archaic Chariot",
+                level = "Information Needed",
+                zone = "Salvage II Found in all 4 remnants"
+            }
+        }
+    },
+    [712] = {
+        name = "Rail Cannon",
+        mobs = {
+            {
+                monster = "Sub-zero Gear",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            }
+        }
+    },
+    [711] = {
+        name = "Restoral",
+        mobs = {
+            {
+                monster = "Sub-zero Gear",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            }
+        }
+    },
+    [714] = {
+        name = "Sinker Drill",
+        mobs = {
+            {
+                monster = "Mechanical Menace",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            },
+            {
+                monster = "Boompadu",
+                level = "Information Needed",
+                zone = "Alzadaal Undersea Ruins N from nyzul staging point"
+            }
+        }
+    },
+    [747] = {
+        name = "Uproot (U)",
+        mobs = {
+            {
+                monster = "Yumcax",
+                level = "116",
+                zone = "Yorcia Weald Yorcia Wildskeeper Reive"
+            },
+            {
+                monster = "Wopket",
+                level = "119",
+                zone = "Yorcia Weald (U) Yorcia Delve Boss"
+            },
+            {
+                monster = "Mboze",
+                level = "Information Needed",
+                zone = "Sheol - Gaol Atonement 3 Notorious Monsters"
+            }
+        }
+    },
+    [748] = {
+        name = "Crashing Thunder (U)",
+        mobs = {
+            {
+                monster = "Hurkan",
+                level = "116",
+                zone = "Marjami Ravine Marjami Wildskeeper Reive"
+            },
+            {
+                monster = "Cailimh",
+                level = "119",
+                zone = "Yorcia Weald (U) Marjami Delve Boss"
+            },
+            {
+                monster = "Palila",
+                level = "125",
+                zone = "Escha - Ru'Aun Examine ??? with a Palila's talon. All members require Tribulens or Radialens."
+            }
+        }
+    },
+    [749] = {
+        name = "Polar Roar (U)",
+        mobs = {
+            {
+                monster = "Kumhau",
+                level = "116",
+                zone = "Kamihr Drifts Kamihr Wildskeeper Reive"
+            },
+            {
+                monster = "Utkux",
+                level = "119",
+                zone = "Yorcia Weald (U) Kamihr Delve Boss"
+            }
+        }
+    },
+    [717] = {
+        name = "Sweeping Gouge",
+        mobs = {
+            {
+                monster = "Cicatricose Raaz",
+                level = "111-113",
+                zone = "Kamihr Drifts"
+            }
+        }
+    },
+    [715] = {
+        name = "Molting Plumage",
+        mobs = {
+            {
+                monster = "Tulfaire",
+                level = "Information Needed",
+                zone = "Marjami Ravine"
+            }
+        }
+    },
+    [716] = {
+        name = "Nectarous Deluge",
+        mobs = {
+            {
+                monster = "Snapweed",
+                level = "Information Needed",
+                zone = "Yorcia Weald"
+            }
+        }
+    },
+    [718] = {
+        name = "Atra. Libations",
+        mobs = {
+            {
+                monster = "Dullahan",
+                level = "116-118",
+                zone = "Outer Ra'Kaznar D-7 on Map 1"
+            },
+            {
+                monster = "Unrelenting Dullahan",
+                level = "Information Needed",
+                zone = "Sih Gates Map 2 (Use teleporter in Ceizak Battlegrounds G-10/11)"
+            }
+        }
+    },
+    [719] = {
+        name = "Searing Tempest",
+        mobs = {
+            {
+                monster = "Escalent (Baelfyr type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Irascible Baelfyr",
+                level = "100+",
+                zone = "Ceizak Battlegrounds Fire weather. E-7/8, J-6, I/J-7/8"
+            },
+            {
+                monster = "Fetid Baelfyr",
+                level = "120+",
+                zone = "Sortie, Basement Map F Multiple Spawns Upon Entry"
+            }
+        }
+    },
+    [725] = {
+        name = "Blinding Fulgor",
+        mobs = {
+            {
+                monster = "Escalent (Baelfyr type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Irascible Baelfyr",
+                level = "100+",
+                zone = "Ceizak Battlegrounds Fire weather. E-7/8, J-6, I/J-7/8"
+            },
+            {
+                monster = "Fetid Baelfyr",
+                level = "134-137",
+                zone = "Outer Ra'Kaznar (U2) Sortie - Basement. Section E."
+            }
+        }
+    },
+    [720] = {
+        name = "Spectral Floe",
+        mobs = {
+            {
+                monster = "Escalent (Gefyrst type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Treefrost Gefyrst",
+                level = "Question",
+                zone = "Foret de Hennetiel Water weather (I-7)"
+            },
+            {
+                monster = "Speleothem Gefyrst",
+                level = "101-103",
+                zone = "Sih Gates Rainy or squall weather."
+            },
+            {
+                monster = "Bergschrund Gefyrst",
+                level = "126-127",
+                zone = "Woh Gates Snowy weather."
+            },
+            {
+                monster = "Hoarfrost Gefyrst",
+                level = "104-106",
+                zone = "Morimar Basalt Fields Snowy weather. (G-7)"
+            }
+        }
+    },
+    [726] = {
+        name = "Scouring Spate",
+        mobs = {
+            {
+                monster = "Escalent (Gefyrst type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Treefrost Gefyrst",
+                level = "Question",
+                zone = "Foret de Hennetiel Water weather"
+            },
+            {
+                monster = "Speleothem Gefyrst",
+                level = "101-103",
+                zone = "Sih Gates Rainy or squall weather."
+            },
+            {
+                monster = "Bergschrund Gefyrst",
+                level = "126-127",
+                zone = "Woh Gates Snowy weather."
+            },
+            {
+                monster = "Hoarfrost Gefyrst",
+                level = "104-106",
+                zone = "Morimar Basalt Fields Snowy weather."
+            }
+        }
+    },
+    [721] = {
+        name = "Anvil Lightning",
+        mobs = {
+            {
+                monster = "Ungeweder",
+                level = "Question",
+                zone = "Ceizak Battlegrounds During weather. West of Bivouac #2."
+            },
+            {
+                monster = "Crackling Ungeweder",
+                level = "Question",
+                zone = "Marjami Ravine During weather. SouthEast of Bivouac #3."
+            },
+            {
+                monster = "Escalent (Ungeweder type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            }
+        }
+    },
+    [727] = {
+        name = "Silent Storm",
+        mobs = {
+            {
+                monster = "Ungeweder",
+                level = "Question",
+                zone = "Ceizak Battlegrounds During weather. West of Bivouac #2."
+            },
+            {
+                monster = "Escalent (Ungeweder type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            }
+        }
+    },
+    [722] = {
+        name = "Entomb",
+        mobs = {
+            {
+                monster = "Escalent (Byrgen type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Stolid Byrgen",
+                level = "Question",
+                zone = "Yorcia Weald Dust storm or gloom weather"
+            },
+            {
+                monster = "Elemental",
+                level = "Question",
+                zone = "Outer Ra'Kaznar Dust storm or gloom weather"
+            },
+            {
+                monster = "Unrepentant Byrgen",
+                level = "121-123",
+                zone = "Ra'Kaznar Inner Court Gloom weather"
+            }
+        }
+    },
+    [728] = {
+        name = "Tenebral Crush",
+        mobs = {
+            {
+                monster = "Escalent (Byrgen type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
+            },
+            {
+                monster = "Stolid Byrgen",
+                level = "Question",
+                zone = "Yorcia Weald Dust storm or gloom weather"
+            },
+            {
+                monster = "Phlegmatic Byrgen",
+                level = "Question",
+                zone = "Outer Ra'Kaznar Dust storm or gloom weather. Two spawn (H-4) Map 1"
+            },
+            {
+                monster = "Unrepentant Byrgen",
+                level = "121-123",
+                zone = "Ra'Kaznar Inner Court Gloom weather"
+            }
+        }
+    },
+    [723] = {
+        name = "Saurian Slide",
+        mobs = {
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Foret de Hennetiel"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Dho Gates"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Marjami Ravine"
+            }
+        }
+    },
+    [724] = {
+        name = "Palling Salvo",
+        mobs = {
+            {
+                monster = "Escalent (Fluturini type)",
+                level = "Question",
+                zone = "Yorcia Weald (U) Alluvion Skirmish. Sword, Shield, or Sash Eudaemon preferred."
+            },
+            {
+                monster = "Fluturini",
+                level = "Question",
+                zone = "Outer Ra'Kaznar"
+            }
+        }
+    },
+    [750] = {
+        name = "Mighty Guard (U)",
+        mobs = {
+            {
+                monster = "Sempurne",
+                level = "Question",
+                zone = "Abyssea - Empyreal Paradox Mission: No Time like the Future (RoV 3-17)"
+            },
+            {
+                monster = "Shinryu",
+                level = "Question",
+                zone = "Abyssea - Empyreal Paradox Quest: The Wyrm God"
+            }
+        }
+    },
+    [751] = {
+        name = "Cruel Joke (U)",
+        mobs = {
+            {
+                monster = "Balamor's Adumbration",
+                level = "Question",
+                zone = "Alluvion Skirmish Rala or Cirdas. Random occurrence when changing floors. Becomes much more frequent the higher the tier of entry item."
+            },
+            {
+                monster = "Palloritus",
+                level = "Question",
+                zone = "Outer Ra'Kaznar (U) Vagary: Deathborne Gate Boss"
+            },
+            {
+                monster = "Palloritus",
+                level = "Question",
+                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Palloritus"
+            }
+        }
+    },
+    [752] = {
+        name = "Cesspool (U)",
+        mobs = {
+            {
+                monster = "Rancibus",
+                level = "Question",
+                zone = "Outer Ra'Kaznar (U) Vagary: Brash Gate Boss"
+            },
+            {
+                monster = "Rancibus",
+                level = "Question",
+                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Rancibus"
+            }
+        }
+    },
+    [753] = {
+        name = "Tearing Gust (U)",
+        mobs = {
+            {
+                monster = "Putraxia",
+                level = "Question",
+                zone = "Outer Ra'Kaznar (U) Vagary: Duskbrood Gate Boss"
+            },
+            {
+                monster = "Putraxia",
+                level = "Question",
+                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Putraxia"
+            }
+        }
+    },
 }
