@@ -3355,4 +3355,1955 @@ return {
             }
         }
     },
+    [642] = {
+        name = "Amplification",
+        mobs = {
+            {
+                monster = "Black Pudding",
+                level = "73-75",
+                zone = "Halvung"
+            },
+            {
+                monster = "Ebony Pudding",
+                level = "75-80",
+                zone = "Mount Zhayolm"
+            },
+            {
+                monster = "Pitchy Pudding",
+                level = "77-79",
+                zone = "Beadeaux (S)"
+            },
+            {
+                monster = "Licorice",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #06"
+            }
+        }
+    },
+    [591] = {
+        name = "Heat Breath",
+        mobs = {
+            {
+                monster = "Lesser Manticore",
+                level = "47-49",
+                zone = "Eastern Altepa Desert"
+            },
+            {
+                monster = "Desert Manticore",
+                level = "53-57",
+                zone = "Western Altepa Desert"
+            },
+            {
+                monster = "Labyrinth Manticore",
+                level = "71-74",
+                zone = "Labyrinth of Onzozo"
+            },
+            {
+                monster = "Greater Manticore",
+                level = "76-79",
+                zone = "Cape Teriggan"
+            },
+            {
+                monster = "Hieracosphinx",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi Conflux #07"
+            }
+        }
+    },
+    [588] = {
+        name = "Lowing",
+        mobs = {
+            {
+                monster = "Buffalo",
+                level = "62-65",
+                zone = "Uleguerand Range Around D-8"
+            },
+            {
+                monster = "Giant Buffalo",
+                level = "68-71",
+                zone = "Uleguerand Range"
+            },
+            {
+                monster = "King Buffalo",
+                level = "79-82",
+                zone = "Uleguerand Range"
+            },
+            {
+                monster = "Bluffalo",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #05"
+            },
+            {
+                monster = "Chichevache",
+                level = "~90",
+                zone = "Ghoyu's Reverie Voucher #07"
+            }
+        }
+    },
+    [655] = {
+        name = "Triumphant Roar",
+        mobs = {
+            {
+                monster = "Gargouille",
+                level = "77-80",
+                zone = "Beaucedine Glacier (S)"
+            },
+            {
+                monster = "Dire Gargouille",
+                level = "78-82",
+                zone = "Xarcabard (S)"
+            },
+            {
+                monster = "Gruesome Gargouille",
+                level = "75-90",
+                zone = "Abyssea - Vunkerl Conflux #04"
+            },
+            {
+                monster = "Benumbed Vodoriga",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #08"
+            },
+            {
+                monster = "Eschan Gargouille",
+                level = "115-119",
+                zone = "Escha - Ru'Aun Only aggressive at night."
+            }
+        }
+    },
+    [614] = {
+        name = "Saline Coat",
+        mobs = {
+            {
+                monster = "Ul'xzomit",
+                level = "68-71",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Om'xzomit",
+                level = "76",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Ab'xzomit",
+                level = "75-100",
+                zone = "Abyssea - Konschtat Conflux #03"
+            },
+            {
+                monster = "Eschan Xzomit",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #06"
+            }
+        }
+    },
+    [654] = {
+        name = "Sub-zero Smash",
+        mobs = {
+            {
+                monster = "Ruszor",
+                level = "78-81",
+                zone = "Beaucedine Glacier (S) I-9 / G-10"
+            }
+        }
+    },
+    [611] = {
+        name = "Disseverment",
+        mobs = {
+            {
+                monster = "Ul'aern",
+                level = "68-71",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Om'aern",
+                level = "76",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Aw'aern",
+                level = "81-84",
+                zone = "The Garden of Ru'Hmet"
+            },
+            {
+                monster = "Eschan Il'aern",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #9"
+            }
+        }
+    },
+    [616] = {
+        name = "Temporal Shift",
+        mobs = {
+            {
+                monster = "Ul'hpemde",
+                level = "68-71",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Om'hpemde",
+                level = "76",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Eschan Hpemde",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #9"
+            }
+        }
+    },
+    [585] = {
+        name = "Ram Charge",
+        mobs = {
+            {
+                monster = "Battering Ram",
+                level = "21-23",
+                zone = "La Theine Plateau"
+            },
+            {
+                monster = "Tremor Ram",
+                level = "21-23",
+                zone = "Konschtat Highlands"
+            },
+            {
+                monster = "Hammering Ram",
+                level = "78-82",
+                zone = "Abyssea - La Theine Conflux #08"
+            },
+            {
+                monster = "Mosshorn",
+                level = "80-81",
+                zone = "Caedarva Mire Located at (K-6) up the cliffs."
+            }
+        }
+    },
+    [644] = {
+        name = "Mind Blast",
+        mobs = {
+            {
+                monster = "Soulflayer",
+                level = "79-82",
+                zone = "Caedarva Mire"
+            },
+            {
+                monster = "Soulflayer",
+                level = "82-83",
+                zone = "Arrapago Reef"
+            },
+            {
+                monster = "Pneumaflayer",
+                level = "75-90",
+                zone = "Abyssea - Vunkerl Conflux #04 or #07"
+            }
+        }
+    },
+    [612] = {
+        name = "Actinic Burst",
+        mobs = {
+            {
+                monster = "Eo'ghrah",
+                level = "74-76",
+                zone = "Grand Palace of Hu'Xzoi"
+            },
+            {
+                monster = "Aw'ghrah",
+                level = "78-80",
+                zone = "The Garden of Ru'Hmet"
+            },
+            {
+                monster = "Eschan Ghrah",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #3"
+            }
+        }
+    },
+    [613] = {
+        name = "Reactor Cool",
+        mobs = {
+            {
+                monster = "Eo'zdei",
+                level = "74-76",
+                zone = "Grand Palace of Hu'Xzoi"
+            },
+            {
+                monster = "Aw'zdei",
+                level = "78-80",
+                zone = "The Garden of Ru'Hmet"
+            },
+            {
+                monster = "Eschan Zdei",
+                level = "81-85",
+                zone = "Escha - Ru'Aun #1"
+            }
+        }
+    },
+    [646] = {
+        name = "Magic Hammer",
+        mobs = {
+            {
+                monster = "Poroggo",
+                level = "75-77",
+                zone = "Mamook (G-7)"
+            },
+            {
+                monster = "Poroggo Seducteur",
+                level = "75-90",
+                zone = "Abyssea - La Theine (J-11) Conflux #6"
+            }
+        }
+    },
+    [645] = {
+        name = "Exuviation",
+        mobs = {
+            {
+                monster = "Wamoura",
+                level = "77-80",
+                zone = "Halvung"
+            },
+            {
+                monster = "Wamoura",
+                level = "80-82",
+                zone = "Mount Zhayolm"
+            }
+        }
+    },
+    [615] = {
+        name = "Plasma Charge",
+        mobs = {
+            {
+                monster = "Ul'phuabo",
+                level = "68-71",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Om'phuabo",
+                level = "76",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Eschan Phuabo",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #1"
+            }
+        }
+    },
+    [617] = {
+        name = "Vertical Cleave",
+        mobs = {
+            {
+                monster = "Eo'euvhi",
+                level = "74-76",
+                zone = "Grand Palace of Hu'Xzoi"
+            },
+            {
+                monster = "Aw'euvhi",
+                level = "78-80",
+                zone = "The Garden of Ru'Hmet"
+            },
+            {
+                monster = "Eschan Euvhi",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #12"
+            },
+            {
+                monster = "Thalesek",
+                level = "110",
+                zone = "Central Temenos - Basement II Limbus BF"
+            }
+        }
+    },
+    [656] = {
+        name = "Acrid Stream",
+        mobs = {
+            {
+                monster = "Veld Clionid",
+                level = "75-90",
+                zone = "Abyssea - La Theine Conflux #01"
+            },
+            {
+                monster = "Ley Clionid",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #01"
+            },
+            {
+                monster = "Gully Clionid",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi Conflux #01"
+            },
+            {
+                monster = "Eschan Clionid",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #13"
+            }
+        }
+    },
+    [663] = {
+        name = "Leafstorm",
+        mobs = {
+            {
+                monster = "Walking Tree",
+                level = "25-28",
+                zone = "Jugner Forest"
+            },
+            {
+                monster = "Fraelissa",
+                level = "33-35",
+                zone = "Jugner Forest Timed spawn approximately every hour at (H-10) - (I-10)"
+            },
+            {
+                monster = "Leshy",
+                level = "52-54",
+                zone = "Lufaise Meadows"
+            },
+            {
+                monster = "Defoliate Treant",
+                level = "71-73",
+                zone = "Wajaom Woodlands F-7"
+            },
+            {
+                monster = "Highland Treant",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #07"
+            },
+            {
+                monster = "Rift Treant",
+                level = "80-95",
+                zone = "Abyssea - Attohwa Conflux #05"
+            },
+            {
+                monster = "Knobby Treant",
+                level = "100-102",
+                zone = "Ceizak Battlegrounds"
+            },
+            {
+                monster = "Verdant Treant",
+                level = "100-102",
+                zone = "Yahse Hunting Grounds"
+            }
+        }
+    },
+    [664] = {
+        name = "Regeneration",
+        mobs = {
+            {
+                monster = "Sea Monk",
+                level = "21-29",
+                zone = "Ferry - Mhaura/Selbina"
+            },
+            {
+                monster = "Sea Monk",
+                level = "31-35",
+                zone = "Korroloka Tunnel"
+            },
+            {
+                monster = "Kraken",
+                level = "37-38",
+                zone = "Qufim Island"
+            },
+            {
+                monster = "Flying Manta",
+                level = "55-59",
+                zone = "Labyrinth of Onzozo"
+            },
+            {
+                monster = "Jasconius",
+                level = "80-95",
+                zone = "Abyssea - Vunkerl Conflux #03"
+            }
+        }
+    },
+    [661] = {
+        name = "Animating Wail",
+        mobs = {
+            {
+                monster = "Qutrub",
+                level = "73-74",
+                zone = "Arrapago Reef Ilrusi Atol Staging Point"
+            },
+            {
+                monster = "Lamia Idolater",
+                level = "79-81",
+                zone = "Caedarva Mire Dvucca Isle Staging Point"
+            },
+            {
+                monster = "Bog Body",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi #8"
+            }
+        }
+    },
+    [662] = {
+        name = "Battery Charge",
+        mobs = {
+            {
+                monster = "Magic Urn",
+                level = "34-35",
+                zone = "Lower Delkfutt's Tower L-6, Basement, Requires a Delkfutt Key"
+            },
+            {
+                monster = "Clockwork Pod",
+                level = "41-43",
+                zone = "Fei'Yin"
+            },
+            {
+                monster = "Sentient Carafe",
+                level = "95-99",
+                zone = "Fei'Yin"
+            },
+            {
+                monster = "Sinister Seidel",
+                level = "85-100",
+                zone = "Abyssea - Grauberg #8"
+            }
+        }
+    },
+    [657] = {
+        name = "Blazing Bound",
+        mobs = {
+            {
+                monster = "Gulch Limule",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi #01"
+            },
+            {
+                monster = "Sods Limule",
+                level = "75-90",
+                zone = "Abyssea - Konschtat #01"
+            },
+            {
+                monster = "Gigadaphnia",
+                level = "75-90",
+                zone = "Abyssea - La Theine #01"
+            },
+            {
+                monster = "Arid Limule",
+                level = "85-99",
+                zone = "Abyssea - Altepa #01"
+            },
+            {
+                monster = "Stream Limule",
+                level = "85-99",
+                zone = "Abyssea - Grauberg #01"
+            },
+            {
+                monster = "Crag Limule",
+                level = "85-99",
+                zone = "Abyssea - Uleguerand #01"
+            },
+            {
+                monster = "Eschan Limule",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #4"
+            }
+        }
+    },
+    [659] = {
+        name = "Demoralizing Roar",
+        mobs = {
+            {
+                monster = "Lesser Wivre",
+                level = "45-47",
+                zone = "North Gustaberg (S)"
+            },
+            {
+                monster = "Wivre",
+                level = "68-74",
+                zone = "Grauberg (S)"
+            },
+            {
+                monster = "Wivre",
+                level = "78-83",
+                zone = "Bhaflau Thickets"
+            },
+            {
+                monster = "Gharial",
+                level = "80",
+                zone = "Wajaom Woodlands"
+            },
+            {
+                monster = "Glade Wivre",
+                level = "75-90",
+                zone = "Abyssea - Grauberg Conflux #08"
+            },
+            {
+                monster = "Mesa Wivre",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #05"
+            }
+        }
+    },
+    [665] = {
+        name = "Final Sting",
+        mobs = {
+            {
+                monster = "Maneating Hornet",
+                level = "2-5",
+                zone = "South Gustaberg"
+            },
+            {
+                monster = "Giant Bee",
+                level = "5-8",
+                zone = "West Sarutabaruta"
+            },
+            {
+                monster = "Death Jacket",
+                level = "40-42",
+                zone = "Crawlers' Nest"
+            },
+            {
+                monster = "Belaboring Wasp",
+                level = "100",
+                zone = "Ceizak Battlegrounds"
+            }
+        }
+    },
+    [666] = {
+        name = "Goblin Rush",
+        mobs = {
+            {
+                monster = "Goblins",
+                level = "17-25",
+                zone = "Valkurm Dunes"
+            },
+            {
+                monster = "Goblins",
+                level = "32-47",
+                zone = "Yuhtunga Jungle"
+            },
+            {
+                monster = "Goblin Meatgrinder",
+                level = "75-90",
+                zone = "Abyssea - Grauberg Conflux #03"
+            },
+            {
+                monster = "Goblin Plunderer",
+                level = "75-90",
+                zone = "Abyssea - Grauberg"
+            },
+            {
+                monster = "Goblin Healer",
+                level = "85-90",
+                zone = "Dangruf Wadi"
+            }
+        }
+    },
+    [667] = {
+        name = "Vanity Dive",
+        mobs = {
+            {
+                monster = "Wanderer",
+                level = "22-36",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Wanderer",
+                level = "22-36",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Wanderer",
+                level = "22-36",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Wanderer",
+                level = "49-56",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Idle Wanderer",
+                level = "82-85",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Idle Wanderer",
+                level = "82-85",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Idle Wanderer",
+                level = "82-85",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Idle Wanderer",
+                level = "82-85",
+                zone = "Promyvion - Vahzl"
+            }
+        }
+    },
+    [668] = {
+        name = "Magic Barrier",
+        mobs = {
+            {
+                monster = "Bat Eye",
+                level = "40-42",
+                zone = "Beaucedine Glacier"
+            },
+            {
+                monster = "Evil Eye",
+                level = "45-48",
+                zone = "Xarcabard"
+            },
+            {
+                monster = "Morbid Eye",
+                level = "52-55",
+                zone = "Castle Zvahl Baileys"
+            },
+            {
+                monster = "Deadly Iris",
+                level = "55-56",
+                zone = "Castle Zvahl Keep"
+            },
+            {
+                monster = "Gawper",
+                level = "80-81",
+                zone = "Beaucedine Glacier (S) Area around H9"
+            }
+        }
+    },
+    [669] = {
+        name = "Whirl of Rage",
+        mobs = {
+            {
+                monster = "Poltergeist",
+                level = "18-20",
+                zone = "La Theine Plateau"
+            },
+            {
+                monster = "Poltergeist",
+                level = "18-20",
+                zone = "Konschtat Highlands"
+            },
+            {
+                monster = "Poltergeist",
+                level = "18-20",
+                zone = "Tahrongi Canyon"
+            },
+            {
+                monster = "Boggart",
+                level = "25-27",
+                zone = "Meriphataud Mountains"
+            },
+            {
+                monster = "Ominous Weapon",
+                level = "61-65",
+                zone = "Ro'Maeve"
+            },
+            {
+                monster = "Eschan Weapon",
+                level = "61-69",
+                zone = "Escha - Zi'Tah"
+            }
+        }
+    },
+    [670] = {
+        name = "Benthic Typhoon",
+        mobs = {
+            {
+                monster = "Rock Murex",
+                level = "75-90",
+                zone = "Abyssea - Attohwa Conflux #01"
+            },
+            {
+                monster = "Escarp Murex",
+                level = "75-90",
+                zone = "Abyssea - Misareaux Conflux #03"
+            },
+            {
+                monster = "River Murex",
+                level = "75-90",
+                zone = "Abyssea - Vunkerl Conflux #01"
+            },
+            {
+                monster = "Hillock Murex",
+                level = "Information Needed",
+                zone = "Abyssea - Grauberg Conflux #02"
+            },
+            {
+                monster = "Eschan Murex",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #7"
+            }
+        }
+    },
+    [671] = {
+        name = "Auroral Drape",
+        mobs = {
+            {
+                monster = "Weeper",
+                level = "25-37",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Weeper",
+                level = "25-37",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Weeper",
+                level = "25-37",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Weeper",
+                level = "50-57",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Woeful Weeper",
+                level = "85-89",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Woeful Weeper",
+                level = "85-89",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Woeful Weeper",
+                level = "85-89",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Woeful Weeper",
+                level = "85-89",
+                zone = "Promyvion - Vahzl"
+            }
+        }
+    },
+    [672] = {
+        name = "Osmosis",
+        mobs = {
+            {
+                monster = "Crevice Amoeban",
+                level = "75-90",
+                zone = "Abyssea - Attohwa Conflux #00"
+            },
+            {
+                monster = "Protoamoeban",
+                level = "75-90",
+                zone = "Abyssea - Misareaux Conflux #05"
+            },
+            {
+                monster = "Stream Amoeban",
+                level = "75-90",
+                zone = "Abyssea - Vunkerl Conflux #01"
+            },
+            {
+                monster = "Pond Amoeban",
+                level = "Information Needed",
+                zone = "Abyssea - Grauberg Conflux #01"
+            },
+            {
+                monster = "Eschan Amoeban",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #10"
+            }
+        }
+    },
+    [673] = {
+        name = "Quad. Continuum",
+        mobs = {
+            {
+                monster = "Gorger",
+                level = "29-41",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Gorger",
+                level = "54-60",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Hadal Satiator",
+                level = "Information Needed",
+                zone = "Abyssea - Konschtat Resting nearby with an Azure demilune abyssite"
+            },
+            {
+                monster = "Hadal Mirror",
+                level = "Information Needed",
+                zone = "Abyssea - Konschtat Spawns when Hadal Satiator uses Fission ability"
+            }
+        }
+    },
+    [674] = {
+        name = "Fantod",
+        mobs = {
+            {
+                monster = "Hippogryph",
+                level = "40-42",
+                zone = "Riverne - Site A01"
+            },
+            {
+                monster = "Cloud Hippogryph",
+                level = "45-47",
+                zone = "Riverne - Site A01"
+            },
+            {
+                monster = "Nimbus Hippogryph",
+                level = "49-52",
+                zone = "Riverne - Site B01"
+            },
+            {
+                monster = "Strato Hippogryph",
+                level = "55-57",
+                zone = "Riverne - Site B01"
+            },
+            {
+                monster = "Grauberg Hippogryph",
+                level = "73-75",
+                zone = "Grauberg (S) (G-8)"
+            },
+            {
+                monster = "Quarrelsome Hippogryph",
+                level = "122-124",
+                zone = "Reisenjima"
+            }
+        }
+    },
+    [675] = {
+        name = "Thermal Pulse",
+        mobs = {
+            {
+                monster = "Wamouracampa",
+                level = "73-76",
+                zone = "Halvung"
+            },
+            {
+                monster = "Wamoura Prince",
+                level = "79-81",
+                zone = "Mount Zhayolm"
+            },
+            {
+                monster = "Gullycampa",
+                level = "75-90",
+                zone = "Abyssea - Attohwa Conflux #07"
+            }
+        }
+    },
+    [677] = {
+        name = "Empty Thrash",
+        mobs = {
+            {
+                monster = "Craver",
+                level = "29-41",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Craver",
+                level = "54-60",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Hungerer",
+                level = "Information Needed",
+                zone = "Abyssea - Tahrongi"
+            }
+        }
+    },
+    [678] = {
+        name = "Dream Flower",
+        mobs = {
+            {
+                monster = "Mandragora",
+                level = "3-6",
+                zone = "West Sarutabaruta"
+            },
+            {
+                monster = "Sylvestre",
+                level = "15-18",
+                zone = "Buburimu Peninsula"
+            },
+            {
+                monster = "Hannequet",
+                level = "80-95",
+                zone = "Abyssea - Attohwa"
+            },
+            {
+                monster = "Blanched Mandragora",
+                level = "100",
+                zone = "Ceizak Battlegrounds"
+            },
+            {
+                monster = "Pinetorum",
+                level = "100",
+                zone = "Yahse Hunting Grounds"
+            }
+        }
+    },
+    [679] = {
+        name = "Occultation",
+        mobs = {
+            {
+                monster = "Seether",
+                level = "31-38",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Seether",
+                level = "31-38",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Seether",
+                level = "31-38",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Seether",
+                level = "51-58",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Meditator",
+                level = "~80",
+                zone = "Abyssea - La Theine"
+            },
+            {
+                monster = "Livid Seether",
+                level = "85-89",
+                zone = "Promyvion - Dem"
+            },
+            {
+                monster = "Livid Seether",
+                level = "85-89",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Livid Seether",
+                level = "85-89",
+                zone = "Promyvion - Mea"
+            },
+            {
+                monster = "Livid Seether",
+                level = "85-89",
+                zone = "Promyvion - Vahzl"
+            }
+        }
+    },
+    [680] = {
+        name = "Charged Whisker",
+        mobs = {
+            {
+                monster = "Attohwa Coeurl",
+                level = "37-39",
+                zone = "Attohwa Chasm"
+            },
+            {
+                monster = "Master Coeurl",
+                level = "46-48",
+                zone = "Attohwa Chasm"
+            },
+            {
+                monster = "Lynx",
+                level = "46-48",
+                zone = "Sauromugue Champaign (S)"
+            },
+            {
+                monster = "Lynx",
+                level = "49-51",
+                zone = "Meriphataud Mountains (S)"
+            },
+            {
+                monster = "War Lynx",
+                level = "68-72",
+                zone = "Meriphataud Mountains (S) 12 spawns at K-4 to J-6"
+            },
+            {
+                monster = "Caracal",
+                level = "80-82",
+                zone = "Xarcabard (S) 10 spawns at G-7"
+            }
+        }
+    },
+    [681] = {
+        name = "Winds of Promy.",
+        mobs = {
+            {
+                monster = "Thinker",
+                level = "28-40",
+                zone = "Promyvion - Holla"
+            },
+            {
+                monster = "Cerebrator",
+                level = "38",
+                zone = "Promyvion - Holla Spawns on level 3"
+            },
+            {
+                monster = "Thinker",
+                level = "52-60",
+                zone = "Promyvion - Vahzl"
+            },
+            {
+                monster = "Warder of Dignity",
+                level = "?",
+                zone = "Escha - Ru'Aun Lottery Spawn from Eschan Limules (#4)"
+            }
+        }
+    },
+    [682] = {
+        name = "Delta Thrust",
+        mobs = {
+            {
+                monster = "Peiste",
+                level = "67-71",
+                zone = "Grauberg (S)"
+            },
+            {
+                monster = "Peiste",
+                level = "74-77",
+                zone = "Pashhow Marshlands (S)"
+            },
+            {
+                monster = "Maritime Peiste",
+                level = "75-90",
+                zone = "Abyssea - Misareaux Conflux #07"
+            },
+            {
+                monster = "Gukumatz",
+                level = "75-90",
+                zone = "Abyssea - Misareaux Conflux #07"
+            },
+            {
+                monster = "Mountain Peiste",
+                level = "102-104",
+                zone = "Morimar Basalt Fields Bivouac #5"
+            }
+        }
+    },
+    [683] = {
+        name = "Evryone. Grudge",
+        mobs = {
+            {
+                monster = "Tonberry",
+                level = "45-49",
+                zone = "Yhoator Jungle"
+            },
+            {
+                monster = "Tonberry",
+                level = "51-59",
+                zone = "Temple of Uggalepih"
+            },
+            {
+                monster = "Tonberry",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #08"
+            }
+        }
+    },
+    [684] = {
+        name = "Reaving Wind",
+        mobs = {
+            {
+                monster = "Amphiptere",
+                level = "Information Needed",
+                zone = "Beaucedine Glacier (S)"
+            },
+            {
+                monster = "Greater Amphiptere",
+                level = "83",
+                zone = "Xarcabard (S)"
+            },
+            {
+                monster = "Turul",
+                level = "Information Needed",
+                zone = "Abyssea - Konschtat"
+            }
+        }
+    },
+    [685] = {
+        name = "Barrier Tusk",
+        mobs = {
+            {
+                monster = "Marid",
+                level = "78-79",
+                zone = "Wajaom Woodlands"
+            },
+            {
+                monster = "Marid",
+                level = "78-79",
+                zone = "Bhaflau Thickets"
+            },
+            {
+                monster = "Grand Marid",
+                level = "78-79",
+                zone = "Bhaflau Thickets"
+            },
+            {
+                monster = "Morose Marid",
+                level = "78-82",
+                zone = "Abyssea - Vunkerl Conflux #00"
+            },
+            {
+                monster = "Ayravata",
+                level = "Information Needed",
+                zone = "Abyssea - Vunkerl Conflux #00"
+            },
+            {
+                monster = "Iriz Ima",
+                level = "87-88",
+                zone = "Wajaom Woodlands"
+            }
+        }
+    },
+    [686] = {
+        name = "Mortal Ray",
+        mobs = {
+            {
+                monster = "Taurus",
+                level = "37-38",
+                zone = "Phomiuna Aqueducts"
+            },
+            {
+                monster = "Stegotaur",
+                level = "44-48",
+                zone = "Phomiuna Aqueducts"
+            },
+            {
+                monster = "Stegotaur",
+                level = "47-49",
+                zone = "Sacrarium"
+            },
+            {
+                monster = "Teratotaur",
+                level = "57-59",
+                zone = "Sacrarium"
+            },
+            {
+                monster = "Brontotaur",
+                level = "68-71",
+                zone = "Uleguerand Range"
+            },
+            {
+                monster = "Tyrannotaur",
+                level = "72-75",
+                zone = "Uleguerand Range"
+            },
+            {
+                monster = "Molech",
+                level = "78-81",
+                zone = "Uleguerand Range"
+            },
+            {
+                monster = "Dryptotaur",
+                level = "79-80",
+                zone = "Beaucedine Glacier (S)"
+            }
+        }
+    },
+    [687] = {
+        name = "Water Bomb",
+        mobs = {
+            {
+                monster = "Poroggo",
+                level = "75-77",
+                zone = "Mamook"
+            },
+            {
+                monster = "Poroggo Seducteur",
+                level = "75-90",
+                zone = "Abyssea - La Theine (J-11) Conflux #6"
+            }
+        }
+    },
+    [688] = {
+        name = "Heavy Strike",
+        mobs = {
+            {
+                monster = "Stone Golem",
+                level = "40-42",
+                zone = "Beaucedine Glacier"
+            },
+            {
+                monster = "Ore Golem",
+                level = "43-45",
+                zone = "Fei'Yin"
+            },
+            {
+                monster = "Colossus",
+                level = "56-58",
+                zone = "Fei'Yin"
+            },
+            {
+                monster = "Aura Statue",
+                level = "79-84",
+                zone = "The Shrine of Ru'Avitau (H-9)"
+            },
+            {
+                monster = "Verglas Golem",
+                level = "85-100",
+                zone = "Abyssea - Uleguerand Conflux #07"
+            }
+        }
+    },
+    [689] = {
+        name = "Dark Orb",
+        mobs = {
+            {
+                monster = "Gargouille",
+                level = "77-80",
+                zone = "Beaucedine Glacier (S)"
+            },
+            {
+                monster = "Dire Gargouille",
+                level = "78-82",
+                zone = "Xarcabard (S)"
+            },
+            {
+                monster = "Gruesome Gargouille",
+                level = "75-90",
+                zone = "Abyssea - Vunkerl Conflux #04"
+            },
+            {
+                monster = "Benumbed Vodoriga",
+                level = "75-90",
+                zone = "Abyssea - Uleguerand Conflux #08"
+            },
+            {
+                monster = "Eschan Gargouille",
+                level = "115-119",
+                zone = "Escha - Ru'Aun Only aggressive at night"
+            }
+        }
+    },
+    [690] = {
+        name = "White Wind",
+        mobs = {
+            {
+                monster = "Snaggletooth Peapuk",
+                level = "101-105",
+                zone = "The Boyahda Tree"
+            },
+            {
+                monster = "Waugyl",
+                level = "?",
+                zone = "Abyssea - Altepa"
+            },
+            {
+                monster = "Phantom Puk",
+                level = "?",
+                zone = "Jade Sepulcher"
+            }
+        }
+    },
+    [692] = {
+        name = "Sudden Lunge",
+        mobs = {
+            {
+                monster = "Ladybug",
+                level = "45-47",
+                zone = "East Ronfaure (S)"
+            },
+            {
+                monster = "Goblin's Ladybug",
+                level = "52-54",
+                zone = "East Ronfaure (S)"
+            },
+            {
+                monster = "Biddybug",
+                level = "62-64",
+                zone = "Jugner Forest (S)"
+            },
+            {
+                monster = "Mariehene",
+                level = "71-74",
+                zone = "La Vaule (S)"
+            },
+            {
+                monster = "Nannakola",
+                level = "79-82",
+                zone = "Abyssea - Altepa Conflux #01 or #03"
+            }
+        }
+    },
+    [736] = {
+        name = "Thunderbolt (U)",
+        mobs = {
+            {
+                monster = "Behemoth",
+                level = "80",
+                zone = "Behemoth's Dominion Spawned with Beastly Shank"
+            },
+            {
+                monster = "King Behemoth",
+                level = "85",
+                zone = "Behemoth's Dominion Spawned with Savory Shank"
+            },
+            {
+                monster = "Kholomodumo",
+                level = "Information Needed",
+                zone = "Jugner Forest (S) Voidwatch Crimson Abyssite III"
+            },
+            {
+                monster = "Awoken Dendainsonne",
+                level = "Information Needed",
+                zone = "Western Altepa Desert (I-6) Peculiar Foes IX (M)"
+            }
+        }
+    },
+    [737] = {
+        name = "Harden Shell (U)",
+        mobs = {
+            {
+                monster = "Thalassinon",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi Conflux #05"
+            },
+            {
+                monster = "Genbu",
+                level = "88-90",
+                zone = "Ru'Aun Gardens Spawned with Gem of the North and Winterstone"
+            },
+            {
+                monster = "Pygmytoise",
+                level = "103-105",
+                zone = "Gustav Tunnel"
+            }
+        }
+    },
+    [693] = {
+        name = "Quadrastrike",
+        mobs = {
+            {
+                monster = "Kindred Vanguard",
+                level = "75-95",
+                zone = "Dynamis - Xarcabard"
+            },
+            {
+                monster = "Kindred Vanguard",
+                level = "75-95",
+                zone = "Dynamis - Tavnazia"
+            }
+        }
+    },
+    [694] = {
+        name = "Vapor Spray",
+        mobs = {
+            {
+                monster = "Ul'phuabo",
+                level = "68-71",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Om'phuabo",
+                level = "76",
+                zone = "Al'Taieu"
+            },
+            {
+                monster = "Eschan Phuabo",
+                level = "115-119",
+                zone = "Escha - Ru'Aun #1"
+            }
+        }
+    },
+    [738] = {
+        name = "Absolute Terror (U)",
+        mobs = {
+            {
+                monster = "Naul",
+                level = "75-90",
+                zone = "Abyssea - Tahrongi Conflux #03"
+            },
+            {
+                monster = "Fafnir",
+                level = "88-90",
+                zone = "Dragon's Aery Spawned with Honey Wine"
+            },
+            {
+                monster = "Nidhogg",
+                level = "88-90",
+                zone = "Dragon's Aery Spawned with Sweet Tea"
+            }
+        }
+    },
+    [695] = {
+        name = "Thunder Breath",
+        mobs = {
+            {
+                monster = "Balaur",
+                level = "Information Needed",
+                zone = "Abyssea - Konschtat Conflux #07. Timed Spawn NM (10-15 minutes)"
+            },
+            {
+                monster = "Minaruja",
+                level = "Information Needed",
+                zone = "Abyssea - Grauberg Conflux #03. Popped NM"
+            },
+            {
+                monster = "Kindred's Vouivre",
+                level = "77~79, 89~91",
+                zone = "Dynamis - Xarcabard Pet of Kindred Beastmaster. Will despawn if the master is killed. If killed, will be resummoned by the master shortly afterwards"
+            },
+            {
+                monster = "Kindred's Vouivre",
+                level = "94~96",
+                zone = "Dynamis - Tavnazia Pet of Kindred Beastmaster. Will despawn if the master is killed. If killed, will be resummoned by the master shortly afterwards"
+            }
+        }
+    },
+    [739] = {
+        name = "Gates of Hades (U)",
+        mobs = {
+            {
+                monster = "Cerberus",
+                level = "Information Needed",
+                zone = "Nyzul Isle Possible spawn on floors 60, 80, 100"
+            },
+            {
+                monster = "Sarameya",
+                level = "Information Needed",
+                zone = "Mount Zhayolm Zeni NM"
+            },
+            {
+                monster = "Black Shuck",
+                level = "Information Needed",
+                zone = "Lebros Cavern Captain Rank Assault - Better Than One"
+            },
+            {
+                monster = "Orthrus",
+                level = "Information Needed",
+                zone = "Abyssea - Altepa Spawned with Steaming Cerberus Tongue"
+            },
+            {
+                monster = "Mired Cerberus",
+                level = "Information Needed",
+                zone = "Hall of Ki First wave guaranteed, possible spawn on 3rd wave or higher"
+            },
+            {
+                monster = "Mired Orthrus",
+                level = "Information Needed",
+                zone = "Hall of Ki Possible spawn after first wave"
+            },
+            {
+                monster = "Awoken Freke",
+                level = "Information Needed",
+                zone = "Batallia Downs Peculiar Foes X Monthly RoE"
+            }
+        }
+    },
+    [740] = {
+        name = "Tourbillion (U)",
+        mobs = {
+            {
+                monster = "Cerberus",
+                level = "Information Needed",
+                zone = "Nyzul Isle Possible spawn on floors 60, 80, 100"
+            },
+            {
+                monster = "Sarameya",
+                level = "Information Needed",
+                zone = "Mount Zhayolm Zeni NM"
+            },
+            {
+                monster = "Black Shuck",
+                level = "Information Needed",
+                zone = "Lebros Cavern Captain Rank Assault - Better Than One"
+            },
+            {
+                monster = "Orthrus",
+                level = "Information Needed",
+                zone = "Abyssea - Altepa Spawned with Steaming Cerberus Tongue"
+            },
+            {
+                monster = "Mired Cerberus",
+                level = "Information Needed",
+                zone = "Hall of Ki First wave guaranteed, possible spawn on 3rd wave or higher"
+            },
+            {
+                monster = "Mired Orthrus",
+                level = "Information Needed",
+                zone = "Hall of Ki Possible spawn after first wave"
+            },
+            {
+                monster = "Awoken Freke",
+                level = "Information Needed",
+                zone = "Batallia Downs Peculiar Foes X Monthly RoE"
+            }
+        }
+    },
+    [696] = {
+        name = "O. Counterstance",
+        mobs = {
+            {
+                monster = "Orc",
+                level = "77-79",
+                zone = "Vunkerl Inlet (S)"
+            },
+            {
+                monster = "Orc",
+                level = "76-79",
+                zone = "Jugner Forest (S)"
+            },
+            {
+                monster = "Orc",
+                level = "77-79",
+                zone = "La Vaule (S)"
+            },
+            {
+                monster = "Orc",
+                level = "77-79",
+                zone = "Castle Zvahl Baileys (S)"
+            }
+        }
+    },
+    [697] = {
+        name = "Amorphic Spikes",
+        mobs = {
+            {
+                monster = "Black Pudding",
+                level = "73-75",
+                zone = "Halvung"
+            },
+            {
+                monster = "Ebony Pudding",
+                level = "75-80",
+                zone = "Mount Zhayolm"
+            },
+            {
+                monster = "Pitchy Pudding",
+                level = "77-79",
+                zone = "Beadeaux (S)"
+            },
+            {
+                monster = "Licorice",
+                level = "75-90",
+                zone = "Abyssea - Konschtat Conflux #06"
+            },
+            {
+                monster = "Awoken Mokkuralfi",
+                level = "Information Needed",
+                zone = "Mount Zhayolm Peculiar Foes II RoE"
+            }
+        }
+    },
+    [741] = {
+        name = "Pyric Bulwark (U)",
+        mobs = {
+            {
+                monster = "Ningishzida",
+                level = "Information Needed",
+                zone = "Abyssea - Grauberg Conflux #08"
+            },
+            {
+                monster = "Orochi",
+                level = "Information Needed",
+                zone = "Mamool Ja Training Grounds Captain Rank Assault - The Susanoo Shuffle"
+            },
+            {
+                monster = "Hydra",
+                level = "Information Needed",
+                zone = "Nyzul Isle Investigation Possible spawn on floors 60, 80, 100"
+            },
+            {
+                monster = "Tinnin",
+                level = "Information Needed",
+                zone = "Wajaom Woodlands Tier IV ZNM"
+            }
+        }
+    },
+    [698] = {
+        name = "Wind Breath",
+        mobs = {
+            {
+                monster = "Shadow Dragon",
+                level = "52-53",
+                zone = "Xarcabard"
+            },
+            {
+                monster = "Vanguard Dragon",
+                level = "Information Needed",
+                zone = "Dynamis - Xarcabard"
+            },
+            {
+                monster = "Rift Dragon",
+                level = "75-90",
+                zone = "Abyssea - Attohwa Conflux #02"
+            }
+        }
+    },
+    [699] = {
+        name = "Barbed Crescent",
+        mobs = {
+            {
+                monster = "Fomor",
+                level = "41-48",
+                zone = "Phomiuna Aqueducts"
+            },
+            {
+                monster = "Ephramadian Shade",
+                level = "75-77",
+                zone = "Caedarva Mire"
+            },
+            {
+                monster = "Fallen Volunteer",
+                level = "72-74",
+                zone = "Arrapago Reef F-9 Map 3"
+            },
+            {
+                monster = "Fallen Imperial Trooper",
+                level = "72-74",
+                zone = "Arrapago Reef F-9 Map 3"
+            },
+            {
+                monster = "Fallen Imperial Wizard",
+                level = "72-74",
+                zone = "Arrapago Reef F-9 Map 3"
+            }
+        }
+    },
+    [742] = {
+        name = "Bilgestorm (U)",
+        mobs = {
+            {
+                monster = "King Goldemar",
+                level = "Information Needed",
+                zone = "Periqia The Price is Right (Assault)"
+            },
+            {
+                monster = "Dvalinn",
+                level = "Information Needed",
+                zone = "Abyssea - Vunkerl Conflux #07 - Popped NM"
+            },
+            {
+                monster = "Durinn",
+                level = "Information Needed",
+                zone = "Abyssea - Vunkerl Conflux #07 - Popped NM"
+            },
+            {
+                monster = "Soaring Dvergr",
+                level = "Information Needed",
+                zone = "Legion Hall of Im, Wave1 & 3+"
+            },
+            {
+                monster = "Soaring Dweorg",
+                level = "Information Needed",
+                zone = "Legion Hall of Im, Wave 2+"
+            }
+        }
+    },
+    [743] = {
+        name = "Bloodrake (U)",
+        mobs = {
+            {
+                monster = "Varkolak",
+                level = "89",
+                zone = "Castle Zvahl Keep (S) Behind hidden doors at G-10, H-6, and J-9"
+            },
+            {
+                monster = "Oupire",
+                level = "88",
+                zone = "Alzadaal Undersea Ruins Timed Spawn 4-5 hours"
+            },
+            {
+                monster = "Count Dracula",
+                level = "80-82",
+                zone = "Leujaoam Sanctum Captain Rank Assault - Bloody Rondo"
+            },
+            {
+                monster = "Wurdalak",
+                level = "97-99",
+                zone = "Bostaunieux Oubliette J-7/K-7 Map 2"
+            },
+            {
+                monster = "Lord Asag",
+                level = "100",
+                zone = "Meriphataud Mountains Voidwatch (Jade III) - D-5, E-4, H-11"
+            }
+        }
+    },
+    [700] = {
+        name = "Nat. Meditation",
+        mobs = {
+            {
+                monster = "Calfcleaving Chapuli",
+                level = "Information Needed",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Fernfelling Chapuli",
+                level = "Information Needed",
+                zone = "Ceizak Battlegrounds"
+            },
+            {
+                monster = "Burrowing Chapuli",
+                level = "Information Needed",
+                zone = "Sih Gates"
+            },
+            {
+                monster = "Cthonic Chapuli",
+                level = "Information Needed",
+                zone = "Moh Gates"
+            },
+            {
+                monster = "Agitated Chapuli",
+                level = "122~124",
+                zone = "Reisenjima"
+            }
+        }
+    },
+    [706] = {
+        name = "Glutinous Dart",
+        mobs = {
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Foret de Hennetiel"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Dho Gates"
+            },
+            {
+                monster = "Velkk",
+                level = "Information Needed",
+                zone = "Marjami Ravine"
+            }
+        }
+    },
+    [704] = {
+        name = "Paralyzing Triad",
+        mobs = {
+            {
+                monster = "Umbril",
+                level = "100+",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Appetent Umbril",
+                level = "100+",
+                zone = "Ceizak Battlegrounds"
+            },
+            {
+                monster = "Phantasmagoric Umbril",
+                level = "104",
+                zone = "Foret de Hennetiel"
+            },
+            {
+                monster = "Snowcap Umbril",
+                level = "103-106",
+                zone = "Morimar Basalt Fields"
+            },
+            {
+                monster = "Shadowscourge Umbril",
+                level = "106+",
+                zone = "Yorcia Weald"
+            },
+            {
+                monster = "Livid Umbril",
+                level = "103-106",
+                zone = "Cirdas Caverns"
+            },
+            {
+                monster = "Firth Umbril",
+                level = "114+",
+                zone = "Dho Gates"
+            }
+        }
+    },
+    [701] = {
+        name = "Tem. Upheaval",
+        mobs = {
+            {
+                monster = "Twitherym Infestation",
+                level = "100-101",
+                zone = "Yahse Hunting Grounds"
+            },
+            {
+                monster = "Careening Twitherym",
+                level = "100-101",
+                zone = "Ceizak Battlegrounds (I-10)"
+            },
+            {
+                monster = "Malodorous Twitherym",
+                level = "Information Needed",
+                zone = "Sih Gates"
+            },
+            {
+                monster = "Repugnant Twitherym",
+                level = "?",
+                zone = "Moh Gates"
+            },
+            {
+                monster = "Frosty Twitherym",
+                level = "Information Needed",
+                zone = "Morimar Basalt Fields"
+            },
+            {
+                monster = "Leafdancer Twith",
+                level = "?",
+                zone = "Dho Gates"
+            },
+            {
+                monster = "Whispering Twitherym",
+                level = "Information Needed",
+                zone = "Marjami Ravine"
+            },
+            {
+                monster = "Twitherym",
+                level = "?",
+                zone = "Yorcia Weald"
+            },
+            {
+                monster = "Restless Twitherym",
+                level = "?",
+                zone = "Outer Ra'Kaznar (G-6)"
+            }
+        }
+    },
+    [703] = {
+        name = "Embalming Earth",
+        mobs = {
+            {
+                monster = "Disturbed Matamata",
+                level = "Information Needed",
+                zone = "Moh Gates"
+            },
+            {
+                monster = "Sinewy Matamata",
+                level = "Information Needed",
+                zone = "Morimar Basalt Fields Bivouac #3"
+            }
+        }
+    },
+    [705] = {
+        name = "Foul Waters",
+        mobs = {
+            {
+                monster = "Flatus Acuex",
+                level = "103-105",
+                zone = "Cirdas Caverns"
+            },
+            {
+                monster = "Astringent Acuex",
+                level = "114-116",
+                zone = "Outer Ra'Kaznar"
+            },
+            {
+                monster = "Wheezing Acuex",
+                level = "124-126",
+                zone = "Woh Gates"
+            }
+        }
+    },
+    [702] = {
+        name = "Rending Deluge",
+        mobs = {
+            {
+                monster = "Hoary Craklaw",
+                level = "103-104",
+                zone = "Foret de Hennetiel"
+            },
+            {
+                monster = "Craklaw",
+                level = "Information Needed",
+                zone = "Sih Gates"
+            }
+        }
+    },
+    
 }
