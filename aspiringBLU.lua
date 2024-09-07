@@ -40,7 +40,6 @@ local bit = require("bit")
 
 res = require('resources')
 chat = require('chat')
-local zonesDB = require('zones')
 local spellsDB = require('spells')
 
 
@@ -120,19 +119,19 @@ function handle_target_blu_command()
     end
 end
 
-function findMobsByZone(zoneName)
+function findMobsByZone(zone_id)
     local results = {}
     for key, spell in pairs(spellsDB) do
         local spellFound = false
         local mobResults = {}
-        for _, mob in ipairs(spell.mobs) do
-            if mob.zone == zoneName then
+        for _, mob in ipairs(spell.learned_from) do
+            if string.find(mob.zone, zone_id) then
                 table.insert(mobResults, mob)
                 spellFound = true
             end
         end
         if spellFound then
-            table.insert(results, { id = key, spellName = spell.name, mobs = mobResults})
+            table.insert(results, { id = key, spellName = spell.en, mobs = mobResults})
         end
     end
     if #results == 0 then
@@ -206,39 +205,39 @@ end
 
 function update_area_info()
     local zone_id = res.zones[windower.ffxi.get_info().zone].id
-    local zone = zonesDB[zone_id]
+    local zone_spells = findMobsByZone(zone_id)
 
-    if zone then
-        local zone_spells = findMobsByZone(zone.name)
-        if zone_spells then 
-            local total_count = 0;
-            local learned_count = 0;
-            for i, spell in ipairs(zone_spells) do
-                total_count = total_count + 1
-                if windower.ffxi.get_spells()[spell.id] then
-                    learned_count = learned_count + 1
-                else
-                    local mob_list = ""
-                    for i, mob in ipairs(spell.mobs) do
-                        mob_list = mob_list .. mob.monster .. " (Level: " .. mob.level .. "), "
-                    end
-                    -- Remove the trailing comma and space
-                    mob_list = mob_list:sub(1, -3)
-
-                    windower.add_to_chat(123, _addon.prefix .. spell.spellName .. " can be learned from: " .. mob_list)
-                end
-            end
-            if total_count == learned_count then
-                windower.add_to_chat(123, _addon.prefix .. "All spells in this zone have been learned.")
+    if zone_spells then 
+        local total_count = 0;
+        local learned_count = 0;
+        for i, spell in ipairs(zone_spells) do
+            total_count = total_count + 1
+            if windower.ffxi.get_spells()[spell.id] then
+                learned_count = learned_count + 1
             else
-                windower.play_sound(windower.addon_path..'sounds/BlueMagicAvailable.wav')
-                windower.add_to_chat(123, _addon.prefix .. "You have learned " .. learned_count .. " out of " .. total_count .. " spells in this zone.")
+                local mob_list = ""
+                for i, mob in ipairs(spell.mobs) do
+                    mob_list = mob_list .. mob.monster .. " (Level: " .. mob.level .. ")"
+                    if mob.legion then
+                        mob_list = mob_list .. " [Legion],"
+                    else 
+                        mob_list = mob_list .. ", "
+                    end
+                end
+                -- Remove the trailing comma and space
+                mob_list = mob_list:sub(1, -3)
+
+                windower.add_to_chat(123, _addon.prefix .. spell.spellName .. " can be learned from: " .. mob_list)
             end
+        end
+        if total_count == learned_count then
+            windower.add_to_chat(123, _addon.prefix .. "All spells in this zone have been learned.")
         else
-            windower.add_to_chat(123, _addon.prefix .. "No spells found in this zone.")
+            windower.play_sound(windower.addon_path..'sounds/BlueMagicAvailable.wav')
+            windower.add_to_chat(123, _addon.prefix .. "You have learned " .. learned_count .. " out of " .. total_count .. " spells in this zone.")
         end
     else
-        windower.add_to_chat(123, _addon.prefix ..  "Zone ID " .. zone_id .. " not found in data.lua")
+        windower.add_to_chat(123, _addon.prefix .. "No spells found in this zone.")
     end
 end
 

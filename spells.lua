@@ -1,5868 +1,9687 @@
 return {
-    [549] = {
-        name = "Pollen",
-        mobs = {
-            {
-                monster = "Bumblebee",
-                level = "1",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Bumblebee",
-                level = "1",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Huge Hornet",
-                level = "1",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Huge Hornet",
-                level = "1",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Giddeus Bee",
-                level = "2-5",
-                zone = "Giddeus"
-            },
-            {
-                monster = "Maneating Hornet",
-                level = "2-5",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Maneating Hornet",
-                level = "2-6",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Giant Bee",
-                level = "5-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Belaboring Wasp",
-                level = "100",
-                zone = "Ceizak Battlegrounds"
-            }
-        }
-    },
-    [577] = {
-        name = "Foot Kick",
-        mobs = {
-            {
-                monster = "Wild Rabbit",
-                level = "1",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Wild Rabbit",
-                level = "1",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Forest Hare",
-                level = "1-5",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Forest Hare",
-                level = "1-5",
-                zone = "West Ronfaure"
-            },
-            -- Other entries...
-        }
-    },
-    [524] = {
-        name = "Sandspin",
-        mobs = {
-            {
-                monster = "Tunnel Worm",
-                level = "1",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Tunnel Worm",
-                level = "1",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Tunnel Worm",
-                level = "1-3",
-                zone = "Zeruhn Mines"
-            },
-            {
-                monster = "Carrion Worm",
-                level = "1-5",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Carrion Worm",
-                level = "1-5",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Carrion Worm",
-                level = "1-5",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Carrion Worm",
-                level = "2-5",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Stone Eater",
-                level = "2-5",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Stone Eater",
-                level = "2-5",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Stone Eater",
-                level = "3-5",
-                zone = "Dangruf Wadi"
-            },
-            {
-                monster = "Dirt Eater",
-                level = "3-5",
-                zone = "Giddeus"
-            },
-            {
-                monster = "Stone Eater",
-                level = "5-7",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Rock Eater",
-                level = "7-11",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Rock Eater",
-                level = "7-11",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Giant Grub",
-                level = "9-12",
-                zone = "Dangruf Wadi"
-            },
-            {
-                monster = "Earth Eater",
-                level = "10-12",
-                zone = "Giddeus"
-            },
-            {
-                monster = "Crepuscular Worm",
-                level = "103-105",
-                zone = "Cirdas Caverns"
-            }
-        }
-    },
-    [597] = {
-        name = "Sprout Smack",
-        mobs = {
-            {
-                monster = "Walking Sapling",
-                level = "3-7",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Walking Sapling",
-                level = "3-7",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Strolling Sapling",
-                level = "7-10",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Strolling Sapling",
-                level = "7-10",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Strolling Sapling",
-                level = "7-10",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Stalking Sapling",
-                level = "18-21",
-                zone = "Batallia Downs"
-            },
-            {
-                monster = "Treant Sapling",
-                level = "66-68",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Trotting Sapling",
-                level = "74-84",
-                zone = "Abyssea - Konschtat"
-            }
-        }
-    },
-    [603] = {
-        name = "Wild Oats",
-        mobs = {
-            {
-                monster = "Tiny Mandragora",
-                level = "1",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Tiny Mandragora",
-                level = "1",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Mandragora",
-                level = "3-5",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Mandragora",
-                level = "3-6",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Pygmaioi",
-                level = "11-15",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Sylvestre",
-                level = "15-18",
-                zone = "Buburimu Peninsula"
-            },
-            {
-                monster = "Hannequet",
-                level = "80-95",
-                zone = "Abyssea - Attohwa"
-            },
-            {
-                monster = "Blanched Mandragora",
-                level = "100",
-                zone = "Ceizak Battlegrounds"
-            }
-        }
-    },
-    [551] = {
-        name = "Power Attack",
-        mobs = {
-            {
-                monster = "Scarab Beetle",
-                level = "3-6",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Copper Beetle",
-                level = "9-12",
-                zone = "Palborough Mines"
-            },
-            {
-                monster = "Beady Beetle",
-                level = "11-16",
-                zone = "Outer Horutoto Ruins"
-            },
-            {
-                monster = "Beady Beetle",
-                level = "15-18",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Stag Beetle",
-                level = "20-23",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Stag Beetle",
-                level = "20-23",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Stag Beetle",
-                level = "20-23",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Canopycrusher Beetle",
-                level = "100-101",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [547] = {
-        name = "Cocoon",
-        mobs = {
-            {
-                monster = "Crawler",
-                level = "3-8",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Crawler",
-                level = "3-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Canyon Crawler",
-                level = "11-13",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Carnivorous Crawler",
-                level = "20-23",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Worker Crawler",
-                level = "40-44",
-                zone = "Crawlers' Nest"
-            },
-            {
-                monster = "Eschan Crawler",
-                level = "52-59",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "Conflagrant Eruca",
-                level = "101-102",
-                zone = "Moh Gates"
-            }
-        }
-    },
-    [517] = {
-        name = "Metallic Body",
-        mobs = {
-            {
-                monster = "River Crab",
-                level = "1-8",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "River Crab",
-                level = "1-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "River Crab",
-                level = "2-6",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "River Crab",
-                level = "2-4",
-                zone = "Zeruhn Mines"
-            },
-            {
-                monster = "River Crab",
-                level = "3-8",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "River Crab",
-                level = "5-6",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Perfidious Crab",
-                level = "102-103",
-                zone = "Foret de Hennetiel"
-            }
-        }
-    },
-    [599] = {
-        name = "Queasyshroom",
-        mobs = {
-            {
-                monster = "Forest Funguar",
-                level = "3-6",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Toadstool",
-                level = "4-6",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Cave Funguar",
-                level = "9-11",
-                zone = "Palborough Mines"
-            },
-            {
-                monster = "Grass Funguar",
-                level = "11-13",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Poison Funguar",
-                level = "14-16",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Jugner Funguar",
-                level = "16-18",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Poison Funguar",
-                level = "16-19",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Pallid Funguar",
-                level = "102-104",
-                zone = "Cirdas Caverns"
-            },
-            {
-                monster = "Foreboding Funguar",
-                level = "102-104",
-                zone = "Cirdas Caverns"
-            }
-        }
-    },
-    [620] = {
-        name = "Battle Dance",
-        mobs = {
-            {
-                monster = "Orcs",
-                level = "3-8",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Orcs",
-                level = "3-8",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Orcs",
-                level = "3-9",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Orcs",
-                level = "8-10",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Orcs",
-                level = "8-16",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Orcs",
-                level = "11-15",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Orcs",
-                level = "11-17",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Orcs",
-                level = "62-64",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Orcs",
-                level = "76-79",
-                zone = "Jugner Forest (S)"
-            },
-            {
-                monster = "Orcs",
-                level = "77-83",
-                zone = "La Vaule (S)"
-            }
-        }
-    },
-    [638] = {
-        name = "Feather Storm",
-        mobs = {
-            {
-                monster = "Yagudos",
-                level = "3-8",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Yagudos",
-                level = "3-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Yagudos",
-                level = "3-10",
-                zone = "Giddeus"
-            },
-            {
-                monster = "Yagudos",
-                level = "8-16",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Yagudos",
-                level = "21-23",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Yagudos",
-                level = "61-64",
-                zone = "West Sarutabaruta (S)"
-            },
-            {
-                monster = "Yagudos",
-                level = "76-78",
-                zone = "Meriphataud Mountains (S)"
-            },
-            {
-                monster = "Yagudos",
-                level = "77-82",
-                zone = "Castle Oztroja (S)"
-            }
-        }
-    },
-    [623] = {
-        name = "Head Butt",
-        mobs = {
-            {
-                monster = "Quadavs",
-                level = "3-8",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Quadavs",
-                level = "3-8",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Quadavs",
-                level = "3-18",
-                zone = "Palborough Mines"
-            },
-            {
-                monster = "Quadavs",
-                level = "8-16",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Quadavs",
-                level = "3-8",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Quadavs",
-                level = "28-32",
-                zone = "Rolanberry Fields"
-            },
-            {
-                monster = "Quadavs",
-                level = "59-63",
-                zone = "North Gustaberg (S)"
-            },
-            {
-                monster = "Quadavs",
-                level = "71-78",
-                zone = "Pashhow Marshlands (S)"
-            }
-        }
-    },
-    [638] = {
-        name = "Healing Breeze",
-        mobs = {
-            {
-                monster = "Wild Dhalmel",
-                level = "14-16",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Bull Dhalmel",
-                level = "20-23",
-                zone = "Buburimu Peninsula"
-            },
-            {
-                monster = "Marine Dhalmel",
-                level = "33-37",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Savanna Dhalmel",
-                level = "35-37",
-                zone = "West Sarutabaruta (S)"
-            },
-            {
-                monster = "Desert Dhalmel",
-                level = "39-44",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Desert Dhalmel",
-                level = "44-48",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Nandi",
-                level = "48-49",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Eschan Dhalmel",
-                level = "60-68",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "Catoblepas",
-                level = "76-80",
-                zone = "Bibiki Bay"
-            }
-        }
-    },
-    [584] = {
-        name = "Sheep Song",
-        mobs = {
-            {
-                monster = "Ornery Sheep",
-                level = "5-8",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Ornery Sheep",
-                level = "5-8",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Wild Sheep",
-                level = "5-8",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Wild Sheep",
-                level = "5-8",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Mad Sheep",
-                level = "11-13",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Mad Sheep",
-                level = "11-13",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Brutal Sheep",
-                level = "18-21",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Brutal Sheep",
-                level = "20-23",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Charging Sheep",
-                level = "20-23",
-                zone = "Beadeaux"
-            },
-            {
-                monster = "Tavnazian Sheep",
-                level = "33-37",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Tavnazian Sheep",
-                level = "33-37",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Broo",
-                level = "39-41",
-                zone = "Beadeaux"
-            },
-            {
-                monster = "Wild Karakul",
-                level = "68-70",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Fluffy Sheep",
-                level = "100-101",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Ulbukan Sheep",
-                level = "100-101",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [567] = {
-        name = "Helldive",
-        mobs = {
-            {
-                monster = "Carrion Crow",
-                level = "2-5",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Carrion Crow",
-                level = "2-6",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Vulture",
-                level = "2-6",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Vulture",
-                level = "2-6",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Akbaba",
-                level = "9-13",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Jubjub",
-                level = "15-18",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Screamer",
-                level = "15-18",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Zu",
-                level = "20-23",
-                zone = "Buburimu Peninsula"
-            },
-            {
-                monster = "Seaboard Vulture",
-                level = "83-84",
-                zone = "Misareaux Coast"
-            }
-        }
-    },
-    [544] = {
-        name = "Cursed Sphere",
-        mobs = {
-            {
-                monster = "Gadfly",
-                level = "18-21",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Crane Fly",
-                level = "18-21",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "May Fly",
-                level = "22-26",
-                zone = "Batallia Downs"
-            },
-            {
-                monster = "Sadfly",
-                level = "27-30",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Gallinipper",
-                level = "32-35",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Gallinipper",
-                level = "36-39",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Ogrefly",
-                level = "44-47",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Ogrefly",
-                level = "41-44",
-                zone = "The Sanctuary of Zi'Tah"
-            },
-            {
-                monster = "Hawker",
-                level = "44-48",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Hawker",
-                level = "45-48",
-                zone = "Gustav Tunnel"
-            },
-            {
-                monster = "Hornfly",
-                level = "50-53",
-                zone = "Crawlers' Nest"
-            },
-            {
-                monster = "Dragonfly",
-                level = "55-58",
-                zone = "Crawlers' Nest"
-            },
-            {
-                monster = "Monarch Ogrefly",
-                level = "65-67",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Skimmer",
-                level = "72-74",
-                zone = "The Boyahda Tree"
-            },
-            {
-                monster = "Darter",
-                level = "75-78",
-                zone = "The Boyahda Tree"
-            },
-            {
-                monster = "Assassin Fly",
-                level = "72-74",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Darter",
-                level = "77-79",
-                zone = "Dragon's Aery"
-            },
-            {
-                monster = "Spongilla Fly",
-                level = "78-79",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Downy Emerald",
-                level = "100-101",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Broad Scarlet",
-                level = "100-101",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [618] = {
-        name = "Blastbomb",
-        mobs = {
-            {
-                monster = "Orcish Stonelauncher",
-                level = "8-10",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Orcish Wallbreacher",
-                level = "15-16",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Orcish Barricader",
-                level = "17-18",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Orcish Flamethrower",
-                level = "16-18",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Orcish Panzer",
-                level = "20-21",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Orcish Stonelauncher",
-                level = "37-40",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Orcish Firebelcher",
-                level = "39-42",
-                zone = "Davoi"
-            },
-            {
-                monster = "Orcish Stonelauncher",
-                level = "43-46",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Orcish Firebelcher",
-                level = "81-83",
-                zone = "La Vaule (S)"
-            }
-        }
-    },
-    [529] = {
-        name = "Bludgeon",
-        mobs = {
-            {
-                monster = "Two of Batons (Monster)",
-                level = "1-5",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Three of Batons (Monster)",
-                level = "5-9",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Four of Batons (Monster)",
-                level = "10-14",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Five of Batons (Monster)",
-                level = "15-19",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Six of Batons (Monster)",
-                level = "20-24",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Ten of Batons (Monster)",
-                level = "40-44",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "Ten of Swords (Monster)",
-                level = "40-44",
-                zone = "Outer Horutoto Ruins (F-11) West Sarutabaruta entrance"
-            },
-            {
-                monster = "King of Batons (Monster)",
-                level = "?",
-                zone = "Balga's Dais KSNM 30 Royal Ramble"
-            },
-            {
-                monster = "King of Coins (Monster)",
-                level = "?",
-                zone = "Balga's Dais KSNM 30 Royal Ramble"
-            },
-            {
-                monster = "King of Cups (Monster)",
-                level = "?",
-                zone = "Balga's Dais KSNM 30 Royal Ramble"
-            },
-            {
-                monster = "King of Swords (Monster)",
-                level = "?",
-                zone = "Balga's Dais KSNM 30 Royal Ramble"
-            }
-        }
-    },
-    [570] = {
-        name = "Blood Drain",
-        mobs = {
-            {
-                monster = "Mouse Bat",
-                level = "2-4",
-                zone = "Zeruhn Mines"
-            },
-            {
-                monster = "Fledermaus",
-                level = "3-5",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Fledermaus",
-                level = "3-5",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Mouse Bat",
-                level = "3-6",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Mouse Bat",
-                level = "3-6",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Mouse Bat",
-                level = "3-6",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Cheiroptera",
-                level = "3-6",
-                zone = "Ghelsba Outpost"
-            },
-            {
-                monster = "Blade Bat",
-                level = "4-6",
-                zone = "Inner Horutoto Ruins"
-            },
-            {
-                monster = "Blade Bat",
-                level = "4-7",
-                zone = "Outer Horutoto Ruins"
-            },
-            {
-                monster = "Blade Bat",
-                level = "4-7",
-                zone = "Ranguemont Pass"
-            },
-            {
-                monster = "Acro Bat",
-                level = "8-10",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Cheiroptera",
-                level = "8-10",
-                zone = "Fort Ghelsba"
-            },
-            {
-                monster = "Poison Bat",
-                level = "8-11",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Grave Bat",
-                level = "11-13",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Black Bat",
-                level = "15-18",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Black Bat",
-                level = "15-18",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Stealth Bat",
-                level = "15-18",
-                zone = "Yughott Grotto"
-            },
-            {
-                monster = "Specter Bat",
-                level = "15-20",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Tomb Bat",
-                level = "17-19",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Battle Bat",
-                level = "17-20",
-                zone = "Inner Horutoto Ruins"
-            },
-            {
-                monster = "Hognosed Bat",
-                level = "17-20",
-                zone = "Ordelle's Caves"
-            },
-            {
-                monster = "Plague Bats",
-                level = "17-20",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Star Bat",
-                level = "17-20",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Giant Bat",
-                level = "20-22",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Combat",
-                level = "20-23",
-                zone = "Outer Horutoto Ruins"
-            },
-            {
-                monster = "Combat",
-                level = "20-23",
-                zone = "Maze of Shakhrami"
-            },
-            {
-                monster = "Midnight Wings",
-                level = "20-23",
-                zone = "Rolanberry Fields"
-            },
-            {
-                monster = "Midnight Wings",
-                level = "20-23",
-                zone = "Sauromugue Champaign"
-            },
-            {
-                monster = "Moon Bat",
-                level = "23-26",
-                zone = "Rolanberry Fields"
-            },
-            {
-                monster = "Duskbringer Bat",
-                level = "100-102",
-                zone = "Rala Waterways (F-7) Entrance from Eastern Adoulin"
-            }
-        }
-    },
-    [587] = {
-        name = "Claw Cyclone",
-        mobs = {
-            {
-                monster = "Forest Tiger",
-                level = "22-25",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Forest Tiger",
-                level = "22-25",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Sabertooth Tiger",
-                level = "28-32",
-                zone = "Batallia Downs"
-            },
-            {
-                monster = "Sabertooth Tiger",
-                level = "28-32",
-                zone = "Sauromugue Champaign"
-            },
-            {
-                monster = "Sabertooth Tiger",
-                level = "28-33",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Tundra Tiger",
-                level = "34-37",
-                zone = "Beaucedine Glacier"
-            },
-            {
-                monster = "Uleguerand Tiger",
-                level = "59-62",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Wajaom Tiger",
-                level = "65-68",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Wajaom Tiger",
-                level = "65-68",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Cave Tiger",
-                level = "73-76",
-                zone = "Aydeewa Subterrane"
-            },
-            {
-                monster = "Ovinnik",
-                level = "77-79",
-                zone = "Kuftal Tunnel"
-            },
-            {
-                monster = "Angler Tiger",
-                level = "?",
-                zone = "Abyssea - La Theine Conflux #2"
-            },
-            {
-                monster = "Ashen Tiger",
-                level = "111-113",
-                zone = "Kamihr Drifts"
-            }
-        }
-    },
-    [536] = {
-        name = "Poison Breath",
-        mobs = {
-            {
-                monster = "Mad Fox",
-                level = "3-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Mad Fox",
-                level = "4-8",
-                zone = "East Sarutabaruta"
-            },
-            {
-                monster = "Black Wolf",
-                level = "5-8",
-                zone = "North Gustaberg"
-            },
-            {
-                monster = "Black Wolf",
-                level = "5-8",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Tainted Hound",
-                level = "5-8",
-                zone = "East Ronfaure"
-            },
-            {
-                monster = "Tainted Hound",
-                level = "5-8",
-                zone = "West Ronfaure"
-            },
-            {
-                monster = "Wolf Zombie",
-                level = "8-10",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Wolf Zombie",
-                level = "8-10",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Barghest",
-                level = "8-10",
-                zone = "Tahrongi Canyon"
-            }, 
-            {
-                monster = "Bandersnatch",
-                level = "21-24",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Scavenging Hound",
-                level = "18-25",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Scavenging Hound",
-                level = "18-25",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Bog Dog",
-                level = "18-25",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Mauthe Doog",
-                level = "28-31",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Mauthe Doog",
-                level = "28-32",
-                zone = "Batallia Downs"
-            },
-            {
-                monster = "Marchosias",
-                level = "40-43",
-                zone = "The Eldieme Necropolis"
-            },
-            {
-                monster = "Hell Hound",
-                level = "46-49",
-                zone = "The Eldieme Necropolis"
-            },
-            {
-                monster = "Tomb Wolf",
-                level = "53-55",
-                zone = "The Eldieme Necropolis"
-            },
-            {
-                monster = "Hell Hound",
-                level = "46-49",
-                zone = "The Sanctuary of Zi'Tah"
-            },  
-            {
-                monster = "Hecatomb Hound",
-                level = "56-59",
-                zone = "Bostaunieux Oubliette"
-            },
-            {
-                monster = "Garm",
-                level = "64-66",
-                zone = "Bostaunieux Oubliette"
-            },
-            {
-                monster = "Cwn Annwn",
-                level = "59-64",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Hati",
-                level = "77-79",
-                zone = "King Ranperre's Tomb"
-            },
-            {
-                monster = "Inugami",
-                level = "?",
-                zone = "Abyssea - Attohwa Conflux #4 or #6"
-            }
-        }
-    },
-    [598] = {
-        name = "Soporific",
-        mobs = {
-            {
-                monster = "Flytrap",
-                level = "18-22",
-                zone = "Carpenters' Landing Enter from Northern San d'Oria (F-5)"
-            },
-            {
-                monster = "Flytrap",
-                level = "15-25",
-                zone = "Phanauet Channel"
-            },
-            {
-                monster = "Battrap",
-                level = "23-27",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Birdtrap",
-                level = "29-33",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Hawkertrap",
-                level = "38-42",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Mantrap",
-                level = "45-49",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Puktrap",
-                level = "64-66",
-                zone = "Caedarva Mire North or East Nashmau Exit"
-            },
-            {
-                monster = "Puktrap",
-                level = "67-70",
-                zone = "Aydeewa Subterrane"
-            },
-            {
-                monster = "Boartrap",
-                level = "80-95",
-                zone = "Abyssea - Misareaux Conflux #5"
-            }
-        }
-    },
-    [519] = {
-        name = "Screwdriver",
-        mobs = {
-            {
-                monster = "Land Pugil",
-                level = "17-19",
-                zone = "Carpenters' Landing Enter from Northern San d'Oria (F-5)"
-            },
-            {
-                monster = "Beach Pugil",
-                level = "23-26",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Spinous Pugil",
-                level = "29-31",
-                zone = "Carpenters' Landing"
-            },
-            {
-                monster = "Demonic Pugil",
-                level = "73-77",
-                zone = "Den of Rancor Right beside Cloister of Tides. (Den of Rancor Homepoint #2)"
-            }
-        }
-    },
-        [626] = {
-        name = "Bomb Toss",
-        mobs = {
-            {
-                monster = "Goblins",
-                level = "17-25",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Goblins",
-                level = "32-47",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Goblin Meatgrinder",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #03"
-            },
-            {
-                monster = "Goblin Plunderer",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #03"
-            }
-        }
-    },
-    [626] = {
-        name = "Bomb Toss",
-        mobs = {
-            {
-                monster = "Goblins",
-                level = "17-25",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Goblins",
-                level = "32-47",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Goblin Meatgrinder",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #03"
-            },
-            {
-                monster = "Goblin Plunderer",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #03"
-            }
-        }
-    },
-    [622] = {
-        name = "Grand Slam",
-        mobs = {
-            {
-                monster = "Gigas",
-                level = "28-30",
-                zone = "Lower Delkfutt's Tower"
-            },
-            {
-                monster = "Gigas",
-                level = "28-31",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Gigas",
-                level = "35-44",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Gigas",
-                level = "41-44",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Gigas",
-                level = "65-69",
-                zone = "Upper Delkfutt's Tower"
-            }
-        }
-    },
-    [578] = {
-        name = "Wild Carrot",
-        mobs = {
-            {
-                monster = "Goblin's Rarab",
-                level = "29-31",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Island Rarab",
-                level = "34-38",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Tropical Rarab",
-                level = "73-76",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Mangy-tailed Marvin",
-                level = "~80-85",
-                zone = "Abyssea - La Theine Time spawn every 10-15 minutes (E-5/6)"
-            }
-        }
-    },
-    [582] = {
-        name = "Chaotic Eye",
-        mobs = {
-            {
-                monster = "Coeurl",
-                level = "22-25",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Champaign Coeurl",
-                level = "30-34",
-                zone = "Sauromugue Champaign"
-            },
-            {
-                monster = "Master Coeurl",
-                level = "44-47",
-                zone = "The Sanctuary of Zi'Tah"
-            },
-            {
-                monster = "Eschan Coeurl",
-                level = "60-69",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "War Lynx",
-                level = "68-72",
-                zone = "Meriphataud Mountains (S) 12 spawns at K-4 to J-6."
-            },
-            {
-                monster = "Jaguarundi",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #6"
-            }
-        }
-    },
-    [572] = {
-        name = "Sound Blast",
-        mobs = {
-            {
-                monster = "Axe Beak",
-                level = "25-28",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Tabar Beak",
-                level = "34-37",
-                zone = "Sauromugue Champaign"
-            },
-            {
-                monster = "Sand Cockatrice",
-                level = "71-74",
-                zone = "Cape Teriggan"
-            },
-            {
-                monster = "Cluckatrice",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #4"
-            }
-        }
-    },
-    [522] = {
-        name = "Death Ray",
-        mobs = {
-            {
-                monster = "Hecteyes",
-                level = "31-34",
-                zone = "Ranguemont Pass"
-            },
-            {
-                monster = "Hecteyes",
-                level = "35-38",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Beholder",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #02 or #03"
-            }
-        }
-    },
-    [527] = {
-        name = "Smite of Rage",
-        mobs = {
-            {
-                monster = "Dancing Weapon",
-                level = "28-30",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Evil Weapon",
-                level = "36-38",
-                zone = "Sauromugue Champaign"
-            },
-            {
-                monster = "Eschan Weapon",
-                level = "61-69",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "Decorative Weapon",
-                level = "79-81",
-                zone = "The Shrine of Ru'Avitau"
-            }
-        }
-    },
-    [542] = {
-        name = "Digest",
-        mobs = {
-            {
-                monster = "Jelly",
-                level = "23-27",
-                zone = "Korroloka Tunnel"
-            },
-            {
-                monster = "Ooze",
-                level = "39-42",
-                zone = "Sea Serpent Grotto"
-            },
-            {
-                monster = "Dark Aspic",
-                level = "52~54",
-                zone = "Bostaunieux Oubliette"
-            },
-            {
-                monster = "Mousse",
-                level = "58-62",
-                zone = "Bostaunieux Oubliette"
-            },
-            {
-                monster = "Chalybeous Slime",
-                level = "101-103",
-                zone = "Rala Waterways"
-            },
-            {
-                monster = "Flavescent Slime",
-                level = "101-103",
-                zone = "Rala Waterways"
-            }
-        }
-    },
-    [596] = {
-        name = "Pinecone Bomb",
-        mobs = {
-            {
-                monster = "Walking Tree",
-                level = "25-28",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Leshy",
-                level = "52-54",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Highland Treant",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #07"
-            },
-            {
-                monster = "Knobby Treant",
-                level = "100-102",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Verdant Treant",
-                level = "100-102",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [592] = {
-        name = "Blank Gaze",
-        mobs = {
-            {
-                monster = "Young Opo-opo",
-                level = "34-36",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Brae Opo-Opo",
-                level = "75-90",
-                zone = "Abyssea - La Theine Northeast of #8, (L-7)"
-            },
-            {
-                monster = "Natty Gibbon",
-                level = "90-99",
-                zone = "Dangruf Wadi"
-            },
-            {
-                monster = "Eschan Opo-opo",
-                level = "107-110",
-                zone = "Escha - Zi'Tah Portal #6"
-            }
-        }
-    },
-    [569] = {
-        name = "Jet Stream",
-        mobs = {
-            {
-                monster = "Dark Bats",
-                level = "25-27",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Lesser Gaylas",
-                level = "40-42",
-                zone = "Behemoth's Dominion"
-            },
-            {
-                monster = "Slough Bats",
-                level = "80-95",
-                zone = "Abyssea - Vunkerl #5, head north"
-            }
-        }
-    },
-    [594] = {
-        name = "Uppercut",
-        mobs = {
-            {
-                monster = "Goobbue Farmer",
-                level = "28-32",
-                zone = "Rolanberry Fields"
-            },
-            {
-                monster = "Goobbue Gardener",
-                level = "40-43",
-                zone = "The Sanctuary of Zi'Tah"
-            },
-            {
-                monster = "Eschan Goobbue",
-                level = "80-95",
-                zone = "Escha - Zi'Tah #8"
-            },
-            {
-                monster = "Goobbue Farmer",
-                level = "59-62",
-                zone = "Rolanberry Fields (S)"
-            }
-        }
-    },
-    [534] = {
-        name = "Mysterious Light",
-        mobs = {
-            {
-                monster = "Magic Urn",
-                level = "34-35",
-                zone = "Lower Delkfutt's Tower L-6, Basement, Requires a Delkfutt Key"
-            },
-            {
-                monster = "Clockwork Pod",
-                level = "41-43",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Sinister Seidel",
-                level = "85-100",
-                zone = "Abyssea - Grauberg Conflux #8"
-            }
-        }
-    },
-    [539] = {
-        name = "Terror Touch",
-        mobs = {
-            {
-                monster = "Bogy",
-                level = "30-33",
-                zone = "Lower Delkfutt's Tower"
-            },
-            {
-                monster = "Revenant",
-                level = "40-42",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Qaitu",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #07/08"
-            },
-            {
-                monster = "Spuk",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #06"
-            }
-        }
-    },
-    [521] = {
-        name = "MP Drainkiss",
-        mobs = {
-            {
-                monster = "Acrophies",
-                level = "32-34",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Royal Leech",
-                level = "35-38",
-                zone = "Sea Serpent Grotto"
-            },
-            {
-                monster = "Eschan Obdella",
-                level = "50-59",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "Gneiss Leech",
-                level = "79-81",
-                zone = "Abyssea - Konschtat #6"
-            }
-        }
-    },
     [513] = {
-        name = "Venom Shell",
-        mobs = {
-            {
+        blu_points = 3,
+        cast_time = 3,
+        element = 5,
+        en = "Venom Shell",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 513,
+        ja = "ベノムシェル",
+        learned_from = {
+            [1] = {
+                level = "32-35",
                 monster = "Coralline Uragnite",
-                level = "32-35",
-                zone = "Bibiki Bay - Purgonorgo Isle"
-            },
-            {
-                monster = "Bight Uragnite",
+                zone = 4,
+              },
+            [2] = {
                 level = "100-101",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
                 monster = "Bight Uragnite",
+                zone = 261,
+              },
+            [3] = {
                 level = "100-101",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [537] = {
-        name = "Stinking Gas",
-        mobs = {
-            {
-                monster = "Addled Tumor",
-                level = "36-38",
-                zone = "Phomiuna Aqueducts Only 1, G-9/10"
-            },
-            {
-                monster = "Foul Meat",
-                level = "45-47",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Fetid Flesh",
-                level = "54-56",
-                zone = "Garlaige Citadel Only 2, Past Gate #1, H-7/9"
-            },
-            {
-                monster = "Tainted Flesh",
-                level = "63-65",
-                zone = "Garlaige Citadel"
-            },
-            {
-                monster = "Jnun",
-                level = "73",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Decayed Flesh",
-                level = "80-95",
-                zone = "Abyssea - Attohwa Conflux #06, Southeast through tunnels"
-            }
-        }
-    },
-    [532] = {
-        name = "Blitzstrahl",
-        mobs = {
-            {
-                monster = "Chaos Idol",
-                level = "28-30",
-                zone = "Lower Delkfutt's Tower"
-            },
-            {
-                monster = "Drone",
-                level = "41-43",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Talos",
-                level = "53-55",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Sand Sweeper",
-                level = "85-100",
-                zone = "Abyssea - Altepa #8"
-            },
-            {
-                monster = "Aura Butler",
-                level = "77-78 Verification Needed",
-                zone = "The Shrine of Ru'Avitau"
-            }
-        }
-    },
-    [543] = {
-        name = "Mandibular Bite",
-        mobs = {
-            {
-                monster = "Tracer Antlion",
-                level = "37-40",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Burrow Antlion",
-                level = "40-44",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Hunter Antlion",
-                level = "45-47",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Pit Antlion",
-                level = "49-52",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Trench Antlion",
-                level = "70-72",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Tracker Antlion",
-                level = "70-73",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Cave Antlion",
-                level = "77-79",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Funnel Antlion",
-                level = "80-95",
-                zone = "Abyssea - Attohwa Conflux #04"
-            }
-        }
-    },
-    [606] = {
-        name = "Awful Eye",
-        mobs = {
-            {
-                monster = "Bugard",
-                level = "34-37",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Bugard",
-                level = "34-37",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Gigantobugard",
-                level = "40-43",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Gigantobugard",
-                level = "40-43",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Abyssobugard",
-                level = "80-95",
-                zone = "Abyssea - Misareaux Conflux #08"
-            }
-        }
-    },
-    [605] = {
-        name = "Geist Wall",
-        mobs = {
-            {
-                monster = "Eft",
-                level = "34-37",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Tartarus Eft",
-                level = "76-78",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Hypnos Eft",
-                level = "80-82",
-                zone = "Bibiki Bay"
-            },
-            {
-                monster = "Canyon Eft",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi #02"
-            },
-            {
-                monster = "Razorback",
-                level = "75-90",
-                zone = "Abyssea - Konschtat #02"
-            },
-            {
-                monster = "Terminus Eft",
-                level = "80-95",
-                zone = "Abyssea - Attohwa #05"
-            },
-            {
-                monster = "Eschan Tarichuk",
-                level = "107-110",
-                zone = "Escha - Zi'Tah #6"
-            }
-        }
-    },
-    [555] = {
-        name = "Magnetite Cloud",
-        mobs = {
-            {
-                monster = "Antican Auxiliarius",
-                level = "35-39",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Antican Faber",
-                level = "35-39",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Antican Funditor",
-                level = "35-39",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Antican Eques",
-                level = "45-49",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Antican Retiarius",
-                level = "45-49",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Antican Sagittarius",
-                level = "45-49",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Antican Hastatus",
-                level = "52-59",
-                zone = "Quicksand Caves Zone in from East Altepa (K-7)"
-            },
-            {
-                monster = "Antican Princeps",
-                level = "52-59",
-                zone = "Quicksand Caves Zone in from East Altepa (K-7)"
-            },
-            {
-                monster = "Antican Signifer",
-                level = "52-59",
-                zone = "Quicksand Caves Zone in from East Altepa (K-7)"
-            },
-            {
-                monster = "Antican Aedilis",
-                level = "69-72",
-                zone = "Quicksand Caves Zone in from West Altepa (G-5)"
-            },
-            {
-                monster = "Antican Antesignanus",
-                level = "69-72",
-                zone = "Quicksand Caves Zone in from West Altepa (G-5)"
-            },
-            {
-                monster = "Antican Quaestor",
-                level = "69-72",
-                zone = "Quicksand Caves Zone in from West Altepa (G-5)"
-            },
-            {
-                monster = "Antican Triarius",
-                level = "69-72",
-                zone = "Quicksand Caves Zone in from West Altepa (G-5)"
-            }
-        }
-    },
-    [575] = {
-        name = "Jettatura",
-        mobs = {
-            {
-                monster = "Hippogryph",
-                level = "40-42",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Cloud Hippogryph",
-                level = "45-47",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Nimbus Hippogryph",
-                level = "49-52",
-                zone = "Riverne - Site B01"
-            },
-            {
-                monster = "Strato Hippogryph",
-                level = "55-57",
-                zone = "Riverne - Site B01"
-            },
-            {
-                monster = "Grauberg Hippogryph",
-                level = "73-75",
-                zone = "Grauberg (S) (G-8)"
-            },
-            {
-                monster = "Quarrelsome Hippogryph",
-                level = "122-124",
-                zone = "Reisenjima"
-            }
-        }
-    },
-    [541] = {
-        name = "Blood Saber",
-        mobs = {
-            {
-                monster = "Skeleton Warrior",
-                level = "15-17",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Ghoul",
-                level = "20-27",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Wendigo",
-                level = "26-30",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Wight",
-                level = "29-34",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Fallen Soldier",
-                level = "47-49",
-                zone = "Garlaige Citadel"
-            },
-            {
-                monster = "Schnitter",
-                level = "80-95",
-                zone = "Abyssea - Attohwa Conflux #06"
-            },
-            {
-                monster = "Sensenmann",
-                level = "Information Needed",
-                zone = "Abyssea - Grauberg Conflux #07"
-            }
-        }
-    },
-    [530] = {
-        name = "Refueling",
-        mobs = {
-            {
-                monster = "Atomic Cluster",
-                level = "38-40",
-                zone = "Lufaise Meadows (H-8/9) and (J-8/9) 2:00 - 8:00 during foggy weather only."
-            },
-            {
-                monster = "Atomic Cluster",
-                level = "44-46",
-                zone = "Misareaux Coast (I-6), (J-7), and (G-8) 2:00 - 8:00 during foggy weather only."
-            },
-            {
-                monster = "Atomic Cluster",
-                level = "46-48",
-                zone = "Riverne - Site A01 (E/F-10)"
-            },
-            {
-                monster = "Nitro Cluster",
-                level = "56-58",
-                zone = "Riverne - Site B01 (I-9)"
-            },
-            {
-                monster = "Sweeping Cluster",
-                level = "73-75",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Dynamo Cluster",
-                level = "80-95",
-                zone = "Abyssea - Misareaux Conflux #06"
-            }
-        }
-    },
-    [545] = {
-        name = "Sickle Slash",
-        mobs = {
-            {
-                monster = "Giant Spider",
-                level = "30-34",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Desert Spider",
-                level = "40-44",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Recluse Spider",
-                level = "63-66",
-                zone = "Kuftal Tunnel"
-            },
-            {
-                monster = "Shore Spider",
-                level = "80-95",
-                zone = "Abyssea - Misareaux Conflux #00"
-            },
-            {
-                monster = "Spitting Spider",
-                level = "80-95",
-                zone = "Abyssea - Vunkerl Conflux #05"
-            },
-            {
-                monster = "Skittering Spider",
-                level = "100-102",
-                zone = "Rala Waterways"
-            },
-            {
-                monster = "Shade-speckled Spider",
-                level = "114+",
-                zone = "Yorcia Weald (H-9)"
-            }
-        }
-    },
-    [531] = {
-        name = "Ice Break",
-        mobs = {
-            {
-                monster = "Stone Golem",
-                level = "40-42",
-                zone = "Beaucedine Glacier"
-            },
-            {
-                monster = "Ore Golem",
-                level = "43-45",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Colossus",
-                level = "56-58",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Aura Statue",
-                level = "79-84",
-                zone = "The Shrine of Ru'Avitau (H-9)"
-            },
-            {
-                monster = "Verglas Golem",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            },
-            {
-                monster = "Sisyphus",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            }
-        }
-    },
-    [533] = {
-        name = "Self-Destruct",
-        mobs = {
-            {
-                monster = "Spunkie",
-                level = "28-30",
-                zone = "Gusgen Mines"
-            },
-            {
-                monster = "Feu Follet",
-                level = "35-38",
-                zone = "Gusgen Mines Left lever, then hug left wall."
-            },
-            {
-                monster = "Puroboros",
-                level = "45",
-                zone = "Crawlers' Nest (I-10)"
-            },
-            {
-                monster = "Explosure",
-                level = "52-53",
-                zone = "Garlaige Citadel ~(I-8)"
-            },
-            {
-                monster = "Volcanic Gas",
-                level = "62-68",
-                zone = "Ifrit's Cauldron (G-6) Yhoator Jungle entrance. Survival Guide warp works too."
-            },
-            {
-                monster = "Bonfire (Monster)",
-                level = "85-100",
-                zone = "Abyssea - Altepa Conflux #08"
-            }
-        }
-    },
-    [561] = {
-        name = "Frightful Roar",
-        mobs = {
-            {
-                monster = "Taurus",
-                level = "37-38",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Stegotaur",
-                level = "44-48",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Stegotaur",
-                level = "47-49",
-                zone = "Sacrarium"
-            },
-            {
-                monster = "Teratotaur",
-                level = "57-59",
-                zone = "Sacrarium"
-            },
-            {
-                monster = "Brontotaur",
-                level = "68-71",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Tyrannotaur",
-                level = "72-75",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Molech",
-                level = "78-81",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Dryptotaur",
-                level = "79-80",
-                zone = "Beaucedine Glacier (S)"
-            }
-        }
-    },
-    [535] = {
-        name = "Cold Wave",
-        mobs = {
-            {
-                monster = "Snowball",
-                level = "43-46",
-                zone = "Pso'Xja F-7 Entrance"
-            },
-            {
-                monster = "Snoll",
-                level = "60-63",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Morozko",
-                level = "67-70",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Agloolik",
-                level = "77-80",
-                zone = "Uleguerand Range Home Point #1"
-            },
-            {
-                monster = "Snowflake",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            }
-        }
-    },
-    [548] = {
-        name = "Filamented Hold",
-        mobs = {
-            {
-                monster = "Diremite",
-                level = "42-45",
-                zone = "Pso'Xja F-7 Entrance"
-            },
-            {
-                monster = "Diremite Assaulter",
-                level = "63-68",
-                zone = "Pso'Xja G-9 Entrance"
-            },
-            {
-                monster = "Aydeewa Diremite",
-                level = "72-74",
-                zone = "Aydeewa Subterrane Bhaflau Thickets I-7 entrance"
-            },
-            {
-                monster = "Hoarmite",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #05 or #06"
-            },
-            {
-                monster = "Pewter Diremite",
-                level = "101-102",
-                zone = "Rala Waterways Western Adoulin F5"
-            }
-        }
-    },
-    [563] = {
-        name = "Hecatomb Wave",
-        mobs = {
-            {
-                monster = "Demons",
-                level = "48-52",
-                zone = "Xarcabard"
-            },
-            {
-                monster = "Demons",
-                level = "50-52",
-                zone = "Castle Zvahl Baileys"
-            },
-            {
-                monster = "Demons",
-                level = "52-56",
-                zone = "Castle Zvahl Keep"
-            },
-            {
-                monster = "Demon Suppressor",
-                level = "82-83",
-                zone = "Castle Zvahl Keep (S) Tele point #1"
-            }
-        }
-    },
-    [565] = {
-        name = "Radiant Breath",
-        mobs = {
-            {
-                monster = "Firedrake",
-                level = "41-43",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Pyrodrake",
-                level = "50-55",
-                zone = "Riverne - Site B01"
-            },
-            {
-                monster = "Skoffin",
-                level = "82-83",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Faunus Wyvern",
-                level = "85-100",
-                zone = "Abyssea - Grauberg Conflux #03"
-            }
-        }
-    },
-    [574] = {
-        name = "Feather Barrier",
-        mobs = {
-            {
-                monster = "Diatryma",
-                level = "47-50",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Diatryma",
-                level = "47-51",
-                zone = "Misareaux Coast"
-            },
-            {
-                monster = "Peryton",
-                level = "69-72",
-                zone = "Valley of Sorrows"
-            },
-            {
-                monster = "Abraxas",
-                level = "85-86",
-                zone = "Lufaise Meadows"
-            }
-        }
-    },
-    [634] = {
-        name = "Light of Penance",
-        mobs = {
-            {
-                monster = "Tonberry",
-                level = "45-49",
-                zone = "Yhoator Jungle"
-            },
-            {
-                monster = "Tonberry Cutter",
-                level = "51-59",
-                zone = "Temple of Uggalepih"
-            },
-            {
-                monster = "Tonberry Bedeviler",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #08"
-            },
-            {
-                monster = "Cryptonberry Occultist",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #08"
-            }
-        }
-    },
-    [629] = {
-        name = "Flying Hip Press",
-        mobs = {
-            {
-                monster = "Bugbear Servingman",
-                level = "32-35",
-                zone = "Oldton Movalpolos"
-            },
-            {
-                monster = "Bugbear Bondman",
-                level = "42-45",
-                zone = "Oldton Movalpolos"
-            },
-            {
-                monster = "Bugbear Trashman",
-                level = "65-67",
-                zone = "Newton Movalpolos"
-            },
-            {
-                monster = "Bugbear Watchman",
-                level = "71-76",
-                zone = "Newton Movalpolos"
-            }
-        }
-    },
-    [593] = {
-        name = "Magic Fruit",
-        mobs = {
-            {
-                monster = "Young Opo-opo",
-                level = "34-36",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Brae Opo-Opo",
-                level = "75-90",
-                zone = "Abyssea - La Theine East of #7, (L-7)"
-            },
-            {
-                monster = "Keesha Poppo",
-                level = "?",
-                zone = "Abyssea - La Theine East of #7, (L-7)"
-            },
-            {
-                monster = "Natty Gibbon",
-                level = "90-99",
-                zone = "Dangruf Wadi (G/H-5)"
-            },
-            {
-                monster = "Eschan Opo-opo",
-                level = "107-110",
-                zone = "Escha - Zi'Tah Portal #6"
-            }
-        }
-    },
-    [589] = {
-        name = "Dimensional Death",
-        mobs = {
-            {
-                monster = "Shadow",
-                level = "44-46",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Shade",
-                level = "46-48",
-                zone = "Eldieme Necropolis"
-            },
-            {
-                monster = "Ka",
-                level = "52-54",
-                zone = "Eldieme Necropolis"
-            },
-            {
-                monster = "Dark Stalker",
-                level = "57-59",
-                zone = "Eldieme Necropolis"
-            },
-            {
-                monster = "Spriggan",
-                level = "64-66",
-                zone = "Eldieme Necropolis"
-            }
-        }
-    },
-    [652] = {
-        name = "Spiral Spin",
-        mobs = {
-            {
-                monster = "Ladybug",
-                level = "45-47",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Goblin's Ladybug",
-                level = "52-54",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Biddybug",
-                level = "62-64",
-                zone = "Jugner Forest (S)"
-            },
-            {
-                monster = "Mariehene",
-                level = "71-74",
-                zone = "La Vaule (S)"
-            },
-            {
-                monster = "Nannakola",
-                level = "79-82",
-                zone = "Abyssea - Altepa Conflux #01 or #03"
-            }
-        }
-    },
-    [554] = {
-        name = "Death Scissors",
-        mobs = {
-            {
-                monster = "Maze Scorpion",
-                level = "25-28",
-                zone = "Maze of Shakhrami"
-            },
-            {
-                monster = "Labyrinth Scorpion",
-                level = "30-33",
-                zone = "Maze of Shakhrami"
-            },
-            {
-                monster = "Doom Scorpion",
-                level = "44-47",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Tulwar Scorpion",
-                level = "53-56",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Akrab",
-                level = "85-100",
-                zone = "Abyssea - Altepa Conflux #03"
-            }
-        }
-    },
-    [557] = {
-        name = "Eyes On Me",
-        mobs = {
-            {
-                monster = "Bat Eye",
-                level = "40-42",
-                zone = "Beaucedine Glacier"
-            },
-            {
-                monster = "Evil Eye",
-                level = "45-48",
-                zone = "Xarcabard"
-            },
-            {
-                monster = "Morbid Eye",
-                level = "52-55",
-                zone = "Castle Zvahl Baileys"
-            },
-            {
-                monster = "Deadly Iris",
-                level = "55-56",
-                zone = "Castle Zvahl Keep"
-            },
-            {
-                monster = "Deep Eye",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #7"
-            },
-            {
-                monster = "Gawper",
-                level = "80-81",
-                zone = "Beaucedine Glacier (S) Area around H9"
-            }
-        }
-    },
-    [604] = {
-        name = "Bad Breath",
-        mobs = {
-            {
-                monster = "Malboro",
-                level = "25-28",
-                zone = "Pashhow Marshlands"
-            },
-            {
-                monster = "Ochu",
-                level = "34-37",
-                zone = "Rolanberry Fields"
-            },
-            {
-                monster = "Anemone",
-                level = "51-54",
-                zone = "Yhoator Jungle"
-            },
-            {
-                monster = "Ameretat",
-                level = "65-66",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Morboling",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #04"
-            }
-        }
-    },
+                monster = "Bight Uragnite",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 42,
+          },
+        mp_cost = 86,
+        prefix = "/magic",
+        range = 4,
+        recast = 45,
+        recast_id = 513,
+        requirements = 0,
+        skill = 43,
+        status = 41,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [515] = {
-        name = "Maelstrom",
-        mobs = {
-            {
-                monster = "Sea Monk",
+        blu_points = 5,
+        cast_time = 6,
+        element = 5,
+        en = "Maelstrom",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 515,
+        ja = "メイルシュトロム",
+        learned_from = {
+            [1] = {
                 level = "21-29",
-                zone = "Ferry - Mhaura/Selbina"
-            },
-            {
                 monster = "Sea Monk",
+                zone = 248,
+              },
+            [2] = {
                 level = "31-35",
-                zone = "Korroloka Tunnel"
-            },
-            {
-                monster = "Kraken",
-                level = "37-38",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Flying Manta",
-                level = "55-59",
-                zone = "Labyrinth of Onzozo"
-            },
-            {
-                monster = "Jasconius",
-                level = "80-95",
-                zone = "Abyssea - Vunkerl Conflux #03"
-            }
-        }
-    },
-    [650] = {
-        name = "Seedspray",
-        mobs = {
-            {
-                monster = "Rafflesia",
-                level = "49-52",
-                zone = "West Sarutabaruta (S)"
-            },
-            {
-                monster = "Rafflesia",
-                level = "64-68",
-                zone = "Fort Karugo-Narugo (S)"
-            },
-            {
-                monster = "Highland Rafflesia",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #05"
-            }
-        }
-    },
-    [595] = {
-        name = "1000 Needles",
-        mobs = {
-            {
-                monster = "Sabotender",
-                level = "42-46",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Cactuar",
-                level = "48-53",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Sabotender Bailaor",
-                level = "52-59",
-                zone = "Quicksand Caves"
-            },
-            {
-                monster = "Spelunking Sabotender",
-                level = "62-68",
-                zone = "Quicksand Caves"
-            },
-            {
-                monster = "Sabotender Sediendo",
-                level = "64-67",
-                zone = "Kuftal Tunnel"
-            }
-        }
-    },
-    [538] = {
-        name = "Memento Mori",
-        mobs = {
-            {
-                monster = "Keremet",
-                level = "56-58",
-                zone = "Sacrarium"
-            },
-            {
-                monster = "Corse",
-                level = "66-67",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Eschan Corse",
-                level = "72-77",
-                zone = "Escha - Zi'Tah"
-            },
-            {
-                monster = "Arch Corse",
-                level = "75-81",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Wiederganger",
-                level = "78-82",
-                zone = "Abyssea - Tahrongi Conflux #05"
-            },
-            {
-                monster = "Tupilaq",
-                level = "~90",
-                zone = "Ghoyu's Reverie Voucher #09"
-            }
-        }
-    },
-    [564] = {
-        name = "Body Slam",
-        mobs = {
-            {
-                monster = "Dahak",
-                level = "82-83",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Dahak",
-                level = "78-81",
-                zone = "Halvung"
-            },
-            {
-                monster = "Vanguard Dragon",
-                level = "",
-                zone = "Dynamis - Xarcabard"
-            },
-            {
-                monster = "Barong",
-                level = "",
-                zone = "Dynamis - Buburimu"
-            },
-            {
-                monster = "Apocalyptic Beast",
-                level = "",
-                zone = "Dynamis - Buburimu"
-            },
-            {
-                monster = "Scultone",
-                level = "~90",
-                zone = "Ghoyu's Reverie Voucher #09"
-            }
-        }
-    },
-    [631] = {
-        name = "Hydro Shot",
-        mobs = {
-            {
-                monster = "Sahagin",
-                level = "34-38",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Sahagin",
-                level = "41-48",
-                zone = "Sea Serpent Grotto"
-            },
-            {
-                monster = "Sahagin",
-                level = "52-59",
-                zone = "Sea Serpent Grotto"
-            }
-        }
-    },
-    [628] = {
-        name = "Frypan",
-        mobs = {
-            {
-                monster = "Moblins",
-                level = "33-47",
-                zone = "Oldton Movalpolos"
-            },
-            {
-                monster = "Goblins",
-                level = "33-55",
-                zone = "Oldton Movalpolos"
-            },
-            {
-                monster = "Moblins",
-                level = "66-80",
-                zone = "Newton Movalpolos"
-            }
-        }
-    },
-    [560] = {
-        name = "Frenetic Rip",
-        mobs = {
-            {
-                monster = "Imp",
-                level = "55-57",
-                zone = "Ferry - Nashmau/Al Zahbi Nighttime only"
-            },
-            {
-                monster = "Orderly Imp",
-                level = "63-68",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Bukki",
-                level = "70",
-                zone = "Arrapago Reef Spawned by the quest The Die is Cast."
-            },
-            {
-                monster = "Clammy Imp",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #07"
-            }
-        }
-    },
-    [540] = {
-        name = "Spinal Cleave",
-        mobs = {
-            {
-                monster = "Qutrub",
-                level = "73-74",
-                zone = "Arrapago Reef Located around E-10"
-            },
-            {
-                monster = "Lamia Idolater",
-                level = "79-81",
-                zone = "Caedarva Mire Located near Dvucca Isle Staging Point"
-            }
-        }
-    },
-    [579] = {
-        name = "Voracious Trunk",
-        mobs = {
-            {
-                monster = "Marid",
-                level = "78-79",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Marid",
-                level = "78-79",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Grand Marid",
-                level = "78-79",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Morose Marid",
-                level = "78-82",
-                zone = "Abyssea - Vunkerl Conflux #00"
-            },
-            {
-                monster = "Olyphant",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #7"
-            }
-        }
-    },
-    [573] = {
-        name = "Feather Tickle",
-        mobs = {
-            {
-                monster = "Colibri",
-                level = "46-47",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Lesser Colibri",
-                level = "63-65",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Coastal Colibri",
-                level = "78-89",
-                zone = "Abyssea - Misareaux Conflux #00"
-            }
-        }
-    },
-    [576] = {
-        name = "Yawn",
-        mobs = {
-            {
-                monster = "Apkallu",
-                level = "54-55",
-                zone = "Ferry - Nashmau/Al Zahbi"
-            },
-            {
-                monster = "Arrapago Apkallu",
-                level = "70-72",
-                zone = "Arrapago Reef"
-            },
-            {
-                monster = "Zhayolm Apkallu",
-                level = "70-72",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Overking Apkallu",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #00"
-            },
-            {
-                monster = "King Apkallu",
-                level = "78-80",
-                zone = "Mount Zhayolm"
-            }
-        }
-    },
-    [610] = {
-        name = "Infrasonics",
-        mobs = {
-            {
-                monster = "Hill Lizard",
-                level = "15-19",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Ivory Lizard",
-                level = "32-35",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "White Lizard",
-                level = "36-39",
-                zone = "Yhoator Jungle"
-            },
-            {
-                monster = "Labyrinth Lizard",
-                level = "49-51",
-                zone = "Crawlers' Nest"
-            },
-            {
-                monster = "Sand Lizard",
-                level = "61-64",
-                zone = "Kuftal Tunnel"
-            },
-            {
-                monster = "Sand Lizard",
-                level = "62-66",
-                zone = "Cape Teriggan"
-            },
-            {
-                monster = "Shadow Lizard",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #01"
-            }
-        }
-    },
-    [647] = {
-        name = "Zephyr Mantle",
-        mobs = {
-            {
-                monster = "Puk",
-                level = "68-70",
-                zone = "Wajaom Woodlands Map area (H-11)"
-            },
-            {
-                monster = "Sea Puk",
-                level = "76-78",
-                zone = "Mamook"
-            },
-            {
-                monster = "Sea Puk",
-                level = "77-78",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Peapuk",
-                level = "75-80",
-                zone = "Abyssea - Vunkerl Conflux #06"
-            },
-            {
-                monster = "Crepuscule Puk",
-                level = "75-80",
-                zone = "Abyssea - La Theine Conflux #05"
-            },
-            {
-                monster = "Desert Puk",
-                level = "75-80",
-                zone = "Abyssea - Altepa Conflux #04"
-            }
-        }
-    },
-    [651] = {
-        name = "Corrosive Ooze",
-        mobs = {
-            {
-                monster = "Scabrous Slug",
-                level = "56-62",
-                zone = "Rolanberry Fields (S)"
-            },
-            {
-                monster = "Lou Carcolh",
-                level = "69-73",
-                zone = "Pashhow Marshlands (S)"
-            },
-            {
-                monster = "Gunge Slug",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #05"
-            },
-            {
-                monster = "Plantpassage Slug",
-                level = "Information Needed",
-                zone = "Rala Waterways East. Adoulin HP#1 to E-7 Rala entrance. Slugs at (L-8) in Rala."
-            }
-        }
-    },
-    [621] = {
-        name = "Sandspray",
-        mobs = {
-            {
-                monster = "Qiqirn",
-                level = "67-69",
-                zone = "Caedarva Mire Close to the Cemetery at (E-10) by Home point Caedarva Mire #1. Only spawn during the Day."
-            },
-            {
-                monster = "Qiqirn",
-                level = "68-75",
-                zone = "Aydeewa Subterrane Wajaom Woodlands G-7 entrance"
-            },
-            {
-                monster = "Qiqirn Goldsmith",
-                level = "76-77",
-                zone = "Alzadaal Undersea Ruins"
-            }
-        }
-    },
-    [608] = {
-        name = "Frost Breath",
-        mobs = {
-            {
-                monster = "Nival Raptor",
-                level = "68-70",
-                zone = "Uleguerand Range Located at I-10 and J-10"
-            },
-            {
-                monster = "Adasaurus",
-                level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #06"
-            },
-            {
-                monster = "Rahu",
-                level = "~90",
-                zone = "Ghoyu's Reverie Voucher #07"
-            }
-        }
-    },
-    [632] = {
-        name = "Diamondhide",
-        mobs = {
-            {
-                monster = "Troll",
-                level = "67-75",
-                zone = "Halvung"
-            },
-            {
-                monster = "Troll",
-                level = "72-73",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Troll",
-                level = "71-73",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Troll",
-                level = "79-83",
-                zone = "Mount Zhayolm"
-            }
-        }
-    },
-    [633] = {
-        name = "Enervation",
-        mobs = {
-            {
-                monster = "Troll",
-                level = "67-75",
-                zone = "Halvung"
-            },
-            {
-                monster = "Troll",
-                level = "72-73",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Troll",
-                level = "71-73",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Troll",
-                level = "79-83",
-                zone = "Mount Zhayolm"
-            }
-        }
-    },
-    [637] = {
-        name = "Firespit",
-        mobs = {
-            {
-                monster = "Mamool Ja",
-                level = "73-75",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Mamool Ja",
-                level = "81-83",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Mamool Ja",
-                level = "81-83",
-                zone = "Mamook"
-            },
-            {
-                monster = "Gotoh Zha the Redolent",
-                level = "85",
-                zone = "Wajaom Woodlands Trade a Sheep Botfly to ??? at (F-5)"
-            }
-        }
-    },
-    [636] = {
-        name = "Warm-Up",
-        mobs = {
-            {
-                monster = "Mamool Ja",
-                level = "73-75",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Mamool Ja",
-                level = "81-83",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Mamool Ja",
-                level = "81-83",
-                zone = "Mamook"
-            }
-        }
-    },
-    [648] = {
-        name = "Regurgitation",
-        mobs = {
-            {
-                monster = "Peiste",
-                level = "67-71",
-                zone = "Grauberg (S)"
-            },
-            {
-                monster = "Peiste",
-                level = "74-77",
-                zone = "Pashhow Marshlands (S)"
-            },
-            {
-                monster = "Maritime Peiste",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #07"
-            }
-        }
-    },
-    [640] = {
-        name = "Tail Slap",
-        mobs = {
-            {
-                monster = "Nix Songstress",
-                level = "73-75",
-                zone = "Arrapago Reef"
-            },
-            {
-                monster = "Merrow Typhoondancer",
-                level = "72-75",
-                zone = "Arrapago Reef"
-            }
-        }
-    },
-    [641] = {
-        name = "Hysteric Barrage",
-        mobs = {
-            {
-                monster = "Lamiae",
-                level = "71-75",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Lamiae",
-                level = "72-75",
-                zone = "Arrapago Reef"
-            }
-        }
-    },
-    [653] = {
-        name = "Asuran Claws",
-        mobs = {
-            {
-                monster = "Lobison",
-                level = "80-82",
-                zone = "Jugner Forest (S)"
-            },
-            {
-                monster = "Lobison",
-                level = "80-82",
-                zone = "La Vaule (S)"
-            },
-            {
-                monster = "Fusty Gnole",
-                level = "81-82",
-                zone = "Xarcabard (S) H-7"
-            },
-            {
-                monster = "Luison",
-                level = "75-90",
-                zone = "Abyssea - La Theine Conflux #05"
-            }
-        }
-    },
-    [643] = {
-        name = "Cannonball",
-        mobs = {
-            {
-                monster = "Wamouracampa",
-                level = "73-76",
-                zone = "Halvung"
-            },
-            {
-                monster = "Wamoura Prince",
-                level = "79-81",
-                zone = "Mount Zhayolm UNM Warp #135 Sarama"
-            },
-            {
-                monster = "Gullycampa",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #07"
-            }
-        }
-    },
-    [642] = {
-        name = "Amplification",
-        mobs = {
-            {
-                monster = "Black Pudding",
-                level = "73-75",
-                zone = "Halvung"
-            },
-            {
-                monster = "Ebony Pudding",
-                level = "75-80",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Pitchy Pudding",
-                level = "77-79",
-                zone = "Beadeaux (S)"
-            },
-            {
-                monster = "Licorice",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #06"
-            }
-        }
-    },
-    [591] = {
-        name = "Heat Breath",
-        mobs = {
-            {
-                monster = "Lesser Manticore",
-                level = "47-49",
-                zone = "Eastern Altepa Desert"
-            },
-            {
-                monster = "Desert Manticore",
-                level = "53-57",
-                zone = "Western Altepa Desert"
-            },
-            {
-                monster = "Labyrinth Manticore",
-                level = "71-74",
-                zone = "Labyrinth of Onzozo"
-            },
-            {
-                monster = "Greater Manticore",
-                level = "76-79",
-                zone = "Cape Teriggan"
-            },
-            {
-                monster = "Hieracosphinx",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #07"
-            }
-        }
-    },
-    [588] = {
-        name = "Lowing",
-        mobs = {
-            {
-                monster = "Buffalo",
-                level = "62-65",
-                zone = "Uleguerand Range Around D-8"
-            },
-            {
-                monster = "Giant Buffalo",
-                level = "68-71",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "King Buffalo",
-                level = "79-82",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Bluffalo",
-                level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #05"
-            },
-            {
-                monster = "Chichevache",
-                level = "~90",
-                zone = "Ghoyu's Reverie Voucher #07"
-            }
-        }
-    },
-    [655] = {
-        name = "Triumphant Roar",
-        mobs = {
-            {
-                monster = "Gargouille",
-                level = "77-80",
-                zone = "Beaucedine Glacier (S)"
-            },
-            {
-                monster = "Dire Gargouille",
-                level = "78-82",
-                zone = "Xarcabard (S)"
-            },
-            {
-                monster = "Gruesome Gargouille",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #04"
-            },
-            {
-                monster = "Benumbed Vodoriga",
-                level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #08"
-            },
-            {
-                monster = "Eschan Gargouille",
-                level = "115-119",
-                zone = "Escha - Ru'Aun Only aggressive at night."
-            }
-        }
-    },
-    [614] = {
-        name = "Saline Coat",
-        mobs = {
-            {
-                monster = "Ul'xzomit",
-                level = "68-71",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Om'xzomit",
-                level = "76",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Ab'xzomit",
-                level = "75-100",
-                zone = "Abyssea - Konschtat Conflux #03"
-            },
-            {
-                monster = "Eschan Xzomit",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #06"
-            }
-        }
-    },
-    [654] = {
-        name = "Sub-zero Smash",
-        mobs = {
-            {
-                monster = "Ruszor",
-                level = "78-81",
-                zone = "Beaucedine Glacier (S) I-9 / G-10"
-            }
-        }
-    },
-    [611] = {
-        name = "Disseverment",
-        mobs = {
-            {
-                monster = "Ul'aern",
-                level = "68-71",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Om'aern",
-                level = "76",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Aw'aern",
-                level = "81-84",
-                zone = "The Garden of Ru'Hmet"
-            },
-            {
-                monster = "Eschan Il'aern",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #9"
-            }
-        }
-    },
-    [616] = {
-        name = "Temporal Shift",
-        mobs = {
-            {
-                monster = "Ul'hpemde",
-                level = "68-71",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Om'hpemde",
-                level = "76",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Eschan Hpemde",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #9"
-            }
-        }
-    },
-    [585] = {
-        name = "Ram Charge",
-        mobs = {
-            {
-                monster = "Battering Ram",
-                level = "21-23",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Tremor Ram",
-                level = "21-23",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Hammering Ram",
-                level = "78-82",
-                zone = "Abyssea - La Theine Conflux #08"
-            },
-            {
-                monster = "Mosshorn",
-                level = "80-81",
-                zone = "Caedarva Mire Located at (K-6) up the cliffs."
-            }
-        }
-    },
-    [644] = {
-        name = "Mind Blast",
-        mobs = {
-            {
-                monster = "Soulflayer",
-                level = "79-82",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Soulflayer",
-                level = "82-83",
-                zone = "Arrapago Reef"
-            },
-            {
-                monster = "Pneumaflayer",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #04 or #07"
-            }
-        }
-    },
-    [612] = {
-        name = "Actinic Burst",
-        mobs = {
-            {
-                monster = "Eo'ghrah",
-                level = "74-76",
-                zone = "Grand Palace of Hu'Xzoi"
-            },
-            {
-                monster = "Aw'ghrah",
-                level = "78-80",
-                zone = "The Garden of Ru'Hmet"
-            },
-            {
-                monster = "Eschan Ghrah",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #3"
-            }
-        }
-    },
-    [613] = {
-        name = "Reactor Cool",
-        mobs = {
-            {
-                monster = "Eo'zdei",
-                level = "74-76",
-                zone = "Grand Palace of Hu'Xzoi"
-            },
-            {
-                monster = "Aw'zdei",
-                level = "78-80",
-                zone = "The Garden of Ru'Hmet"
-            },
-            {
-                monster = "Eschan Zdei",
-                level = "81-85",
-                zone = "Escha - Ru'Aun #1"
-            }
-        }
-    },
-    [646] = {
-        name = "Magic Hammer",
-        mobs = {
-            {
-                monster = "Poroggo",
-                level = "75-77",
-                zone = "Mamook (G-7)"
-            },
-            {
-                monster = "Poroggo Seducteur",
-                level = "75-90",
-                zone = "Abyssea - La Theine (J-11) Conflux #6"
-            }
-        }
-    },
-    [645] = {
-        name = "Exuviation",
-        mobs = {
-            {
-                monster = "Wamoura",
-                level = "77-80",
-                zone = "Halvung"
-            },
-            {
-                monster = "Wamoura",
-                level = "80-82",
-                zone = "Mount Zhayolm"
-            }
-        }
-    },
-    [615] = {
-        name = "Plasma Charge",
-        mobs = {
-            {
-                monster = "Ul'phuabo",
-                level = "68-71",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Om'phuabo",
-                level = "76",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Eschan Phuabo",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #1"
-            }
-        }
-    },
-    [617] = {
-        name = "Vertical Cleave",
-        mobs = {
-            {
-                monster = "Eo'euvhi",
-                level = "74-76",
-                zone = "Grand Palace of Hu'Xzoi"
-            },
-            {
-                monster = "Aw'euvhi",
-                level = "78-80",
-                zone = "The Garden of Ru'Hmet"
-            },
-            {
-                monster = "Eschan Euvhi",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #12"
-            },
-            {
-                monster = "Thalesek",
-                level = "110",
-                zone = "Central Temenos - Basement II Limbus BF"
-            }
-        }
-    },
-    [656] = {
-        name = "Acrid Stream",
-        mobs = {
-            {
-                monster = "Veld Clionid",
-                level = "75-90",
-                zone = "Abyssea - La Theine Conflux #01"
-            },
-            {
-                monster = "Ley Clionid",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #01"
-            },
-            {
-                monster = "Gully Clionid",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #01"
-            },
-            {
-                monster = "Eschan Clionid",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #13"
-            }
-        }
-    },
-    [663] = {
-        name = "Leafstorm",
-        mobs = {
-            {
-                monster = "Walking Tree",
-                level = "25-28",
-                zone = "Jugner Forest"
-            },
-            {
-                monster = "Fraelissa",
-                level = "33-35",
-                zone = "Jugner Forest Timed spawn approximately every hour at (H-10) - (I-10)"
-            },
-            {
-                monster = "Leshy",
-                level = "52-54",
-                zone = "Lufaise Meadows"
-            },
-            {
-                monster = "Defoliate Treant",
-                level = "71-73",
-                zone = "Wajaom Woodlands F-7"
-            },
-            {
-                monster = "Highland Treant",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #07"
-            },
-            {
-                monster = "Rift Treant",
-                level = "80-95",
-                zone = "Abyssea - Attohwa Conflux #05"
-            },
-            {
-                monster = "Knobby Treant",
-                level = "100-102",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Verdant Treant",
-                level = "100-102",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [664] = {
-        name = "Regeneration",
-        mobs = {
-            {
                 monster = "Sea Monk",
-                level = "21-29",
-                zone = "Ferry - Mhaura/Selbina"
-            },
-            {
-                monster = "Sea Monk",
-                level = "31-35",
-                zone = "Korroloka Tunnel"
-            },
-            {
-                monster = "Kraken",
+                zone = 173,
+              },
+            [3] = {
                 level = "37-38",
-                zone = "Qufim Island"
-            },
-            {
-                monster = "Flying Manta",
+                monster = "Kraken",
+                zone = 126,
+              },
+            [4] = {
                 level = "55-59",
-                zone = "Labyrinth of Onzozo"
-            },
-            {
-                monster = "Jasconius",
+                monster = "Flying Manta",
+                zone = 213,
+              },
+            [5] = {
                 level = "80-95",
-                zone = "Abyssea - Vunkerl Conflux #03"
-            }
-        }
-    },
-    [661] = {
-        name = "Animating Wail",
-        mobs = {
-            {
-                monster = "Qutrub",
-                level = "73-74",
-                zone = "Arrapago Reef Ilrusi Atol Staging Point"
-            },
-            {
-                monster = "Lamia Idolater",
+                monster = "Jasconius",
+                zone = 217,
+              },
+          },
+        levels = {
+            [16] = 61,
+          },
+        mp_cost = 162,
+        prefix = "/magic",
+        range = 4,
+        recast = 39,
+        recast_id = 515,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [517] = {
+        blu_points = 1,
+        cast_time = 2.5,
+        duration = 900,
+        element = 15,
+        en = "Metallic Body",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 517,
+        ja = "メタルボディ",
+        learned_from = {
+            [1] = {
+                level = "1-8",
+                monster = "River Crab",
+                zone = 106,
+              },
+            [2] = {
+                level = "1-8",
+                monster = "River Crab",
+                zone = 115,
+              },
+            [3] = {
+                level = "2-6",
+                monster = "River Crab",
+                zone = 116,
+              },
+            [4] = {
+                level = "2-4",
+                monster = "River Crab",
+                zone = 172,
+              },
+            [5] = {
+                level = "3-8",
+                monster = "River Crab",
+                zone = 100,
+              },
+            [6] = {
+                level = "5-6",
+                monster = "River Crab",
+                zone = 107,
+              },
+            [7] = {
+                level = "102-103",
+                monster = "Perfidious Crab",
+                zone = 262,
+              },
+          },
+        levels = {
+            [16] = 8,
+          },
+        mp_cost = 19,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 517,
+        requirements = 0,
+        skill = 43,
+        status = 37,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [519] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Screwdriver",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 519,
+        ja = "S.ドライバー",
+        learned_from = {
+            [1] = {
+                level = "17-19",
+                monster = "Land Pugil",
+                zone = 2,
+              },
+            [2] = {
+                level = "23-26",
+                monster = "Beach Pugil",
+                zone = 103,
+              },
+            [3] = {
+                level = "29-31",
+                monster = "Spinous Pugil",
+                zone = 2,
+              },
+            [4] = {
+                level = "73-77",
+                monster = "Demonic Pugil",
+                zone = 160,
+              },
+          },
+        levels = {
+            [16] = 26,
+          },
+        mp_cost = 21,
+        prefix = "/magic",
+        range = 2,
+        recast = 14,
+        recast_id = 519,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [521] = {
+        blu_points = 4,
+        cast_time = 4,
+        element = 7,
+        en = "MP Drainkiss",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 521,
+        ja = "MP吸収キッス",
+        learned_from = {
+            [1] = {
+                level = "32-34",
+                monster = "Acrophies",
+                zone = 126,
+              },
+            [2] = {
+                level = "35-38",
+                monster = "Royal Leech",
+                zone = 176,
+              },
+            [3] = {
+                level = "50-59",
+                monster = "Eschan Obdella",
+                zone = 288,
+              },
+            [4] = {
                 level = "79-81",
-                zone = "Caedarva Mire Dvucca Isle Staging Point"
-            },
-            {
-                monster = "Bog Body",
+                monster = "Gneiss Leech",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 42,
+          },
+        mp_cost = 20,
+        prefix = "/magic",
+        range = 2,
+        recast = 26,
+        recast_id = 521,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [522] = {
+        blu_points = 2,
+        cast_time = 4.5,
+        element = 7,
+        en = "Death Ray",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 522,
+        ja = "デスレイ",
+        learned_from = {
+            [1] = {
+                level = "31-34",
+                monster = "Hecteyes",
+                zone = 166,
+              },
+            [2] = {
+                level = "35-38",
+                monster = "Hecteyes",
+                zone = 7,
+              },
+            [3] = {
                 level = "75-90",
-                zone = "Abyssea - Tahrongi #8"
-            }
-        }
-    },
-    [662] = {
-        name = "Battery Charge",
-        mobs = {
-            {
-                monster = "Magic Urn",
-                level = "34-35",
-                zone = "Lower Delkfutt's Tower L-6, Basement, Requires a Delkfutt Key"
-            },
-            {
-                monster = "Clockwork Pod",
-                level = "41-43",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Sentient Carafe",
-                level = "95-99",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Sinister Seidel",
-                level = "85-100",
-                zone = "Abyssea - Grauberg #8"
-            }
-        }
-    },
-    [657] = {
-        name = "Blazing Bound",
-        mobs = {
-            {
-                monster = "Gulch Limule",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi #01"
-            },
-            {
-                monster = "Sods Limule",
-                level = "75-90",
-                zone = "Abyssea - Konschtat #01"
-            },
-            {
-                monster = "Gigadaphnia",
-                level = "75-90",
-                zone = "Abyssea - La Theine #01"
-            },
-            {
-                monster = "Arid Limule",
-                level = "85-99",
-                zone = "Abyssea - Altepa #01"
-            },
-            {
-                monster = "Stream Limule",
-                level = "85-99",
-                zone = "Abyssea - Grauberg #01"
-            },
-            {
-                monster = "Crag Limule",
-                level = "85-99",
-                zone = "Abyssea - Uleguerand #01"
-            },
-            {
-                monster = "Eschan Limule",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #4"
-            }
-        }
-    },
-    [659] = {
-        name = "Demoralizing Roar",
-        mobs = {
-            {
-                monster = "Lesser Wivre",
-                level = "45-47",
-                zone = "North Gustaberg (S)"
-            },
-            {
-                monster = "Wivre",
-                level = "68-74",
-                zone = "Grauberg (S)"
-            },
-            {
-                monster = "Wivre",
-                level = "78-83",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Gharial",
-                level = "80",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Glade Wivre",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #08"
-            },
-            {
-                monster = "Mesa Wivre",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #05"
-            }
-        }
-    },
-    [665] = {
-        name = "Final Sting",
-        mobs = {
-            {
-                monster = "Maneating Hornet",
+                monster = "Beholder",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 34,
+          },
+        mp_cost = 49,
+        prefix = "/magic",
+        range = 9,
+        recast = 29.25,
+        recast_id = 522,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [524] = {
+        blu_points = 2,
+        cast_time = 1.5,
+        element = 3,
+        en = "Sandspin",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 524,
+        ja = "土竜巻",
+        learned_from = {
+            [1] = {
+                level = "1",
+                monster = "Tunnel Worm",
+                zone = 107,
+              },
+            [2] = {
+                level = "1",
+                monster = "Tunnel Worm",
+                zone = 106,
+              },
+            [3] = {
+                level = "1-3",
+                monster = "Tunnel Worm",
+                zone = 172,
+              },
+            [4] = {
+                level = "1-5",
+                monster = "Carrion Worm",
+                zone = 100,
+              },
+            [5] = {
+                level = "1-5",
+                monster = "Carrion Worm",
+                zone = 101,
+              },
+            [6] = {
+                level = "1-5",
+                monster = "Carrion Worm",
+                zone = 100,
+              },
+            [7] = {
                 level = "2-5",
-                zone = "South Gustaberg"
-            },
-            {
-                monster = "Giant Bee",
-                level = "5-8",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Death Jacket",
-                level = "40-42",
-                zone = "Crawlers' Nest"
-            },
-            {
-                monster = "Belaboring Wasp",
-                level = "100",
-                zone = "Ceizak Battlegrounds"
-            }
-        }
-    },
-    [666] = {
-        name = "Goblin Rush",
-        mobs = {
-            {
-                monster = "Goblins",
-                level = "17-25",
-                zone = "Valkurm Dunes"
-            },
-            {
-                monster = "Goblins",
-                level = "32-47",
-                zone = "Yuhtunga Jungle"
-            },
-            {
-                monster = "Goblin Meatgrinder",
-                level = "75-90",
-                zone = "Abyssea - Grauberg Conflux #03"
-            },
-            {
-                monster = "Goblin Plunderer",
-                level = "75-90",
-                zone = "Abyssea - Grauberg"
-            },
-            {
-                monster = "Goblin Healer",
-                level = "85-90",
-                zone = "Dangruf Wadi"
-            }
-        }
-    },
-    [667] = {
-        name = "Vanity Dive",
-        mobs = {
-            {
-                monster = "Wanderer",
-                level = "22-36",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Wanderer",
-                level = "22-36",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Wanderer",
-                level = "22-36",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Wanderer",
-                level = "49-56",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Idle Wanderer",
-                level = "82-85",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Idle Wanderer",
-                level = "82-85",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Idle Wanderer",
-                level = "82-85",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Idle Wanderer",
-                level = "82-85",
-                zone = "Promyvion - Vahzl"
-            }
-        }
-    },
-    [668] = {
-        name = "Magic Barrier",
-        mobs = {
-            {
-                monster = "Bat Eye",
-                level = "40-42",
-                zone = "Beaucedine Glacier"
-            },
-            {
-                monster = "Evil Eye",
-                level = "45-48",
-                zone = "Xarcabard"
-            },
-            {
-                monster = "Morbid Eye",
-                level = "52-55",
-                zone = "Castle Zvahl Baileys"
-            },
-            {
-                monster = "Deadly Iris",
-                level = "55-56",
-                zone = "Castle Zvahl Keep"
-            },
-            {
-                monster = "Gawper",
-                level = "80-81",
-                zone = "Beaucedine Glacier (S) Area around H9"
-            }
-        }
-    },
-    [669] = {
-        name = "Whirl of Rage",
-        mobs = {
-            {
-                monster = "Poltergeist",
-                level = "18-20",
-                zone = "La Theine Plateau"
-            },
-            {
-                monster = "Poltergeist",
-                level = "18-20",
-                zone = "Konschtat Highlands"
-            },
-            {
-                monster = "Poltergeist",
-                level = "18-20",
-                zone = "Tahrongi Canyon"
-            },
-            {
-                monster = "Boggart",
-                level = "25-27",
-                zone = "Meriphataud Mountains"
-            },
-            {
-                monster = "Ominous Weapon",
-                level = "61-65",
-                zone = "Ro'Maeve"
-            },
-            {
-                monster = "Eschan Weapon",
+                monster = "Carrion Worm",
+                zone = 190,
+              },
+            [8] = {
+                level = "2-5",
+                monster = "Stone Eater",
+                zone = 107,
+              },
+            [9] = {
+                level = "2-5",
+                monster = "Stone Eater",
+                zone = 106,
+              },
+            [10] = {
+                level = "3-5",
+                monster = "Stone Eater",
+                zone = 191,
+              },
+            [11] = {
+                level = "3-5",
+                monster = "Dirt Eater",
+                zone = 145,
+              },
+            [12] = {
+                level = "5-7",
+                monster = "Stone Eater",
+                zone = 190,
+              },
+            [13] = {
+                level = "7-11",
+                monster = "Rock Eater",
+                zone = 102,
+              },
+            [14] = {
+                level = "7-11",
+                monster = "Rock Eater",
+                zone = 108,
+              },
+            [15] = {
+                level = "9-12",
+                monster = "Giant Grub",
+                zone = 191,
+              },
+            [16] = {
+                level = "10-12",
+                monster = "Earth Eater",
+                zone = 145,
+              },
+            [17] = {
+                level = "103-105",
+                monster = "Crepuscular Worm",
+                zone = 270,
+              },
+          },
+        levels = {
+            [16] = 1,
+          },
+        mp_cost = 10,
+        prefix = "/magic",
+        range = 4,
+        recast = 9.75,
+        recast_id = 524,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [527] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Smite of Rage",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 527,
+        ja = "怒りの一撃",
+        learned_from = {
+            [1] = {
+                level = "28-30",
+                monster = "Dancing Weapon",
+                zone = 126,
+              },
+            [2] = {
+                level = "36-38",
+                monster = "Evil Weapon",
+                zone = 120,
+              },
+            [3] = {
                 level = "61-69",
-                zone = "Escha - Zi'Tah"
-            }
-        }
-    },
-    [670] = {
-        name = "Benthic Typhoon",
-        mobs = {
-            {
-                monster = "Rock Murex",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #01"
-            },
-            {
-                monster = "Escarp Murex",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #03"
-            },
-            {
-                monster = "River Murex",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #01"
-            },
-            {
-                monster = "Hillock Murex",
-                level = "Information Needed",
-                zone = "Abyssea - Grauberg Conflux #02"
-            },
-            {
-                monster = "Eschan Murex",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #7"
-            }
-        }
-    },
-    [671] = {
-        name = "Auroral Drape",
-        mobs = {
-            {
-                monster = "Weeper",
-                level = "25-37",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Weeper",
-                level = "25-37",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Weeper",
-                level = "25-37",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Weeper",
-                level = "50-57",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Woeful Weeper",
-                level = "85-89",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Woeful Weeper",
-                level = "85-89",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Woeful Weeper",
-                level = "85-89",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Woeful Weeper",
-                level = "85-89",
-                zone = "Promyvion - Vahzl"
-            }
-        }
-    },
-    [672] = {
-        name = "Osmosis",
-        mobs = {
-            {
-                monster = "Crevice Amoeban",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #00"
-            },
-            {
-                monster = "Protoamoeban",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #05"
-            },
-            {
-                monster = "Stream Amoeban",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #01"
-            },
-            {
-                monster = "Pond Amoeban",
-                level = "Information Needed",
-                zone = "Abyssea - Grauberg Conflux #01"
-            },
-            {
-                monster = "Eschan Amoeban",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #10"
-            }
-        }
-    },
-    [673] = {
-        name = "Quad. Continuum",
-        mobs = {
-            {
-                monster = "Gorger",
-                level = "29-41",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Gorger",
-                level = "54-60",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Hadal Satiator",
-                level = "Information Needed",
-                zone = "Abyssea - Konschtat Resting nearby with an Azure demilune abyssite"
-            },
-            {
-                monster = "Hadal Mirror",
-                level = "Information Needed",
-                zone = "Abyssea - Konschtat Spawns when Hadal Satiator uses Fission ability"
-            }
-        }
-    },
-    [674] = {
-        name = "Fantod",
-        mobs = {
-            {
-                monster = "Hippogryph",
-                level = "40-42",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Cloud Hippogryph",
-                level = "45-47",
-                zone = "Riverne - Site A01"
-            },
-            {
-                monster = "Nimbus Hippogryph",
-                level = "49-52",
-                zone = "Riverne - Site B01"
-            },
-            {
-                monster = "Strato Hippogryph",
-                level = "55-57",
-                zone = "Riverne - Site B01"
-            },
-            {
-                monster = "Grauberg Hippogryph",
-                level = "73-75",
-                zone = "Grauberg (S) (G-8)"
-            },
-            {
-                monster = "Quarrelsome Hippogryph",
-                level = "122-124",
-                zone = "Reisenjima"
-            }
-        }
-    },
-    [675] = {
-        name = "Thermal Pulse",
-        mobs = {
-            {
-                monster = "Wamouracampa",
-                level = "73-76",
-                zone = "Halvung"
-            },
-            {
-                monster = "Wamoura Prince",
+                monster = "Eschan Weapon",
+                zone = 288,
+              },
+            [4] = {
                 level = "79-81",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Gullycampa",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #07"
-            }
-        }
-    },
-    [677] = {
-        name = "Empty Thrash",
-        mobs = {
-            {
-                monster = "Craver",
-                level = "29-41",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Craver",
-                level = "54-60",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Hungerer",
-                level = "Information Needed",
-                zone = "Abyssea - Tahrongi"
-            }
-        }
-    },
-    [678] = {
-        name = "Dream Flower",
-        mobs = {
-            {
-                monster = "Mandragora",
-                level = "3-6",
-                zone = "West Sarutabaruta"
-            },
-            {
-                monster = "Sylvestre",
-                level = "15-18",
-                zone = "Buburimu Peninsula"
-            },
-            {
-                monster = "Hannequet",
-                level = "80-95",
-                zone = "Abyssea - Attohwa"
-            },
-            {
-                monster = "Blanched Mandragora",
-                level = "100",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Pinetorum",
-                level = "100",
-                zone = "Yahse Hunting Grounds"
-            }
-        }
-    },
-    [679] = {
-        name = "Occultation",
-        mobs = {
-            {
-                monster = "Seether",
-                level = "31-38",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Seether",
-                level = "31-38",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Seether",
-                level = "31-38",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Seether",
-                level = "51-58",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Meditator",
-                level = "~80",
-                zone = "Abyssea - La Theine"
-            },
-            {
-                monster = "Livid Seether",
-                level = "85-89",
-                zone = "Promyvion - Dem"
-            },
-            {
-                monster = "Livid Seether",
-                level = "85-89",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Livid Seether",
-                level = "85-89",
-                zone = "Promyvion - Mea"
-            },
-            {
-                monster = "Livid Seether",
-                level = "85-89",
-                zone = "Promyvion - Vahzl"
-            }
-        }
-    },
-    [680] = {
-        name = "Charged Whisker",
-        mobs = {
-            {
-                monster = "Attohwa Coeurl",
-                level = "37-39",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Master Coeurl",
-                level = "46-48",
-                zone = "Attohwa Chasm"
-            },
-            {
-                monster = "Lynx",
-                level = "46-48",
-                zone = "Sauromugue Champaign (S)"
-            },
-            {
-                monster = "Lynx",
-                level = "49-51",
-                zone = "Meriphataud Mountains (S)"
-            },
-            {
-                monster = "War Lynx",
-                level = "68-72",
-                zone = "Meriphataud Mountains (S) 12 spawns at K-4 to J-6"
-            },
-            {
-                monster = "Caracal",
-                level = "80-82",
-                zone = "Xarcabard (S) 10 spawns at G-7"
-            }
-        }
-    },
-    [681] = {
-        name = "Winds of Promy.",
-        mobs = {
-            {
-                monster = "Thinker",
-                level = "28-40",
-                zone = "Promyvion - Holla"
-            },
-            {
-                monster = "Cerebrator",
-                level = "38",
-                zone = "Promyvion - Holla Spawns on level 3"
-            },
-            {
-                monster = "Thinker",
-                level = "52-60",
-                zone = "Promyvion - Vahzl"
-            },
-            {
-                monster = "Warder of Dignity",
+                monster = "Decorative Weapon",
+                zone = 178,
+              },
+          },
+        levels = {
+            [16] = 34,
+          },
+        mp_cost = 28,
+        prefix = "/magic",
+        range = 2,
+        recast = 13,
+        recast_id = 527,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [529] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Bludgeon",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 529,
+        ja = "メッタ打ち",
+        learned_from = {
+            [1] = {
+                level = "1-5",
+                monster = "Two of Batons (Monster)",
+                zone = 115,
+              },
+            [2] = {
+                level = "5-9",
+                monster = "Three of Batons (Monster)",
+                zone = 115,
+              },
+            [3] = {
+                level = "10-14",
+                monster = "Four of Batons (Monster)",
+                zone = 115,
+              },
+            [4] = {
+                level = "15-19",
+                monster = "Five of Batons (Monster)",
+                zone = 115,
+              },
+            [5] = {
+                level = "20-24",
+                monster = "Six of Batons (Monster)",
+                zone = 115,
+              },
+            [6] = {
+                level = "40-44",
+                monster = "Ten of Batons (Monster)",
+                zone = 115,
+              },
+            [7] = {
+                level = "40-44",
+                monster = "Ten of Swords (Monster)",
+                zone = 115,
+              },
+            [8] = {
                 level = "?",
-                zone = "Escha - Ru'Aun Lottery Spawn from Eschan Limules (#4)"
-            }
-        }
-    },
-    [682] = {
-        name = "Delta Thrust",
-        mobs = {
-            {
-                monster = "Peiste",
-                level = "67-71",
-                zone = "Grauberg (S)"
-            },
-            {
-                monster = "Peiste",
-                level = "74-77",
-                zone = "Pashhow Marshlands (S)"
-            },
-            {
-                monster = "Maritime Peiste",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #07"
-            },
-            {
-                monster = "Gukumatz",
-                level = "75-90",
-                zone = "Abyssea - Misareaux Conflux #07"
-            },
-            {
-                monster = "Mountain Peiste",
-                level = "102-104",
-                zone = "Morimar Basalt Fields Bivouac #5"
-            }
-        }
-    },
-    [683] = {
-        name = "Evryone. Grudge",
-        mobs = {
-            {
-                monster = "Tonberry",
-                level = "45-49",
-                zone = "Yhoator Jungle"
-            },
-            {
-                monster = "Tonberry",
-                level = "51-59",
-                zone = "Temple of Uggalepih"
-            },
-            {
-                monster = "Tonberry",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #08"
-            }
-        }
-    },
-    [684] = {
-        name = "Reaving Wind",
-        mobs = {
-            {
-                monster = "Amphiptere",
-                level = "Information Needed",
-                zone = "Beaucedine Glacier (S)"
-            },
-            {
-                monster = "Greater Amphiptere",
-                level = "83",
-                zone = "Xarcabard (S)"
-            },
-            {
-                monster = "Turul",
-                level = "Information Needed",
-                zone = "Abyssea - Konschtat"
-            }
-        }
-    },
-    [685] = {
-        name = "Barrier Tusk",
-        mobs = {
-            {
-                monster = "Marid",
-                level = "78-79",
-                zone = "Wajaom Woodlands"
-            },
-            {
-                monster = "Marid",
-                level = "78-79",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Grand Marid",
-                level = "78-79",
-                zone = "Bhaflau Thickets"
-            },
-            {
-                monster = "Morose Marid",
-                level = "78-82",
-                zone = "Abyssea - Vunkerl Conflux #00"
-            },
-            {
-                monster = "Ayravata",
-                level = "Information Needed",
-                zone = "Abyssea - Vunkerl Conflux #00"
-            },
-            {
-                monster = "Iriz Ima",
-                level = "87-88",
-                zone = "Wajaom Woodlands"
-            }
-        }
-    },
-    [686] = {
-        name = "Mortal Ray",
-        mobs = {
-            {
-                monster = "Taurus",
-                level = "37-38",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Stegotaur",
-                level = "44-48",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Stegotaur",
-                level = "47-49",
-                zone = "Sacrarium"
-            },
-            {
-                monster = "Teratotaur",
-                level = "57-59",
-                zone = "Sacrarium"
-            },
-            {
-                monster = "Brontotaur",
-                level = "68-71",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Tyrannotaur",
-                level = "72-75",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Molech",
-                level = "78-81",
-                zone = "Uleguerand Range"
-            },
-            {
-                monster = "Dryptotaur",
-                level = "79-80",
-                zone = "Beaucedine Glacier (S)"
-            }
-        }
-    },
-    [687] = {
-        name = "Water Bomb",
-        mobs = {
-            {
-                monster = "Poroggo",
-                level = "75-77",
-                zone = "Mamook"
-            },
-            {
-                monster = "Poroggo Seducteur",
-                level = "75-90",
-                zone = "Abyssea - La Theine (J-11) Conflux #6"
-            }
-        }
-    },
-    [688] = {
-        name = "Heavy Strike",
-        mobs = {
-            {
-                monster = "Stone Golem",
-                level = "40-42",
-                zone = "Beaucedine Glacier"
-            },
-            {
-                monster = "Ore Golem",
-                level = "43-45",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Colossus",
+                monster = "King of Batons (Monster)",
+                zone = 146,
+              },
+            [9] = {
+                level = "?",
+                monster = "King of Coins (Monster)",
+                zone = 146,
+              },
+            [10] = {
+                level = "?",
+                monster = "King of Cups (Monster)",
+                zone = 146,
+              },
+            [11] = {
+                level = "?",
+                monster = "King of Swords (Monster)",
+                zone = 146,
+              },
+          },
+        levels = {
+            [16] = 18,
+          },
+        mp_cost = 16,
+        prefix = "/magic",
+        range = 2,
+        recast = 11.75,
+        recast_id = 529,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [530] = {
+        blu_points = 4,
+        cast_time = 1.5,
+        duration = 300,
+        element = 15,
+        en = "Refueling",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 530,
+        ja = "リフュエリング",
+        learned_from = {
+            [1] = {
+                level = "38-40",
+                monster = "Atomic Cluster",
+                zone = 24,
+              },
+            [2] = {
+                level = "44-46",
+                monster = "Atomic Cluster",
+                zone = 25,
+              },
+            [3] = {
+                level = "46-48",
+                monster = "Atomic Cluster",
+                zone = 30,
+              },
+            [4] = {
                 level = "56-58",
-                zone = "Fei'Yin"
-            },
-            {
-                monster = "Aura Statue",
-                level = "79-84",
-                zone = "The Shrine of Ru'Avitau (H-9)"
-            },
-            {
-                monster = "Verglas Golem",
-                level = "85-100",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            }
-        }
-    },
-    [689] = {
-        name = "Dark Orb",
-        mobs = {
-            {
-                monster = "Gargouille",
-                level = "77-80",
-                zone = "Beaucedine Glacier (S)"
-            },
-            {
-                monster = "Dire Gargouille",
-                level = "78-82",
-                zone = "Xarcabard (S)"
-            },
-            {
-                monster = "Gruesome Gargouille",
-                level = "75-90",
-                zone = "Abyssea - Vunkerl Conflux #04"
-            },
-            {
-                monster = "Benumbed Vodoriga",
-                level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #08"
-            },
-            {
-                monster = "Eschan Gargouille",
-                level = "115-119",
-                zone = "Escha - Ru'Aun Only aggressive at night"
-            }
-        }
-    },
-    [690] = {
-        name = "White Wind",
-        mobs = {
-            {
-                monster = "Snaggletooth Peapuk",
-                level = "101-105",
-                zone = "The Boyahda Tree"
-            },
-            {
-                monster = "Waugyl",
-                level = "?",
-                zone = "Abyssea - Altepa"
-            },
-            {
-                monster = "Phantom Puk",
-                level = "?",
-                zone = "Jade Sepulcher"
-            }
-        }
-    },
-    [692] = {
-        name = "Sudden Lunge",
-        mobs = {
-            {
-                monster = "Ladybug",
-                level = "45-47",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Goblin's Ladybug",
-                level = "52-54",
-                zone = "East Ronfaure (S)"
-            },
-            {
-                monster = "Biddybug",
-                level = "62-64",
-                zone = "Jugner Forest (S)"
-            },
-            {
-                monster = "Mariehene",
-                level = "71-74",
-                zone = "La Vaule (S)"
-            },
-            {
-                monster = "Nannakola",
-                level = "79-82",
-                zone = "Abyssea - Altepa Conflux #01 or #03"
-            }
-        }
-    },
-    [736] = {
-        name = "Thunderbolt (U)",
-        mobs = {
-            {
-                monster = "Behemoth",
-                level = "80",
-                zone = "Behemoth's Dominion Spawned with Beastly Shank"
-            },
-            {
-                monster = "King Behemoth",
-                level = "85",
-                zone = "Behemoth's Dominion Spawned with Savory Shank"
-            },
-            {
-                monster = "Kholomodumo",
-                level = "Information Needed",
-                zone = "Jugner Forest (S) Voidwatch Crimson Abyssite III"
-            },
-            {
-                monster = "Awoken Dendainsonne",
-                level = "Information Needed",
-                zone = "Western Altepa Desert (I-6) Peculiar Foes IX (M)"
-            }
-        }
-    },
-    [737] = {
-        name = "Harden Shell (U)",
-        mobs = {
-            {
-                monster = "Thalassinon",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #05"
-            },
-            {
-                monster = "Genbu",
-                level = "88-90",
-                zone = "Ru'Aun Gardens Spawned with Gem of the North and Winterstone"
-            },
-            {
-                monster = "Pygmytoise",
-                level = "103-105",
-                zone = "Gustav Tunnel"
-            }
-        }
-    },
-    [693] = {
-        name = "Quadrastrike",
-        mobs = {
-            {
-                monster = "Kindred Vanguard",
-                level = "75-95",
-                zone = "Dynamis - Xarcabard"
-            },
-            {
-                monster = "Kindred Vanguard",
-                level = "75-95",
-                zone = "Dynamis - Tavnazia"
-            }
-        }
-    },
-    [694] = {
-        name = "Vapor Spray",
-        mobs = {
-            {
-                monster = "Ul'phuabo",
-                level = "68-71",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Om'phuabo",
-                level = "76",
-                zone = "Al'Taieu"
-            },
-            {
-                monster = "Eschan Phuabo",
-                level = "115-119",
-                zone = "Escha - Ru'Aun #1"
-            }
-        }
-    },
-    [738] = {
-        name = "Absolute Terror (U)",
-        mobs = {
-            {
-                monster = "Naul",
-                level = "75-90",
-                zone = "Abyssea - Tahrongi Conflux #03"
-            },
-            {
-                monster = "Fafnir",
-                level = "88-90",
-                zone = "Dragon's Aery Spawned with Honey Wine"
-            },
-            {
-                monster = "Nidhogg",
-                level = "88-90",
-                zone = "Dragon's Aery Spawned with Sweet Tea"
-            }
-        }
-    },
-    [695] = {
-        name = "Thunder Breath",
-        mobs = {
-            {
-                monster = "Balaur",
-                level = "Information Needed",
-                zone = "Abyssea - Konschtat Conflux #07. Timed Spawn NM (10-15 minutes)"
-            },
-            {
-                monster = "Minaruja",
-                level = "Information Needed",
-                zone = "Abyssea - Grauberg Conflux #03. Popped NM"
-            },
-            {
-                monster = "Kindred's Vouivre",
-                level = "77~79, 89~91",
-                zone = "Dynamis - Xarcabard Pet of Kindred Beastmaster. Will despawn if the master is killed. If killed, will be resummoned by the master shortly afterwards"
-            },
-            {
-                monster = "Kindred's Vouivre",
-                level = "94~96",
-                zone = "Dynamis - Tavnazia Pet of Kindred Beastmaster. Will despawn if the master is killed. If killed, will be resummoned by the master shortly afterwards"
-            }
-        }
-    },
-    [739] = {
-        name = "Gates of Hades (U)",
-        mobs = {
-            {
-                monster = "Cerberus",
-                level = "Information Needed",
-                zone = "Nyzul Isle Possible spawn on floors 60, 80, 100"
-            },
-            {
-                monster = "Sarameya",
-                level = "Information Needed",
-                zone = "Mount Zhayolm Zeni NM"
-            },
-            {
-                monster = "Black Shuck",
-                level = "Information Needed",
-                zone = "Lebros Cavern Captain Rank Assault - Better Than One"
-            },
-            {
-                monster = "Orthrus",
-                level = "Information Needed",
-                zone = "Abyssea - Altepa Spawned with Steaming Cerberus Tongue"
-            },
-            {
-                monster = "Mired Cerberus",
-                level = "Information Needed",
-                zone = "Hall of Ki First wave guaranteed, possible spawn on 3rd wave or higher"
-            },
-            {
-                monster = "Mired Orthrus",
-                level = "Information Needed",
-                zone = "Hall of Ki Possible spawn after first wave"
-            },
-            {
-                monster = "Awoken Freke",
-                level = "Information Needed",
-                zone = "Batallia Downs Peculiar Foes X Monthly RoE"
-            }
-        }
-    },
-    [740] = {
-        name = "Tourbillion (U)",
-        mobs = {
-            {
-                monster = "Cerberus",
-                level = "Information Needed",
-                zone = "Nyzul Isle Possible spawn on floors 60, 80, 100"
-            },
-            {
-                monster = "Sarameya",
-                level = "Information Needed",
-                zone = "Mount Zhayolm Zeni NM"
-            },
-            {
-                monster = "Black Shuck",
-                level = "Information Needed",
-                zone = "Lebros Cavern Captain Rank Assault - Better Than One"
-            },
-            {
-                monster = "Orthrus",
-                level = "Information Needed",
-                zone = "Abyssea - Altepa Spawned with Steaming Cerberus Tongue"
-            },
-            {
-                monster = "Mired Cerberus",
-                level = "Information Needed",
-                zone = "Hall of Ki First wave guaranteed, possible spawn on 3rd wave or higher"
-            },
-            {
-                monster = "Mired Orthrus",
-                level = "Information Needed",
-                zone = "Hall of Ki Possible spawn after first wave"
-            },
-            {
-                monster = "Awoken Freke",
-                level = "Information Needed",
-                zone = "Batallia Downs Peculiar Foes X Monthly RoE"
-            }
-        }
-    },
-    [696] = {
-        name = "O. Counterstance",
-        mobs = {
-            {
-                monster = "Orc",
-                level = "77-79",
-                zone = "Vunkerl Inlet (S)"
-            },
-            {
-                monster = "Orc",
-                level = "76-79",
-                zone = "Jugner Forest (S)"
-            },
-            {
-                monster = "Orc",
-                level = "77-79",
-                zone = "La Vaule (S)"
-            },
-            {
-                monster = "Orc",
-                level = "77-79",
-                zone = "Castle Zvahl Baileys (S)"
-            }
-        }
-    },
-    [697] = {
-        name = "Amorphic Spikes",
-        mobs = {
-            {
-                monster = "Black Pudding",
+                monster = "Nitro Cluster",
+                zone = 29,
+              },
+            [5] = {
                 level = "73-75",
-                zone = "Halvung"
-            },
-            {
-                monster = "Ebony Pudding",
-                level = "75-80",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Pitchy Pudding",
-                level = "77-79",
-                zone = "Beadeaux (S)"
-            },
-            {
-                monster = "Licorice",
-                level = "75-90",
-                zone = "Abyssea - Konschtat Conflux #06"
-            },
-            {
-                monster = "Awoken Mokkuralfi",
-                level = "Information Needed",
-                zone = "Mount Zhayolm Peculiar Foes II RoE"
-            }
-        }
-    },
-    [741] = {
-        name = "Pyric Bulwark (U)",
-        mobs = {
-            {
-                monster = "Ningishzida",
-                level = "Information Needed",
-                zone = "Abyssea - Grauberg Conflux #08"
-            },
-            {
-                monster = "Orochi",
-                level = "Information Needed",
-                zone = "Mamool Ja Training Grounds Captain Rank Assault - The Susanoo Shuffle"
-            },
-            {
-                monster = "Hydra",
-                level = "Information Needed",
-                zone = "Nyzul Isle Investigation Possible spawn on floors 60, 80, 100"
-            },
-            {
-                monster = "Tinnin",
-                level = "Information Needed",
-                zone = "Wajaom Woodlands Tier IV ZNM"
-            }
-        }
-    },
-    [698] = {
-        name = "Wind Breath",
-        mobs = {
-            {
-                monster = "Shadow Dragon",
+                monster = "Sweeping Cluster",
+                zone = 61,
+              },
+            [6] = {
+                level = "80-95",
+                monster = "Dynamo Cluster",
+                zone = 216,
+              },
+          },
+        levels = {
+            [16] = 48,
+          },
+        mp_cost = 29,
+        prefix = "/magic",
+        range = 0,
+        recast = 30,
+        recast_id = 530,
+        requirements = 0,
+        skill = 43,
+        status = 33,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [531] = {
+        blu_points = 3,
+        cast_time = 5.25,
+        element = 1,
+        en = "Ice Break",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 531,
+        ja = "アイスブレイク",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Stone Golem",
+                zone = 111,
+              },
+            [2] = {
+                level = "43-45",
+                monster = "Ore Golem",
+                zone = 204,
+              },
+            [3] = {
+                level = "56-58",
+                monster = "Colossus",
+                zone = 204,
+              },
+            [4] = {
+                level = "79-84",
+                monster = "Aura Statue",
+                zone = 178,
+              },
+            [5] = {
+                level = "85-100",
+                monster = "Verglas Golem",
+                zone = 253,
+              },
+            [6] = {
+                level = "85-100",
+                monster = "Sisyphus",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 50,
+          },
+        mp_cost = 142,
+        prefix = "/magic",
+        range = 4,
+        recast = 33.75,
+        recast_id = 531,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [532] = {
+        blu_points = 4,
+        cast_time = 4.5,
+        element = 4,
+        en = "Blitzstrahl",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 532,
+        ja = "B.シュトラール",
+        learned_from = {
+            [1] = {
+                level = "28-30",
+                monster = "Chaos Idol",
+                zone = 184,
+              },
+            [2] = {
+                level = "41-43",
+                monster = "Drone",
+                zone = 204,
+              },
+            [3] = {
+                level = "53-55",
+                monster = "Talos",
+                zone = 204,
+              },
+            [4] = {
+                level = "85-100",
+                monster = "Sand Sweeper",
+                zone = 218,
+              },
+            [5] = {
+                level = "77-78 Verification Needed",
+                monster = "Aura Butler",
+                zone = 178,
+              },
+          },
+        levels = {
+            [16] = 44,
+          },
+        mp_cost = 70,
+        prefix = "/magic",
+        range = 9,
+        recast = 29.25,
+        recast_id = 532,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [533] = {
+        blu_points = 3,
+        cast_time = 3.25,
+        element = 0,
+        en = "Self-Destruct",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 533,
+        ja = "自爆",
+        learned_from = {
+            [1] = {
+                level = "28-30",
+                monster = "Spunkie",
+                zone = 196,
+              },
+            [2] = {
+                level = "35-38",
+                monster = "Feu Follet",
+                zone = 196,
+              },
+            [3] = {
+                level = "45",
+                monster = "Puroboros",
+                zone = 197,
+              },
+            [4] = {
                 level = "52-53",
-                zone = "Xarcabard"
-            },
-            {
-                monster = "Vanguard Dragon",
-                level = "Information Needed",
-                zone = "Dynamis - Xarcabard"
-            },
-            {
-                monster = "Rift Dragon",
-                level = "75-90",
-                zone = "Abyssea - Attohwa Conflux #02"
-            }
-        }
-    },
-    [699] = {
-        name = "Barbed Crescent",
-        mobs = {
-            {
-                monster = "Fomor",
-                level = "41-48",
-                zone = "Phomiuna Aqueducts"
-            },
-            {
-                monster = "Ephramadian Shade",
-                level = "75-77",
-                zone = "Caedarva Mire"
-            },
-            {
-                monster = "Fallen Volunteer",
-                level = "72-74",
-                zone = "Arrapago Reef F-9 Map 3"
-            },
-            {
-                monster = "Fallen Imperial Trooper",
-                level = "72-74",
-                zone = "Arrapago Reef F-9 Map 3"
-            },
-            {
-                monster = "Fallen Imperial Wizard",
-                level = "72-74",
-                zone = "Arrapago Reef F-9 Map 3"
-            }
-        }
-    },
-    [742] = {
-        name = "Bilgestorm (U)",
-        mobs = {
-            {
-                monster = "King Goldemar",
-                level = "Information Needed",
-                zone = "Periqia The Price is Right (Assault)"
-            },
-            {
-                monster = "Dvalinn",
-                level = "Information Needed",
-                zone = "Abyssea - Vunkerl Conflux #07 - Popped NM"
-            },
-            {
-                monster = "Durinn",
-                level = "Information Needed",
-                zone = "Abyssea - Vunkerl Conflux #07 - Popped NM"
-            },
-            {
-                monster = "Soaring Dvergr",
-                level = "Information Needed",
-                zone = "Legion Hall of Im, Wave1 & 3+"
-            },
-            {
-                monster = "Soaring Dweorg",
-                level = "Information Needed",
-                zone = "Legion Hall of Im, Wave 2+"
-            }
-        }
-    },
-    [743] = {
-        name = "Bloodrake (U)",
-        mobs = {
-            {
-                monster = "Varkolak",
-                level = "89",
-                zone = "Castle Zvahl Keep (S) Behind hidden doors at G-10, H-6, and J-9"
-            },
-            {
-                monster = "Oupire",
-                level = "88",
-                zone = "Alzadaal Undersea Ruins Timed Spawn 4-5 hours"
-            },
-            {
-                monster = "Count Dracula",
-                level = "80-82",
-                zone = "Leujaoam Sanctum Captain Rank Assault - Bloody Rondo"
-            },
-            {
-                monster = "Wurdalak",
-                level = "97-99",
-                zone = "Bostaunieux Oubliette J-7/K-7 Map 2"
-            },
-            {
-                monster = "Lord Asag",
-                level = "100",
-                zone = "Meriphataud Mountains Voidwatch (Jade III) - D-5, E-4, H-11"
-            }
-        }
-    },
-    [700] = {
-        name = "Nat. Meditation",
-        mobs = {
-            {
-                monster = "Calfcleaving Chapuli",
-                level = "Information Needed",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
-                monster = "Fernfelling Chapuli",
-                level = "Information Needed",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Burrowing Chapuli",
-                level = "Information Needed",
-                zone = "Sih Gates"
-            },
-            {
-                monster = "Cthonic Chapuli",
-                level = "Information Needed",
-                zone = "Moh Gates"
-            },
-            {
-                monster = "Agitated Chapuli",
-                level = "122~124",
-                zone = "Reisenjima"
-            }
-        }
-    },
-    [706] = {
-        name = "Glutinous Dart",
-        mobs = {
-            {
-                monster = "Velkk",
-                level = "Information Needed",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
-                monster = "Velkk",
-                level = "Information Needed",
-                zone = "Foret de Hennetiel"
-            },
-            {
-                monster = "Velkk",
-                level = "Information Needed",
-                zone = "Dho Gates"
-            },
-            {
-                monster = "Velkk",
-                level = "Information Needed",
-                zone = "Marjami Ravine"
-            }
-        }
-    },
-    [704] = {
-        name = "Paralyzing Triad",
-        mobs = {
-            {
-                monster = "Umbril",
-                level = "100+",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
-                monster = "Appetent Umbril",
-                level = "100+",
-                zone = "Ceizak Battlegrounds"
-            },
-            {
-                monster = "Phantasmagoric Umbril",
-                level = "104",
-                zone = "Foret de Hennetiel"
-            },
-            {
-                monster = "Snowcap Umbril",
-                level = "103-106",
-                zone = "Morimar Basalt Fields"
-            },
-            {
-                monster = "Shadowscourge Umbril",
-                level = "106+",
-                zone = "Yorcia Weald"
-            },
-            {
-                monster = "Livid Umbril",
-                level = "103-106",
-                zone = "Cirdas Caverns"
-            },
-            {
-                monster = "Firth Umbril",
-                level = "114+",
-                zone = "Dho Gates"
-            }
-        }
-    },
-    [701] = {
-        name = "Tem. Upheaval",
-        mobs = {
-            {
-                monster = "Twitherym Infestation",
-                level = "100-101",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
-                monster = "Careening Twitherym",
-                level = "100-101",
-                zone = "Ceizak Battlegrounds (I-10)"
-            },
-            {
-                monster = "Malodorous Twitherym",
-                level = "Information Needed",
-                zone = "Sih Gates"
-            },
-            {
-                monster = "Repugnant Twitherym",
-                level = "?",
-                zone = "Moh Gates"
-            },
-            {
-                monster = "Frosty Twitherym",
-                level = "Information Needed",
-                zone = "Morimar Basalt Fields"
-            },
-            {
-                monster = "Leafdancer Twith",
-                level = "?",
-                zone = "Dho Gates"
-            },
-            {
-                monster = "Whispering Twitherym",
-                level = "Information Needed",
-                zone = "Marjami Ravine"
-            },
-            {
-                monster = "Twitherym",
-                level = "?",
-                zone = "Yorcia Weald"
-            },
-            {
-                monster = "Restless Twitherym",
-                level = "?",
-                zone = "Outer Ra'Kaznar (G-6)"
-            }
-        }
-    },
-    [703] = {
-        name = "Embalming Earth",
-        mobs = {
-            {
-                monster = "Disturbed Matamata",
-                level = "Information Needed",
-                zone = "Moh Gates"
-            },
-            {
-                monster = "Sinewy Matamata",
-                level = "Information Needed",
-                zone = "Morimar Basalt Fields Bivouac #3"
-            }
-        }
-    },
-    [705] = {
-        name = "Foul Waters",
-        mobs = {
-            {
-                monster = "Flatus Acuex",
-                level = "103-105",
-                zone = "Cirdas Caverns"
-            },
-            {
-                monster = "Astringent Acuex",
-                level = "114-116",
-                zone = "Outer Ra'Kaznar"
-            },
-            {
-                monster = "Wheezing Acuex",
-                level = "124-126",
-                zone = "Woh Gates"
-            }
-        }
-    },
-    [702] = {
-        name = "Rending Deluge",
-        mobs = {
-            {
-                monster = "Hoary Craklaw",
-                level = "103-104",
-                zone = "Foret de Hennetiel"
-            },
-            {
-                monster = "Craklaw",
-                level = "Information Needed",
-                zone = "Sih Gates"
-            }
-        }
-    },
-    [707] = {
-        name = "Retinal Glare",
-        mobs = {
-            {
-                monster = "Beady Panopt",
-                level = "100+",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
-                monster = "Cave Panopt",
-                level = "100+",
-                zone = "Moh Gates"
-            },
-            {
-                monster = "Tenacious Panopt",
-                level = "100+",
-                zone = "Yorcia Weald"
-            },
-            {
-                monster = "Obstreperous Panopt",
-                level = "122-124",
-                zone = "Reisenjima"
-            }
-        }
-    },
-    [744] = {
-        name = "Droning Whirlwind (U)",
-        mobs = {
-            {
-                monster = "Colkhab",
-                level = "116",
-                zone = "Ceizak Battlegrounds Ceizak Wildskeeper Reive"
-            },
-            {
-                monster = "Muyingwa",
-                level = "119",
-                zone = "Cirdas Caverns (U) Cirdas Delve Boss"
-            }
-        }
-    },
-    [745] = {
-        name = "Carcharian Verve (U)",
-        mobs = {
-            {
-                monster = "Tchakka",
-                level = "116",
-                zone = "Foret de Hennetiel Foret Wildskeeper Reive"
-            },
-            {
-                monster = "Dakuwaqa",
-                level = "119",
-                zone = "Cirdas Caverns (U) Foret Delve Boss"
-            }
-        }
-    },
-    [746] = {
-        name = "Blistering Roar (U)",
-        mobs = {
-            {
-                monster = "Achuka",
-                level = "116",
-                zone = "Morimar Basalt Fields Morimar Wildskeeper Reive"
-            },
-            {
-                monster = "Tojil",
-                level = "119",
-                zone = "Cirdas Caverns (U) Morimar Delve Boss"
-            }
-        }
-    },
-    [710] = {
-        name = "Erratic Flutter",
-        mobs = {
-            {
-                monster = "Wamoura",
+                monster = "Explosure",
+                zone = 200,
+              },
+            [5] = {
+                level = "62-68",
+                monster = "Volcanic Gas",
+                zone = 124,
+              },
+            [6] = {
+                level = "85-100",
+                monster = "Bonfire (Monster)",
+                zone = 218,
+              },
+          },
+        levels = {
+            [16] = 50,
+          },
+        mp_cost = 100,
+        prefix = "/magic",
+        range = 4,
+        recast = 21,
+        recast_id = 533,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [534] = {
+        blu_points = 4,
+        cast_time = 3.75,
+        element = 2,
+        en = "Mysterious Light",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 534,
+        ja = "神秘の光",
+        learned_from = {
+            [1] = {
+                level = "34-35",
+                monster = "Magic Urn",
+                zone = 184,
+              },
+            [2] = {
+                level = "41-43",
+                monster = "Clockwork Pod",
+                zone = 204,
+              },
+            [3] = {
+                level = "85-100",
+                monster = "Sinister Seidel",
+                zone = 254,
+              },
+          },
+        levels = {
+            [16] = 40,
+          },
+        mp_cost = 73,
+        prefix = "/magic",
+        range = 4,
+        recast = 24.5,
+        recast_id = 534,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [535] = {
+        blu_points = 1,
+        cast_time = 4,
+        element = 1,
+        en = "Cold Wave",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 535,
+        ja = "コールドウェーブ",
+        learned_from = {
+            [1] = {
+                level = "43-46",
+                monster = "Snowball",
+                zone = 9,
+              },
+            [2] = {
+                level = "60-63",
+                monster = "Snoll",
+                zone = 5,
+              },
+            [3] = {
+                level = "67-70",
+                monster = "Morozko",
+                zone = 5,
+              },
+            [4] = {
                 level = "77-80",
-                zone = "Halvung (H-4)"
-            },
-            {
-                monster = "Wamoura",
-                level = "80-82",
-                zone = "Mount Zhayolm"
-            },
-            {
-                monster = "Ignamoth",
-                level = "81",
-                zone = "Mount Zhayolm"
-            }
-        }
-    },
-    [708] = {
-        name = "Subduction",
-        mobs = {
-            {
-                monster = "Asperous Marolith",
-                level = "103+",
-                zone = "Cirdas Caverns F-5"
-            },
-            {
-                monster = "Shambling Marolith",
-                level = "95~",
-                zone = "Ghoyu's Reverie Associate Researcher Expedition 1 (Sauromugue)"
-            }
-        }
-    },
-    [709] = {
-        name = "Thrashing Assault",
-        mobs = {
-            {
-                monster = "Meeble",
-                level = "105",
-                zone = "Ghoyu's Reverie Associate Researcher Expedition 3 (Sauromugue)"
-            }
-        }
-    },
-    [713] = {
-        name = "Diffusion Ray",
-        mobs = {
-            {
-                monster = "Refitted Chariot",
+                monster = "Agloolik",
+                zone = 5,
+              },
+            [5] = {
+                level = "85-100",
+                monster = "Snowflake",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 52,
+          },
+        mp_cost = 37,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 535,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [536] = {
+        blu_points = 1,
+        cast_time = 3,
+        element = 5,
+        en = "Poison Breath",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 536,
+        ja = "ポイズンブレス",
+        learned_from = {
+            [1] = {
+                level = "3-8",
+                monster = "Mad Fox",
+                zone = 115,
+              },
+            [2] = {
+                level = "4-8",
+                monster = "Mad Fox",
+                zone = 116,
+              },
+            [3] = {
+                level = "5-8",
+                monster = "Black Wolf",
+                zone = 106,
+              },
+            [4] = {
+                level = "5-8",
+                monster = "Black Wolf",
+                zone = 107,
+              },
+            [5] = {
+                level = "5-8",
+                monster = "Tainted Hound",
+                zone = 101,
+              },
+            [6] = {
+                level = "5-8",
+                monster = "Tainted Hound",
+                zone = 100,
+              },
+            [7] = {
+                level = "8-10",
+                monster = "Wolf Zombie",
+                zone = 102,
+              },
+            [8] = {
+                level = "8-10",
+                monster = "Wolf Zombie",
+                zone = 108,
+              },
+            [9] = {
+                level = "8-10",
+                monster = "Barghest",
+                zone = 117,
+              },
+            [10] = {
+                level = "21-24",
+                monster = "Bandersnatch",
+                zone = 196,
+              },
+            [11] = {
+                level = "18-25",
+                monster = "Scavenging Hound",
+                zone = 104,
+              },
+            [12] = {
+                level = "18-25",
+                monster = "Scavenging Hound",
+                zone = 119,
+              },
+            [13] = {
+                level = "18-25",
+                monster = "Bog Dog",
+                zone = 109,
+              },
+            [14] = {
+                level = "28-31",
+                monster = "Mauthe Doog",
+                zone = 196,
+              },
+            [15] = {
+                level = "28-32",
+                monster = "Mauthe Doog",
+                zone = 105,
+              },
+            [16] = {
+                level = "40-43",
+                monster = "Marchosias",
+                zone = 195,
+              },
+            [17] = {
+                level = "46-49",
+                monster = "Hell Hound",
+                zone = 195,
+              },
+            [18] = {
+                level = "53-55",
+                monster = "Tomb Wolf",
+                zone = 195,
+              },
+            [19] = {
+                level = "46-49",
+                monster = "Hell Hound",
+                zone = 121,
+              },
+            [20] = {
+                level = "56-59",
+                monster = "Hecatomb Hound",
+                zone = 167,
+              },
+            [21] = {
+                level = "64-66",
+                monster = "Garm",
+                zone = 167,
+              },
+            [22] = {
+                level = "59-64",
+                monster = "Cwn Annwn",
+                zone = 5,
+              },
+            [23] = {
+                level = "77-79",
+                monster = "Hati",
+                zone = 190,
+              },
+            [24] = {
+                level = "?",
+                monster = "Inugami",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 22,
+          },
+        mp_cost = 22,
+        prefix = "/magic",
+        range = 9,
+        recast = 19.5,
+        recast_id = 536,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [537] = {
+        blu_points = 2,
+        cast_time = 4,
+        element = 2,
+        en = "Stinking Gas",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 537,
+        ja = "スティンキングガス",
+        learned_from = {
+            [1] = {
+                level = "36-38",
+                monster = "Addled Tumor",
+                zone = 27,
+              },
+            [2] = {
+                level = "45-47",
+                monster = "Foul Meat",
+                zone = 27,
+              },
+            [3] = {
+                level = "54-56",
+                monster = "Fetid Flesh",
+                zone = 200,
+              },
+            [4] = {
+                level = "63-65",
+                monster = "Tainted Flesh",
+                zone = 200,
+              },
+            [5] = {
+                level = "73",
+                monster = "Jnun",
+                zone = 79,
+              },
+            [6] = {
+                level = "80-95",
+                monster = "Decayed Flesh",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 44,
+          },
+        mp_cost = 37,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 537,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [538] = {
+        blu_points = 4,
+        cast_time = 3.5,
+        duration = 60,
+        element = 15,
+        en = "Memento Mori",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 538,
+        ja = "メメントモーリ",
+        learned_from = {
+            [1] = {
+                level = "56-58",
+                monster = "Keremet",
+                zone = 28,
+              },
+            [2] = {
+                level = "66-67",
+                monster = "Corse",
+                zone = 7,
+              },
+            [3] = {
+                level = "72-77",
+                monster = "Eschan Corse",
+                zone = 288,
+              },
+            [4] = {
+                level = "75-81",
+                monster = "Arch Corse",
+                zone = 7,
+              },
+            [5] = {
+                level = "78-82",
+                monster = "Wiederganger",
+                zone = 45,
+              },
+            [6] = {
                 level = "~90",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            },
-            {
-                monster = "Impervious Chariot",
+                monster = "Tupilaq",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 62,
+          },
+        mp_cost = 46,
+        prefix = "/magic",
+        range = 0,
+        recast = 56,
+        recast_id = 538,
+        requirements = 0,
+        skill = 43,
+        status = 190,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [539] = {
+        blu_points = 3,
+        cast_time = 3.25,
+        element = 15,
+        en = "Terror Touch",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 539,
+        ja = "テラータッチ",
+        learned_from = {
+            [1] = {
+                level = "30-33",
+                monster = "Bogy",
+                zone = 184,
+              },
+            [2] = {
+                level = "40-42",
+                monster = "Revenant",
+                zone = 204,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Qaitu",
+                zone = 15,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Spuk",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 40,
+          },
+        mp_cost = 62,
+        prefix = "/magic",
+        range = 4,
+        recast = 21,
+        recast_id = 539,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [540] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Spinal Cleave",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 540,
+        ja = "スパイナルクリーブ",
+        learned_from = {
+            [1] = {
+                level = "73-74",
+                monster = "Qutrub",
+                zone = 54,
+              },
+            [2] = {
+                level = "79-81",
+                monster = "Lamia Idolater",
+                zone = 79,
+              },
+          },
+        levels = {
+            [16] = 63,
+          },
+        mp_cost = 61,
+        prefix = "/magic",
+        range = 7,
+        recast = 28.5,
+        recast_id = 540,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [541] = {
+        blu_points = 2,
+        cast_time = 4,
+        element = 7,
+        en = "Blood Saber",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 541,
+        ja = "ブラッドセイバー",
+        learned_from = {
+            [1] = {
+                level = "15-17",
+                monster = "Skeleton Warrior",
+                zone = 196,
+              },
+            [2] = {
+                level = "20-27",
+                monster = "Ghoul",
+                zone = 196,
+              },
+            [3] = {
+                level = "26-30",
+                monster = "Wendigo",
+                zone = 196,
+              },
+            [4] = {
+                level = "29-34",
+                monster = "Wight",
+                zone = 196,
+              },
+            [5] = {
+                level = "47-49",
+                monster = "Fallen Soldier",
+                zone = 200,
+              },
+            [6] = {
+                level = "80-95",
+                monster = "Schnitter",
+                zone = 215,
+              },
+            [7] = {
+                level = "?",
+                monster = "Sensenmann",
+                zone = 254,
+              },
+          },
+        levels = {
+            [16] = 48,
+          },
+        mp_cost = 25,
+        prefix = "/magic",
+        range = 4,
+        recast = 26,
+        recast_id = 541,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [542] = {
+        blu_points = 2,
+        cast_time = 4,
+        element = 7,
+        en = "Digest",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 542,
+        ja = "消化",
+        learned_from = {
+            [1] = {
+                level = "23-27",
+                monster = "Jelly",
+                zone = 173,
+              },
+            [2] = {
+                level = "39-42",
+                monster = "Ooze",
+                zone = 176,
+              },
+            [3] = {
+                level = "52~54",
+                monster = "Dark Aspic",
+                zone = 167,
+              },
+            [4] = {
+                level = "58-62",
+                monster = "Mousse",
+                zone = 167,
+              },
+            [5] = {
+                level = "101-103",
+                monster = "Chalybeous Slime",
+                zone = 258,
+              },
+            [6] = {
+                level = "101-103",
+                monster = "Flavescent Slime",
+                zone = 258,
+              },
+          },
+        levels = {
+            [16] = 36,
+          },
+        mp_cost = 20,
+        prefix = "/magic",
+        range = 2,
+        recast = 26,
+        recast_id = 542,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [543] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Mandibular Bite",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 543,
+        ja = "M.バイト",
+        learned_from = {
+            [1] = {
+                level = "37-40",
+                monster = "Tracer Antlion",
+                zone = 7,
+              },
+            [2] = {
+                level = "40-44",
+                monster = "Burrow Antlion",
+                zone = 7,
+              },
+            [3] = {
+                level = "45-47",
+                monster = "Hunter Antlion",
+                zone = 7,
+              },
+            [4] = {
+                level = "49-52",
+                monster = "Pit Antlion",
+                zone = 7,
+              },
+            [5] = {
+                level = "70-72",
+                monster = "Trench Antlion",
+                zone = 7,
+              },
+            [6] = {
+                level = "70-73",
+                monster = "Tracker Antlion",
+                zone = 7,
+              },
+            [7] = {
+                level = "77-79",
+                monster = "Cave Antlion",
+                zone = 7,
+              },
+            [8] = {
+                level = "80-95",
+                monster = "Funnel Antlion",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 44,
+          },
+        mp_cost = 38,
+        prefix = "/magic",
+        range = 2,
+        recast = 19.25,
+        recast_id = 543,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [544] = {
+        blu_points = 2,
+        cast_time = 3,
+        element = 5,
+        en = "Cursed Sphere",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 544,
+        ja = "カースドスフィア",
+        learned_from = {
+            [1] = {
+                level = "18-21",
+                monster = "Gadfly",
+                zone = 109,
+              },
+            [2] = {
+                level = "18-21",
+                monster = "Crane Fly",
+                zone = 119,
+              },
+            [3] = {
+                level = "22-26",
+                monster = "May Fly",
+                zone = 105,
+              },
+            [4] = {
+                level = "27-30",
+                monster = "Sadfly",
+                zone = 196,
+              },
+            [5] = {
+                level = "32-35",
+                monster = "Gallinipper",
+                zone = 196,
+              },
+            [6] = {
+                level = "36-39",
+                monster = "Gallinipper",
+                zone = 7,
+              },
+            [7] = {
+                level = "44-47",
+                monster = "Ogrefly",
+                zone = 7,
+              },
+            [8] = {
+                level = "41-44",
+                monster = "Ogrefly",
+                zone = 121,
+              },
+            [9] = {
+                level = "44-48",
+                monster = "Hawker",
+                zone = 30,
+              },
+            [10] = {
+                level = "45-48",
+                monster = "Hawker",
+                zone = 212,
+              },
+            [11] = {
+                level = "50-53",
+                monster = "Hornfly",
+                zone = 197,
+              },
+            [12] = {
+                level = "55-58",
+                monster = "Dragonfly",
+                zone = 197,
+              },
+            [13] = {
+                level = "65-67",
+                monster = "Monarch Ogrefly",
+                zone = 7,
+              },
+            [14] = {
+                level = "72-74",
+                monster = "Skimmer",
+                zone = 153,
+              },
+            [15] = {
+                level = "75-78",
+                monster = "Darter",
+                zone = 153,
+              },
+            [16] = {
+                level = "72-74",
+                monster = "Assassin Fly",
+                zone = 61,
+              },
+            [17] = {
+                level = "77-79",
+                monster = "Darter",
+                zone = 154,
+              },
+            [18] = {
+                level = "78-79",
+                monster = "Spongilla Fly",
+                zone = 79,
+              },
+            [19] = {
+                level = "100-101",
+                monster = "Downy Emerald",
+                zone = 261,
+              },
+            [20] = {
+                level = "100-101",
+                monster = "Broad Scarlet",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 18,
+          },
+        mp_cost = 36,
+        prefix = "/magic",
+        range = 9,
+        recast = 19.5,
+        recast_id = 544,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [545] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Sickle Slash",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 545,
+        ja = "シックルスラッシュ",
+        learned_from = {
+            [1] = {
+                level = "30-34",
+                monster = "Giant Spider",
+                zone = 114,
+              },
+            [2] = {
+                level = "40-44",
+                monster = "Desert Spider",
+                zone = 125,
+              },
+            [3] = {
+                level = "63-66",
+                monster = "Recluse Spider",
+                zone = 174,
+              },
+            [4] = {
+                level = "80-95",
+                monster = "Shore Spider",
+                zone = 216,
+              },
+            [5] = {
+                level = "80-95",
+                monster = "Spitting Spider",
+                zone = 217,
+              },
+            [6] = {
+                level = "100-102",
+                monster = "Skittering Spider",
+                zone = 258,
+              },
+            [7] = {
+                level = "114+",
+                monster = "Shade-speckled Spider",
+                zone = 263,
+              },
+          },
+        levels = {
+            [16] = 48,
+          },
+        mp_cost = 41,
+        prefix = "/magic",
+        range = 2,
+        recast = 20.25,
+        recast_id = 545,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [547] = {
+        blu_points = 1,
+        cast_time = 1.75,
+        duration = 90,
+        element = 15,
+        en = "Cocoon",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 547,
+        ja = "コクーン",
+        learned_from = {
+            [1] = {
+                level = "3-8",
+                monster = "Crawler",
+                zone = 116,
+              },
+            [2] = {
+                level = "3-8",
+                monster = "Crawler",
+                zone = 115,
+              },
+            [3] = {
+                level = "11-13",
+                monster = "Canyon Crawler",
+                zone = 117,
+              },
+            [4] = {
+                level = "20-23",
+                monster = "Carnivorous Crawler",
+                zone = 109,
+              },
+            [5] = {
+                level = "40-44",
+                monster = "Worker Crawler",
+                zone = 197,
+              },
+            [6] = {
+                level = "52-59",
+                monster = "Eschan Crawler",
+                zone = 288,
+              },
+            [7] = {
+                level = "101-102",
+                monster = "Conflagrant Eruca",
+                zone = 269,
+              },
+          },
+        levels = {
+            [16] = 8,
+          },
+        mp_cost = 10,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 547,
+        requirements = 0,
+        skill = 43,
+        status = 93,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [548] = {
+        blu_points = 3,
+        cast_time = 2,
+        element = 3,
+        en = "Filamented Hold",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 548,
+        ja = "F.ホールド",
+        learned_from = {
+            [1] = {
+                level = "42-45",
+                monster = "Diremite",
+                zone = 9,
+              },
+            [2] = {
+                level = "63-68",
+                monster = "Diremite Assaulter",
+                zone = 9,
+              },
+            [3] = {
+                level = "72-74",
+                monster = "Aydeewa Diremite",
+                zone = 52,
+              },
+            [4] = {
+                level = "85-100",
+                monster = "Hoarmite",
+                zone = 253,
+              },
+            [5] = {
+                level = "101-102",
+                monster = "Pewter Diremite",
+                zone = 256,
+              },
+          },
+        levels = {
+            [16] = 52,
+          },
+        mp_cost = 38,
+        prefix = "/magic",
+        range = 7,
+        recast = 20,
+        recast_id = 548,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [549] = {
+        blu_points = 1,
+        cast_time = 2,
+        element = 15,
+        en = "Pollen",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 549,
+        ja = "花粉",
+        learned_from = {
+            [1] = {
+                level = "1",
+                monster = "Bumblebee",
+                zone = 115,
+              },
+            [2] = {
+                level = "1",
+                monster = "Bumblebee",
+                zone = 116,
+              },
+            [3] = {
+                level = "1",
+                monster = "Huge Hornet",
+                zone = 106,
+              },
+            [4] = {
+                level = "1",
+                monster = "Huge Hornet",
+                zone = 107,
+              },
+            [5] = {
+                level = "2-5",
+                monster = "Giddeus Bee",
+                zone = 145,
+              },
+            [6] = {
+                level = "2-5",
+                monster = "Maneating Hornet",
+                zone = 106,
+              },
+            [7] = {
+                level = "2-6",
+                monster = "Maneating Hornet",
+                zone = 107,
+              },
+            [8] = {
+                level = "5-8",
+                monster = "Giant Bee",
+                zone = 115,
+              },
+            [9] = {
+                level = "100",
+                monster = "Belaboring Wasp",
+                zone = 261,
+              },
+          },
+        levels = {
+            [16] = 1,
+          },
+        mp_cost = 8,
+        prefix = "/magic",
+        range = 0,
+        recast = 5,
+        recast_id = 549,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [551] = {
+        blu_points = 1,
+        cast_time = 0.5,
+        element = 15,
+        en = "Power Attack",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 551,
+        ja = "パワーアタック",
+        learned_from = {
+            [1] = {
+                level = "3-6",
+                monster = "Scarab Beetle",
+                zone = 100,
+              },
+            [2] = {
+                level = "9-12",
+                monster = "Copper Beetle",
+                zone = 143,
+              },
+            [3] = {
+                level = "11-16",
+                monster = "Beady Beetle",
+                zone = 194,
+              },
+            [4] = {
+                level = "15-18",
+                monster = "Beady Beetle",
+                zone = 2,
+              },
+            [5] = {
+                level = "20-23",
+                monster = "Stag Beetle",
+                zone = 2,
+              },
+            [6] = {
+                level = "20-23",
+                monster = "Stag Beetle",
+                zone = 104,
+              },
+            [7] = {
+                level = "20-23",
+                monster = "Stag Beetle",
+                zone = 119,
+              },
+            [8] = {
+                level = "100-101",
+                monster = "Canopycrusher Beetle",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 4,
+          },
+        mp_cost = 5,
+        prefix = "/magic",
+        range = 2,
+        recast = 7.25,
+        recast_id = 551,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [554] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 15,
+        en = "Death Scissors",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 554,
+        ja = "デスシザース",
+        learned_from = {
+            [1] = {
+                level = "25-28",
+                monster = "Maze Scorpion",
+                zone = 198,
+              },
+            [2] = {
+                level = "30-33",
+                monster = "Labyrinth Scorpion",
+                zone = 198,
+              },
+            [3] = {
+                level = "44-47",
+                monster = "Doom Scorpion",
+                zone = 114,
+              },
+            [4] = {
+                level = "53-56",
+                monster = "Tulwar Scorpion",
+                zone = 125,
+              },
+            [5] = {
+                level = "85-100",
+                monster = "Akrab",
+                zone = 218,
+              },
+          },
+        levels = {
+            [16] = 60,
+          },
+        mp_cost = 51,
+        prefix = "/magic",
+        range = 2,
+        recast = 24.5,
+        recast_id = 554,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [555] = {
+        blu_points = 3,
+        cast_time = 4.5,
+        element = 3,
+        en = "Magnetite Cloud",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 555,
+        ja = "磁鉄粉",
+        learned_from = {
+            [1] = {
+                level = "35-39",
+                monster = "Antican Auxiliarius",
+                zone = 114,
+              },
+            [2] = {
+                level = "35-39",
+                monster = "Antican Faber",
+                zone = 114,
+              },
+            [3] = {
+                level = "35-39",
+                monster = "Antican Funditor",
+                zone = 114,
+              },
+            [4] = {
+                level = "45-49",
+                monster = "Antican Eques",
+                zone = 125,
+              },
+            [5] = {
+                level = "45-49",
+                monster = "Antican Retiarius",
+                zone = 125,
+              },
+            [6] = {
+                level = "45-49",
+                monster = "Antican Sagittarius",
+                zone = 125,
+              },
+            [7] = {
+                level = "52-59",
+                monster = "Antican Hastatus",
+                zone = 208,
+              },
+            [8] = {
+                level = "52-59",
+                monster = "Antican Princeps",
+                zone = 208,
+              },
+            [9] = {
+                level = "52-59",
+                monster = "Antican Signifer",
+                zone = 208,
+              },
+            [10] = {
+                level = "69-72",
+                monster = "Antican Aedilis",
+                zone = 208,
+              },
+            [11] = {
+                level = "69-72",
+                monster = "Antican Antesignanus",
+                zone = 208,
+              },
+            [12] = {
+                level = "69-72",
+                monster = "Antican Quaestor",
+                zone = 208,
+              },
+            [13] = {
+                level = "69-72",
+                monster = "Antican Triarius",
+                zone = 208,
+              },
+          },
+        levels = {
+            [16] = 46,
+          },
+        mp_cost = 86,
+        prefix = "/magic",
+        range = 9,
+        recast = 29.25,
+        recast_id = 555,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [557] = {
+        blu_points = 4,
+        cast_time = 4.5,
+        element = 7,
+        en = "Eyes On Me",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 557,
+        ja = "アイズオンミー",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Bat Eye",
+                zone = 111,
+              },
+            [2] = {
+                level = "45-48",
+                monster = "Evil Eye",
+                zone = 112,
+              },
+            [3] = {
+                level = "52-55",
+                monster = "Morbid Eye",
+                zone = 161,
+              },
+            [4] = {
+                level = "55-56",
+                monster = "Deadly Iris",
+                zone = 162,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Deep Eye",
+                zone = 15,
+              },
+            [6] = {
+                level = "80-81",
+                monster = "Gawper",
+                zone = 136,
+              },
+          },
+        levels = {
+            [16] = 61,
+          },
+        mp_cost = 112,
+        prefix = "/magic",
+        range = 9,
+        recast = 29.25,
+        recast_id = 557,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [560] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Frenetic Rip",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 560,
+        ja = "F.リップ",
+        learned_from = {
+            [1] = {
+                level = "55-57",
+                monster = "Imp",
+                zone = 48,
+              },
+            [2] = {
+                level = "63-68",
+                monster = "Orderly Imp",
+                zone = 79,
+              },
+            [3] = {
+                level = "70",
+                monster = "Bukki",
+                zone = 54,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Clammy Imp",
+                zone = 217,
+              },
+          },
+        levels = {
+            [16] = 63,
+          },
+        mp_cost = 61,
+        prefix = "/magic",
+        range = 2,
+        recast = 28.5,
+        recast_id = 560,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [561] = {
+        blu_points = 3,
+        cast_time = 2,
+        element = 2,
+        en = "Frightful Roar",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 561,
+        ja = "フライトフルロア",
+        learned_from = {
+            [1] = {
+                level = "37-38",
+                monster = "Taurus",
+                zone = 27,
+              },
+            [2] = {
+                level = "44-48",
+                monster = "Stegotaur",
+                zone = 27,
+              },
+            [3] = {
+                level = "47-49",
+                monster = "Stegotaur",
+                zone = 28,
+              },
+            [4] = {
+                level = "57-59",
+                monster = "Teratotaur",
+                zone = 28,
+              },
+            [5] = {
+                level = "68-71",
+                monster = "Brontotaur",
+                zone = 5,
+              },
+            [6] = {
+                level = "72-75",
+                monster = "Tyrannotaur",
+                zone = 5,
+              },
+            [7] = {
+                level = "78-81",
+                monster = "Molech",
+                zone = 5,
+              },
+            [8] = {
+                level = "79-80",
+                monster = "Dryptotaur",
+                zone = 136,
+              },
+          },
+        levels = {
+            [16] = 50,
+          },
+        mp_cost = 32,
+        prefix = "/magic",
+        range = 4,
+        recast = 20,
+        recast_id = 561,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [563] = {
+        blu_points = 3,
+        cast_time = 5.25,
+        element = 2,
+        en = "Hecatomb Wave",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 563,
+        ja = "ヘカトンウェーブ",
+        learned_from = {
+            [1] = {
+                level = "48-52",
+                monster = "Demons",
+                zone = 112,
+              },
+            [2] = {
+                level = "50-52",
+                monster = "Demons",
+                zone = 161,
+              },
+            [3] = {
+                level = "52-56",
+                monster = "Demons",
+                zone = 162,
+              },
+            [4] = {
+                level = "82-83",
+                monster = "Demon Suppressor",
+                zone = 155,
+              },
+          },
+        levels = {
+            [16] = 54,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 9,
+        recast = 33.75,
+        recast_id = 563,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [564] = {
+        blu_points = 4,
+        cast_time = 1,
+        element = 15,
+        en = "Body Slam",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 564,
+        ja = "ボディプレス",
+        learned_from = {
+            [1] = {
+                level = "82-83",
+                monster = "Dahak",
+                zone = 61,
+              },
+            [2] = {
+                level = "78-81",
+                monster = "Dahak",
+                zone = 62,
+              },
+            [3] = {
+                level = "",
+                monster = "Vanguard Dragon",
+                zone = 112,
+              },
+            [4] = {
+                level = "",
+                monster = "Barong",
+                zone = 40,
+              },
+            [5] = {
+                level = "",
+                monster = "Apocalyptic Beast",
+                zone = 40,
+              },
+            [6] = {
                 level = "~90",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            },
-            {
-                monster = "Archaic Chariot",
-                level = "Information Needed",
-                zone = "Salvage II Found in all 4 remnants"
-            }
-        }
-    },
-    [712] = {
-        name = "Rail Cannon",
-        mobs = {
-            {
-                monster = "Sub-zero Gear",
+                monster = "Scultone",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 62,
+          },
+        mp_cost = 74,
+        prefix = "/magic",
+        range = 4,
+        recast = 27.75,
+        recast_id = 564,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [565] = {
+        blu_points = 4,
+        cast_time = 5.25,
+        element = 6,
+        en = "Radiant Breath",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 565,
+        ja = "R.ブレス",
+        learned_from = {
+            [1] = {
+                level = "41-43",
+                monster = "Firedrake",
+                zone = 30,
+              },
+            [2] = {
+                level = "50-55",
+                monster = "Pyrodrake",
+                zone = 29,
+              },
+            [3] = {
+                level = "82-83",
+                monster = "Skoffin",
+                zone = 52,
+              },
+            [4] = {
+                level = "85-100",
+                monster = "Faunus Wyvern",
+                zone = 254,
+              },
+          },
+        levels = {
+            [16] = 54,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 9,
+        recast = 33.75,
+        recast_id = 565,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [567] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Helldive",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 567,
+        ja = "ヘルダイブ",
+        learned_from = {
+            [1] = {
+                level = "2-5",
+                monster = "Carrion Crow",
+                zone = 116,
+              },
+            [2] = {
+                level = "2-6",
+                monster = "Carrion Crow",
+                zone = 115,
+              },
+            [3] = {
+                level = "2-6",
+                monster = "Vulture",
+                zone = 106,
+              },
+            [4] = {
+                level = "2-6",
+                monster = "Vulture",
+                zone = 107,
+              },
+            [5] = {
+                level = "9-13",
+                monster = "Akbaba",
+                zone = 102,
+              },
+            [6] = {
+                level = "15-18",
+                monster = "Jubjub",
+                zone = 119,
+              },
+            [7] = {
+                level = "15-18",
+                monster = "Screamer",
+                zone = 104,
+              },
+            [8] = {
+                level = "20-23",
+                monster = "Zu",
+                zone = 118,
+              },
+            [9] = {
+                level = "83-84",
+                monster = "Seaboard Vulture",
+                zone = 25,
+              },
+          },
+        levels = {
+            [16] = 16,
+          },
+        mp_cost = 16,
+        prefix = "/magic",
+        range = 2,
+        recast = 11.25,
+        recast_id = 567,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [569] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Jet Stream",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 569,
+        ja = "ジェットストリーム",
+        learned_from = {
+            [1] = {
+                level = "25-27",
+                monster = "Dark Bats",
+                zone = 126,
+              },
+            [2] = {
+                level = "40-42",
+                monster = "Lesser Gaylas",
+                zone = 127,
+              },
+            [3] = {
+                level = "80-95",
+                monster = "Slough Bats",
+                zone = 217,
+              },
+          },
+        levels = {
+            [16] = 38,
+          },
+        mp_cost = 47,
+        prefix = "/magic",
+        range = 9,
+        recast = 23,
+        recast_id = 569,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [570] = {
+        blu_points = 2,
+        cast_time = 4,
+        element = 7,
+        en = "Blood Drain",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 570,
+        ja = "吸血",
+        learned_from = {
+            [1] = {
+                level = "2-4",
+                monster = "Mouse Bat",
+                zone = 172,
+              },
+            [2] = {
+                level = "3-5",
+                monster = "Fledermaus",
+                zone = 106,
+              },
+            [3] = {
+                level = "3-5",
+                monster = "Fledermaus",
+                zone = 107,
+              },
+            [4] = {
+                level = "3-6",
+                monster = "Mouse Bat",
+                zone = 190,
+              },
+            [5] = {
+                level = "3-6",
+                monster = "Mouse Bat",
+                zone = 101,
+              },
+            [6] = {
+                level = "3-6",
+                monster = "Mouse Bat",
+                zone = 100,
+              },
+            [7] = {
+                level = "3-6",
+                monster = "Cheiroptera",
+                zone = 140,
+              },
+            [8] = {
+                level = "4-6",
+                monster = "Blade Bat",
+                zone = 192,
+              },
+            [9] = {
+                level = "4-7",
+                monster = "Blade Bat",
+                zone = 194,
+              },
+            [10] = {
+                level = "4-7",
+                monster = "Blade Bat",
+                zone = 166,
+              },
+            [11] = {
+                level = "8-10",
+                monster = "Acro Bat",
+                zone = 102,
+              },
+            [12] = {
+                level = "8-10",
+                monster = "Cheiroptera",
+                zone = 141,
+              },
+            [13] = {
+                level = "8-11",
+                monster = "Poison Bat",
+                zone = 102,
+              },
+            [14] = {
+                level = "11-13",
+                monster = "Grave Bat",
+                zone = 190,
+              },
+            [15] = {
+                level = "15-18",
+                monster = "Black Bat",
+                zone = 119,
+              },
+            [16] = {
+                level = "15-18",
+                monster = "Black Bat",
+                zone = 109,
+              },
+            [17] = {
+                level = "15-18",
+                monster = "Stealth Bat",
+                zone = 142,
+              },
+            [18] = {
+                level = "15-20",
+                monster = "Specter Bat",
+                zone = 2,
+              },
+            [19] = {
+                level = "17-19",
+                monster = "Tomb Bat",
+                zone = 190,
+              },
+            [20] = {
+                level = "17-20",
+                monster = "Battle Bat",
+                zone = 192,
+              },
+            [21] = {
+                level = "17-20",
+                monster = "Hognosed Bat",
+                zone = 193,
+              },
+            [22] = {
+                level = "17-20",
+                monster = "Plague Bats",
+                zone = 190,
+              },
+            [23] = {
+                level = "17-20",
+                monster = "Star Bat",
+                zone = 103,
+              },
+            [24] = {
+                level = "20-22",
+                monster = "Giant Bat",
+                zone = 103,
+              },
+            [25] = {
+                level = "20-23",
+                monster = "Combat",
+                zone = 194,
+              },
+            [26] = {
+                level = "20-23",
+                monster = "Combat",
+                zone = 198,
+              },
+            [27] = {
+                level = "20-23",
+                monster = "Midnight Wings",
+                zone = 110,
+              },
+            [28] = {
+                level = "20-23",
+                monster = "Midnight Wings",
+                zone = 120,
+              },
+            [29] = {
+                level = "23-26",
+                monster = "Moon Bat",
+                zone = 110,
+              },
+            [30] = {
+                level = "100-102",
+                monster = "Duskbringer Bat",
+                zone = 257,
+              },
+          },
+        levels = {
+            [16] = 20,
+          },
+        mp_cost = 10,
+        prefix = "/magic",
+        range = 2,
+        recast = 26,
+        recast_id = 570,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [572] = {
+        blu_points = 1,
+        cast_time = 4,
+        element = 0,
+        en = "Sound Blast",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 572,
+        ja = "サウンドブラスト",
+        learned_from = {
+            [1] = {
+                level = "25-28",
+                monster = "Axe Beak",
+                zone = 119,
+              },
+            [2] = {
+                level = "34-37",
+                monster = "Tabar Beak",
+                zone = 120,
+              },
+            [3] = {
+                level = "71-74",
+                monster = "Sand Cockatrice",
+                zone = 113,
+              },
+            [4] = {
                 level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            }
-        }
-    },
-    [711] = {
-        name = "Restoral",
-        mobs = {
-            {
-                monster = "Sub-zero Gear",
+                monster = "Cluckatrice",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 32,
+          },
+        mp_cost = 25,
+        prefix = "/magic",
+        range = 4,
+        recast = 30,
+        recast_id = 572,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [573] = {
+        blu_points = 3,
+        cast_time = 4,
+        element = 2,
+        en = "Feather Tickle",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 573,
+        ja = "フェザーティックル",
+        learned_from = {
+            [1] = {
+                level = "46-47",
+                monster = "Colibri",
+                zone = 81,
+              },
+            [2] = {
+                level = "63-65",
+                monster = "Lesser Colibri",
+                zone = 51,
+              },
+            [3] = {
+                level = "78-89",
+                monster = "Coastal Colibri",
+                zone = 216,
+              },
+          },
+        levels = {
+            [16] = 64,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 7,
+        recast = 26,
+        recast_id = 573,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [574] = {
+        blu_points = 2,
+        cast_time = 2,
+        duration = 30,
+        element = 15,
+        en = "Feather Barrier",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 574,
+        ja = "フェザーバリア",
+        learned_from = {
+            [1] = {
+                level = "47-50",
+                monster = "Diatryma",
+                zone = 114,
+              },
+            [2] = {
+                level = "47-51",
+                monster = "Diatryma",
+                zone = 25,
+              },
+            [3] = {
+                level = "69-72",
+                monster = "Peryton",
+                zone = 128,
+              },
+            [4] = {
+                level = "85-86",
+                monster = "Abraxas",
+                zone = 24,
+              },
+          },
+        levels = {
+            [16] = 56,
+          },
+        mp_cost = 29,
+        prefix = "/magic",
+        range = 0,
+        recast = 56,
+        recast_id = 574,
+        requirements = 0,
+        skill = 43,
+        status = 92,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [575] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 7,
+        en = "Jettatura",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 575,
+        ja = "ジェタチュラ",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Hippogryph",
+                zone = 30,
+              },
+            [2] = {
+                level = "45-47",
+                monster = "Cloud Hippogryph",
+                zone = 30,
+              },
+            [3] = {
+                level = "49-52",
+                monster = "Nimbus Hippogryph",
+                zone = 29,
+              },
+            [4] = {
+                level = "55-57",
+                monster = "Strato Hippogryph",
+                zone = 29,
+              },
+            [5] = {
+                level = "73-75",
+                monster = "Grauberg Hippogryph",
+                zone = 89,
+              },
+            [6] = {
+                level = "122-124",
+                monster = "Quarrelsome Hippogryph",
+                zone = 291,
+              },
+          },
+        levels = {
+            [16] = 48,
+          },
+        mp_cost = 37,
+        prefix = "/magic",
+        range = 7,
+        recast = 56,
+        recast_id = 575,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [576] = {
+        blu_points = 3,
+        cast_time = 3,
+        duration = 90,
+        element = 6,
+        en = "Yawn",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 576,
+        ja = "ヤーン",
+        learned_from = {
+            [1] = {
+                level = "54-55",
+                monster = "Apkallu",
+                zone = 48,
+              },
+            [2] = {
+                level = "70-72",
+                monster = "Arrapago Apkallu",
+                zone = 54,
+              },
+            [3] = {
+                level = "70-72",
+                monster = "Zhayolm Apkallu",
+                zone = 61,
+              },
+            [4] = {
                 level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            }
-        }
-    },
-    [714] = {
-        name = "Sinker Drill",
-        mobs = {
-            {
-                monster = "Mechanical Menace",
+                monster = "Overking Apkallu",
+                zone = 216,
+              },
+            [5] = {
+                level = "78-80",
+                monster = "King Apkallu",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 64,
+          },
+        mp_cost = 55,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 576,
+        requirements = 0,
+        skill = 43,
+        status = 2,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [577] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Foot Kick",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 577,
+        ja = "フットキック",
+        learned_from = {
+            [1] = {
+                level = "1",
+                monster = "Wild Rabbit",
+                zone = 101,
+              },
+            [2] = {
+                level = "1",
+                monster = "Wild Rabbit",
+                zone = 100,
+              },
+            [3] = {
+                level = "1-5",
+                monster = "Forest Hare",
+                zone = 101,
+              },
+            [4] = {
+                level = "1-5",
+                monster = "Forest Hare",
+                zone = 100,
+              },
+          },
+        levels = {
+            [16] = 1,
+          },
+        mp_cost = 5,
+        prefix = "/magic",
+        range = 2,
+        recast = 6.5,
+        recast_id = 577,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [578] = {
+        blu_points = 3,
+        cast_time = 2.5,
+        element = 15,
+        en = "Wild Carrot",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 578,
+        ja = "ワイルドカロット",
+        learned_from = {
+            [1] = {
+                level = "29-31",
+                monster = "Goblin's Rarab",
+                zone = 4,
+              },
+            [2] = {
+                level = "34-38",
+                monster = "Island Rarab",
+                zone = 4,
+              },
+            [3] = {
+                level = "73-76",
+                monster = "Tropical Rarab",
+                zone = 4,
+              },
+            [4] = {
+                level = "~80-85",
+                monster = "Mangy-tailed Marvin",
+                zone = 132,
+              },
+          },
+        levels = {
+            [16] = 30,
+          },
+        mp_cost = 37,
+        prefix = "/magic",
+        range = 12,
+        recast = 6,
+        recast_id = 578,
+        requirements = 0,
+        skill = 43,
+        targets = 5,
+        type = "BlueMagic",
+      },
+    [579] = {
+        blu_points = 4,
+        cast_time = 10,
+        element = 2,
+        en = "Voracious Trunk",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 579,
+        ja = "吸印",
+        learned_from = {
+            [1] = {
+                level = "78-79",
+                monster = "Marid",
+                zone = 51,
+              },
+            [2] = {
+                level = "78-79",
+                monster = "Marid",
+                zone = 52,
+              },
+            [3] = {
+                level = "78-79",
+                monster = "Grand Marid",
+                zone = 52,
+              },
+            [4] = {
+                level = "78-82",
+                monster = "Morose Marid",
+                zone = 217,
+              },
+            [5] = {
+                level = "85-100",
+                monster = "Olyphant",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 64,
+          },
+        mp_cost = 72,
+        prefix = "/magic",
+        range = 8,
+        recast = 56,
+        recast_id = 579,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [581] = {
+        blu_points = 4,
+        cast_time = 4.5,
+        element = 15,
+        en = "Healing Breeze",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 581,
+        ja = "いやしの風",
+        learned_from = {
+            [1] = {
+                level = "14-16",
+                monster = "Wild Dhalmel",
+                zone = 117,
+              },
+            [2] = {
+                level = "20-23",
+                monster = "Bull Dhalmel",
+                zone = 118,
+              },
+            [3] = {
+                level = "33-37",
+                monster = "Marine Dhalmel",
+                zone = 4,
+              },
+            [4] = {
+                level = "35-37",
+                monster = "Savanna Dhalmel",
+                zone = 95,
+              },
+            [5] = {
+                level = "39-44",
+                monster = "Desert Dhalmel",
+                zone = 114,
+              },
+            [6] = {
+                level = "44-48",
+                monster = "Desert Dhalmel",
+                zone = 125,
+              },
+            [7] = {
+                level = "48-49",
+                monster = "Nandi",
+                zone = 114,
+              },
+            [8] = {
+                level = "60-68",
+                monster = "Eschan Dhalmel",
+                zone = 288,
+              },
+            [9] = {
+                level = "76-80",
+                monster = "Catoblepas",
+                zone = 4,
+              },
+          },
+        levels = {
+            [16] = 16,
+          },
+        mp_cost = 55,
+        prefix = "/magic",
+        range = 2,
+        recast = 15,
+        recast_id = 581,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [582] = {
+        blu_points = 2,
+        cast_time = 3,
+        element = 2,
+        en = "Chaotic Eye",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 582,
+        ja = "カオティックアイ",
+        learned_from = {
+            [1] = {
+                level = "22-25",
+                monster = "Coeurl",
+                zone = 119,
+              },
+            [2] = {
+                level = "30-34",
+                monster = "Champaign Coeurl",
+                zone = 120,
+              },
+            [3] = {
+                level = "44-47",
+                monster = "Master Coeurl",
+                zone = 121,
+              },
+            [4] = {
+                level = "60-69",
+                monster = "Eschan Coeurl",
+                zone = 288,
+              },
+            [5] = {
+                level = "68-72",
+                monster = "War Lynx",
+                zone = 97,
+              },
+            [6] = {
                 level = "75-90",
-                zone = "Abyssea - Uleguerand Conflux #07"
-            },
-            {
-                monster = "Boompadu",
-                level = "Information Needed",
-                zone = "Alzadaal Undersea Ruins N from nyzul staging point"
-            }
-        }
-    },
-    [747] = {
-        name = "Uproot (U)",
-        mobs = {
-            {
-                monster = "Yumcax",
-                level = "116",
-                zone = "Yorcia Weald Yorcia Wildskeeper Reive"
-            },
-            {
-                monster = "Wopket",
-                level = "119",
-                zone = "Yorcia Weald (U) Yorcia Delve Boss"
-            },
-            {
-                monster = "Mboze",
-                level = "Information Needed",
-                zone = "Sheol - Gaol Atonement 3 Notorious Monsters"
-            }
-        }
-    },
-    [748] = {
-        name = "Crashing Thunder (U)",
-        mobs = {
-            {
-                monster = "Hurkan",
-                level = "116",
-                zone = "Marjami Ravine Marjami Wildskeeper Reive"
-            },
-            {
-                monster = "Cailimh",
-                level = "119",
-                zone = "Yorcia Weald (U) Marjami Delve Boss"
-            },
-            {
-                monster = "Palila",
-                level = "125",
-                zone = "Escha - Ru'Aun Examine ??? with a Palila's talon. All members require Tribulens or Radialens."
-            }
-        }
-    },
-    [749] = {
-        name = "Polar Roar (U)",
-        mobs = {
-            {
-                monster = "Kumhau",
-                level = "116",
-                zone = "Kamihr Drifts Kamihr Wildskeeper Reive"
-            },
-            {
-                monster = "Utkux",
-                level = "119",
-                zone = "Yorcia Weald (U) Kamihr Delve Boss"
-            }
-        }
-    },
-    [717] = {
-        name = "Sweeping Gouge",
-        mobs = {
-            {
-                monster = "Cicatricose Raaz",
+                monster = "Jaguarundi",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 32,
+          },
+        mp_cost = 13,
+        prefix = "/magic",
+        range = 9,
+        recast = 10,
+        recast_id = 582,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [584] = {
+        blu_points = 2,
+        cast_time = 3,
+        duration = 60,
+        element = 6,
+        en = "Sheep Song",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 584,
+        ja = "シープソング",
+        learned_from = {
+            [1] = {
+                level = "5-8",
+                monster = "Ornery Sheep",
+                zone = 106,
+              },
+            [2] = {
+                level = "5-8",
+                monster = "Ornery Sheep",
+                zone = 107,
+              },
+            [3] = {
+                level = "5-8",
+                monster = "Wild Sheep",
+                zone = 101,
+              },
+            [4] = {
+                level = "5-8",
+                monster = "Wild Sheep",
+                zone = 100,
+              },
+            [5] = {
+                level = "11-13",
+                monster = "Mad Sheep",
+                zone = 102,
+              },
+            [6] = {
+                level = "11-13",
+                monster = "Mad Sheep",
+                zone = 108,
+              },
+            [7] = {
+                level = "18-21",
+                monster = "Brutal Sheep",
+                zone = 104,
+              },
+            [8] = {
+                level = "20-23",
+                monster = "Brutal Sheep",
+                zone = 103,
+              },
+            [9] = {
+                level = "20-23",
+                monster = "Charging Sheep",
+                zone = 147,
+              },
+            [10] = {
+                level = "33-37",
+                monster = "Tavnazian Sheep",
+                zone = 24,
+              },
+            [11] = {
+                level = "33-37",
+                monster = "Tavnazian Sheep",
+                zone = 25,
+              },
+            [12] = {
+                level = "39-41",
+                monster = "Broo",
+                zone = 147,
+              },
+            [13] = {
+                level = "68-70",
+                monster = "Wild Karakul",
+                zone = 79,
+              },
+            [14] = {
+                level = "100-101",
+                monster = "Fluffy Sheep",
+                zone = 261,
+              },
+            [15] = {
+                level = "100-101",
+                monster = "Ulbukan Sheep",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 16,
+          },
+        mp_cost = 22,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 584,
+        requirements = 0,
+        skill = 43,
+        status = 2,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [585] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Ram Charge",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 585,
+        ja = "ラムチャージ",
+        learned_from = {
+            [1] = {
+                level = "21-23",
+                monster = "Battering Ram",
+                zone = 102,
+              },
+            [2] = {
+                level = "21-23",
+                monster = "Tremor Ram",
+                zone = 108,
+              },
+            [3] = {
+                level = "78-82",
+                monster = "Hammering Ram",
+                zone = 132,
+              },
+            [4] = {
+                level = "80-81",
+                monster = "Mosshorn",
+                zone = 79,
+              },
+          },
+        levels = {
+            [16] = 73,
+          },
+        mp_cost = 79,
+        prefix = "/magic",
+        range = 2,
+        recast = 34.75,
+        recast_id = 585,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [587] = {
+        blu_points = 2,
+        cast_time = 1,
+        element = 15,
+        en = "Claw Cyclone",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 587,
+        ja = "クローサイクロン",
+        learned_from = {
+            [1] = {
+                level = "22-25",
+                monster = "Forest Tiger",
+                zone = 104,
+              },
+            [2] = {
+                level = "22-25",
+                monster = "Forest Tiger",
+                zone = 2,
+              },
+            [3] = {
+                level = "28-32",
+                monster = "Sabertooth Tiger",
+                zone = 105,
+              },
+            [4] = {
+                level = "28-32",
+                monster = "Sabertooth Tiger",
+                zone = 120,
+              },
+            [5] = {
+                level = "28-33",
+                monster = "Sabertooth Tiger",
+                zone = 2,
+              },
+            [6] = {
+                level = "34-37",
+                monster = "Tundra Tiger",
+                zone = 111,
+              },
+            [7] = {
+                level = "59-62",
+                monster = "Uleguerand Tiger",
+                zone = 5,
+              },
+            [8] = {
+                level = "65-68",
+                monster = "Wajaom Tiger",
+                zone = 52,
+              },
+            [9] = {
+                level = "65-68",
+                monster = "Wajaom Tiger",
+                zone = 51,
+              },
+            [10] = {
+                level = "73-76",
+                monster = "Cave Tiger",
+                zone = 68,
+              },
+            [11] = {
+                level = "77-79",
+                monster = "Ovinnik",
+                zone = 174,
+              },
+            [12] = {
+                level = "?",
+                monster = "Angler Tiger",
+                zone = 132,
+              },
+            [13] = {
                 level = "111-113",
-                zone = "Kamihr Drifts"
-            }
-        }
-    },
+                monster = "Ashen Tiger",
+                zone = 267,
+              },
+          },
+        levels = {
+            [16] = 20,
+          },
+        mp_cost = 24,
+        prefix = "/magic",
+        range = 9,
+        recast = 19.75,
+        recast_id = 587,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [588] = {
+        blu_points = 2,
+        cast_time = 7,
+        element = 0,
+        en = "Lowing",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 588,
+        ja = "ロウイン",
+        learned_from = {
+            [1] = {
+                level = "62-65",
+                monster = "Buffalo",
+                zone = 5,
+              },
+            [2] = {
+                level = "68-71",
+                monster = "Giant Buffalo",
+                zone = 5,
+              },
+            [3] = {
+                level = "79-82",
+                monster = "King Buffalo",
+                zone = 5,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Bluffalo",
+                zone = 253,
+              },
+            [5] = {
+                level = "~90",
+                monster = "Chichevache",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 71,
+          },
+        mp_cost = 66,
+        prefix = "/magic",
+        range = 4,
+        recast = 56,
+        recast_id = 588,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [589] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 15,
+        en = "Dimensional Death",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 589,
+        ja = "次元殺",
+        learned_from = {
+            [1] = {
+                level = "44-46",
+                monster = "Shadow",
+                zone = 204,
+              },
+            [2] = {
+                level = "46-48",
+                monster = "Shade",
+                zone = 195,
+              },
+            [3] = {
+                level = "52-54",
+                monster = "Ka",
+                zone = 195,
+              },
+            [4] = {
+                level = "57-59",
+                monster = "Dark Stalker",
+                zone = 195,
+              },
+            [5] = {
+                level = "64-66",
+                monster = "Spriggan",
+                zone = 195,
+              },
+          },
+        levels = {
+            [16] = 60,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 2,
+        recast = 23.75,
+        recast_id = 589,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [591] = {
+        blu_points = 4,
+        cast_time = 7.5,
+        element = 0,
+        en = "Heat Breath",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 591,
+        ja = "火炎の息",
+        learned_from = {
+            [1] = {
+                level = "47-49",
+                monster = "Lesser Manticore",
+                zone = 114,
+              },
+            [2] = {
+                level = "53-57",
+                monster = "Desert Manticore",
+                zone = 125,
+              },
+            [3] = {
+                level = "71-74",
+                monster = "Labyrinth Manticore",
+                zone = 213,
+              },
+            [4] = {
+                level = "76-79",
+                monster = "Greater Manticore",
+                zone = 113,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Hieracosphinx",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 71,
+          },
+        mp_cost = 169,
+        prefix = "/magic",
+        range = 9,
+        recast = 49,
+        recast_id = 591,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [592] = {
+        blu_points = 2,
+        cast_time = 3,
+        element = 6,
+        en = "Blank Gaze",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 592,
+        ja = "ブランクゲイズ",
+        learned_from = {
+            [1] = {
+                level = "34-36",
+                monster = "Young Opo-opo",
+                zone = 123,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Brae Opo-Opo",
+                zone = 132,
+              },
+            [3] = {
+                level = "90-99",
+                monster = "Natty Gibbon",
+                zone = 191,
+              },
+            [4] = {
+                level = "107-110",
+                monster = "Eschan Opo-opo",
+                zone = 288,
+              },
+          },
+        levels = {
+            [16] = 38,
+          },
+        mp_cost = 25,
+        prefix = "/magic",
+        range = 9,
+        recast = 10,
+        recast_id = 592,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [593] = {
+        blu_points = 3,
+        cast_time = 2.5,
+        element = 15,
+        en = "Magic Fruit",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 593,
+        ja = "マジックフルーツ",
+        learned_from = {
+            [1] = {
+                level = "34-36",
+                monster = "Young Opo-opo",
+                zone = 123,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Brae Opo-Opo",
+                zone = 132,
+              },
+            [3] = {
+                level = "?",
+                monster = "Keesha Poppo",
+                zone = 132,
+              },
+            [4] = {
+                level = "90-99",
+                monster = "Natty Gibbon",
+                zone = 191,
+              },
+            [5] = {
+                level = "107-110",
+                monster = "Eschan Opo-opo",
+                zone = 288,
+              },
+          },
+        levels = {
+            [16] = 58,
+          },
+        mp_cost = 72,
+        prefix = "/magic",
+        range = 12,
+        recast = 6,
+        recast_id = 593,
+        requirements = 0,
+        skill = 43,
+        targets = 5,
+        type = "BlueMagic",
+      },
+    [594] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Uppercut",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 594,
+        ja = "アッパーカット",
+        learned_from = {
+            [1] = {
+                level = "28-32",
+                monster = "Goobbue Farmer",
+                zone = 110,
+              },
+            [2] = {
+                level = "40-43",
+                monster = "Goobbue Gardener",
+                zone = 121,
+              },
+            [3] = {
+                level = "80-95",
+                monster = "Eschan Goobbue",
+                zone = 288,
+              },
+            [4] = {
+                level = "59-62",
+                monster = "Goobbue Farmer",
+                zone = 91,
+              },
+          },
+        levels = {
+            [16] = 38,
+          },
+        mp_cost = 31,
+        prefix = "/magic",
+        range = 2,
+        recast = 17.75,
+        recast_id = 594,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [595] = {
+        blu_points = 5,
+        cast_time = 12,
+        element = 6,
+        en = "1000 Needles",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 595,
+        ja = "針千本",
+        learned_from = {
+            [1] = {
+                level = "42-46",
+                monster = "Sabotender",
+                zone = 114,
+              },
+            [2] = {
+                level = "48-53",
+                monster = "Cactuar",
+                zone = 125,
+              },
+            [3] = {
+                level = "52-59",
+                monster = "Sabotender Bailaor",
+                zone = 208,
+              },
+            [4] = {
+                level = "62-68",
+                monster = "Spelunking Sabotender",
+                zone = 208,
+              },
+            [5] = {
+                level = "64-67",
+                monster = "Sabotender Sediendo",
+                zone = 174,
+              },
+          },
+        levels = {
+            [16] = 62,
+          },
+        mp_cost = 350,
+        prefix = "/magic",
+        range = 4,
+        recast = 56,
+        recast_id = 595,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [596] = {
+        blu_points = 2,
+        cast_time = 2.5,
+        element = 15,
+        en = "Pinecone Bomb",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 596,
+        ja = "まつぼっくり爆弾",
+        learned_from = {
+            [1] = {
+                level = "25-28",
+                monster = "Walking Tree",
+                zone = 104,
+              },
+            [2] = {
+                level = "52-54",
+                monster = "Leshy",
+                zone = 24,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Highland Treant",
+                zone = 15,
+              },
+            [4] = {
+                level = "100-102",
+                monster = "Knobby Treant",
+                zone = 261,
+              },
+            [5] = {
+                level = "100-102",
+                monster = "Verdant Treant",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 36,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 12,
+        recast = 26.5,
+        recast_id = 596,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [597] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Sprout Smack",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 597,
+        ja = "スプラウトスマック",
+        learned_from = {
+            [1] = {
+                level = "3-7",
+                monster = "Walking Sapling",
+                zone = 107,
+              },
+            [2] = {
+                level = "3-7",
+                monster = "Walking Sapling",
+                zone = 106,
+              },
+            [3] = {
+                level = "7-10",
+                monster = "Strolling Sapling",
+                zone = 102,
+              },
+            [4] = {
+                level = "7-10",
+                monster = "Strolling Sapling",
+                zone = 117,
+              },
+            [5] = {
+                level = "7-10",
+                monster = "Strolling Sapling",
+                zone = 108,
+              },
+            [6] = {
+                level = "18-21",
+                monster = "Stalking Sapling",
+                zone = 105,
+              },
+            [7] = {
+                level = "66-68",
+                monster = "Treant Sapling",
+                zone = 51,
+              },
+            [8] = {
+                level = "74-84",
+                monster = "Trotting Sapling",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 4,
+          },
+        mp_cost = 6,
+        prefix = "/magic",
+        range = 2,
+        recast = 7.25,
+        recast_id = 597,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [598] = {
+        blu_points = 4,
+        cast_time = 3,
+        element = 7,
+        en = "Soporific",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 598,
+        ja = "サペリフィック",
+        learned_from = {
+            [1] = {
+                level = "18-22",
+                monster = "Flytrap",
+                zone = 2,
+              },
+            [2] = {
+                level = "15-25",
+                monster = "Flytrap",
+                zone = 1,
+              },
+            [3] = {
+                level = "23-27",
+                monster = "Battrap",
+                zone = 2,
+              },
+            [4] = {
+                level = "29-33",
+                monster = "Birdtrap",
+                zone = 2,
+              },
+            [5] = {
+                level = "38-42",
+                monster = "Hawkertrap",
+                zone = 30,
+              },
+            [6] = {
+                level = "45-49",
+                monster = "Mantrap",
+                zone = 25,
+              },
+            [7] = {
+                level = "64-66",
+                monster = "Puktrap",
+                zone = 53,
+              },
+            [8] = {
+                level = "67-70",
+                monster = "Puktrap",
+                zone = 68,
+              },
+            [9] = {
+                level = "80-95",
+                monster = "Boartrap",
+                zone = 216,
+              },
+          },
+        levels = {
+            [16] = 24,
+          },
+        mp_cost = 38,
+        prefix = "/magic",
+        range = 4,
+        recast = 26,
+        recast_id = 598,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [599] = {
+        blu_points = 2,
+        cast_time = 2,
+        element = 15,
+        en = "Queasyshroom",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 599,
+        ja = "マヨイタケ",
+        learned_from = {
+            [1] = {
+                level = "3-6",
+                monster = "Forest Funguar",
+                zone = 100,
+              },
+            [2] = {
+                level = "4-6",
+                monster = "Toadstool",
+                zone = 140,
+              },
+            [3] = {
+                level = "9-11",
+                monster = "Cave Funguar",
+                zone = 143,
+              },
+            [4] = {
+                level = "11-13",
+                monster = "Grass Funguar",
+                zone = 102,
+              },
+            [5] = {
+                level = "14-16",
+                monster = "Poison Funguar",
+                zone = 141,
+              },
+            [6] = {
+                level = "16-18",
+                monster = "Jugner Funguar",
+                zone = 104,
+              },
+            [7] = {
+                level = "16-19",
+                monster = "Poison Funguar",
+                zone = 2,
+              },
+            [8] = {
+                level = "102-104",
+                monster = "Pallid Funguar",
+                zone = 270,
+              },
+            [9] = {
+                level = "102-104",
+                monster = "Foreboding Funguar",
+                zone = 270,
+              },
+          },
+        levels = {
+            [16] = 8,
+          },
+        mp_cost = 20,
+        prefix = "/magic",
+        range = 9,
+        recast = 15,
+        recast_id = 599,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [603] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Wild Oats",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 603,
+        ja = "種まき",
+        learned_from = {
+            [1] = {
+                level = "1",
+                monster = "Tiny Mandragora",
+                zone = 115,
+              },
+            [2] = {
+                level = "1",
+                monster = "Tiny Mandragora",
+                zone = 116,
+              },
+            [3] = {
+                level = "3-5",
+                monster = "Mandragora",
+                zone = 115,
+              },
+            [4] = {
+                level = "3-6",
+                monster = "Mandragora",
+                zone = 116,
+              },
+            [5] = {
+                level = "11-15",
+                monster = "Pygmaioi",
+                zone = 117,
+              },
+            [6] = {
+                level = "15-18",
+                monster = "Sylvestre",
+                zone = 118,
+              },
+            [7] = {
+                level = "80-95",
+                monster = "Hannequet",
+                zone = 215,
+              },
+            [8] = {
+                level = "100",
+                monster = "Blanched Mandragora",
+                zone = 261,
+              },
+          },
+        levels = {
+            [16] = 4,
+          },
+        mp_cost = 9,
+        prefix = "/magic",
+        range = 9,
+        recast = 7.25,
+        recast_id = 603,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [604] = {
+        blu_points = 5,
+        cast_time = 8.75,
+        element = 3,
+        en = "Bad Breath",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 604,
+        ja = "臭い息",
+        learned_from = {
+            [1] = {
+                level = "25-28",
+                monster = "Malboro",
+                zone = 109,
+              },
+            [2] = {
+                level = "34-37",
+                monster = "Ochu",
+                zone = 110,
+              },
+            [3] = {
+                level = "51-54",
+                monster = "Anemone",
+                zone = 124,
+              },
+            [4] = {
+                level = "65-66",
+                monster = "Ameretat",
+                zone = 51,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Morboling",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 61,
+          },
+        mp_cost = 212,
+        prefix = "/magic",
+        range = 9,
+        recast = 56,
+        recast_id = 604,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [605] = {
+        blu_points = 3,
+        cast_time = 3,
+        element = 7,
+        en = "Geist Wall",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 605,
+        ja = "ガイストウォール",
+        learned_from = {
+            [1] = {
+                level = "34-37",
+                monster = "Eft",
+                zone = 4,
+              },
+            [2] = {
+                level = "76-78",
+                monster = "Tartarus Eft",
+                zone = 4,
+              },
+            [3] = {
+                level = "80-82",
+                monster = "Hypnos Eft",
+                zone = 4,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Canyon Eft",
+                zone = 45,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Razorback",
+                zone = 15,
+              },
+            [6] = {
+                level = "80-95",
+                monster = "Terminus Eft",
+                zone = 215,
+              },
+            [7] = {
+                level = "107-110",
+                monster = "Eschan Tarichuk",
+                zone = 288,
+              },
+          },
+        levels = {
+            [16] = 46,
+          },
+        mp_cost = 35,
+        prefix = "/magic",
+        range = 4,
+        recast = 30,
+        recast_id = 605,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [606] = {
+        blu_points = 2,
+        cast_time = 2.5,
+        element = 5,
+        en = "Awful Eye",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 606,
+        ja = "アーフルアイ",
+        learned_from = {
+            [1] = {
+                level = "34-37",
+                monster = "Bugard",
+                zone = 24,
+              },
+            [2] = {
+                level = "34-37",
+                monster = "Bugard",
+                zone = 25,
+              },
+            [3] = {
+                level = "40-43",
+                monster = "Gigantobugard",
+                zone = 24,
+              },
+            [4] = {
+                level = "40-43",
+                monster = "Gigantobugard",
+                zone = 25,
+              },
+            [5] = {
+                level = "80-95",
+                monster = "Abyssobugard",
+                zone = 216,
+              },
+          },
+        levels = {
+            [16] = 46,
+          },
+        mp_cost = 32,
+        prefix = "/magic",
+        range = 7,
+        recast = 60,
+        recast_id = 606,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [608] = {
+        blu_points = 3,
+        cast_time = 6.5,
+        element = 1,
+        en = "Frost Breath",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 608,
+        ja = "フロストブレス",
+        learned_from = {
+            [1] = {
+                level = "68-70",
+                monster = "Nival Raptor",
+                zone = 5,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Adasaurus",
+                zone = 253,
+              },
+            [3] = {
+                level = "~90",
+                monster = "Rahu",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 66,
+          },
+        mp_cost = 136,
+        prefix = "/magic",
+        range = 9,
+        recast = 42.75,
+        recast_id = 608,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [610] = {
+        blu_points = 4,
+        cast_time = 3,
+        element = 1,
+        en = "Infrasonics",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 610,
+        ja = "超低周波",
+        learned_from = {
+            [1] = {
+                level = "15-19",
+                monster = "Hill Lizard",
+                zone = 103,
+              },
+            [2] = {
+                level = "32-35",
+                monster = "Ivory Lizard",
+                zone = 123,
+              },
+            [3] = {
+                level = "36-39",
+                monster = "White Lizard",
+                zone = 124,
+              },
+            [4] = {
+                level = "49-51",
+                monster = "Labyrinth Lizard",
+                zone = 197,
+              },
+            [5] = {
+                level = "61-64",
+                monster = "Sand Lizard",
+                zone = 174,
+              },
+            [6] = {
+                level = "62-66",
+                monster = "Sand Lizard",
+                zone = 113,
+              },
+            [7] = {
+                level = "75-90",
+                monster = "Shadow Lizard",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 65,
+          },
+        mp_cost = 42,
+        prefix = "/magic",
+        range = 2,
+        recast = 60,
+        recast_id = 610,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [611] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 15,
+        en = "Disseverment",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 611,
+        ja = "ディセバーメント",
+        learned_from = {
+            [1] = {
+                level = "68-71",
+                monster = "Ul'aern",
+                zone = 33,
+              },
+            [2] = {
+                level = "76",
+                monster = "Om'aern",
+                zone = 33,
+              },
+            [3] = {
+                level = "81-84",
+                monster = "Aw'aern",
+                zone = 35,
+              },
+            [4] = {
+                level = "115-119",
+                monster = "Eschan Il'aern",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 72,
+          },
+        mp_cost = 74,
+        prefix = "/magic",
+        range = 2,
+        recast = 32.75,
+        recast_id = 611,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [612] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 6,
+        en = "Actinic Burst",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 612,
+        ja = "A.バースト",
+        learned_from = {
+            [1] = {
+                level = "74-76",
+                monster = "Eo'ghrah",
+                zone = 34,
+              },
+            [2] = {
+                level = "78-80",
+                monster = "Aw'ghrah",
+                zone = 35,
+              },
+            [3] = {
+                level = "115-119",
+                monster = "Eschan Ghrah",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 74,
+          },
+        mp_cost = 24,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 612,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [613] = {
+        blu_points = 5,
+        cast_time = 3,
+        duration = 180,
+        element = 15,
+        en = "Reactor Cool",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 613,
+        ja = "反応炉冷却",
+        learned_from = {
+            [1] = {
+                level = "74-76",
+                monster = "Eo'zdei",
+                zone = 34,
+              },
+            [2] = {
+                level = "78-80",
+                monster = "Aw'zdei",
+                zone = 35,
+              },
+            [3] = {
+                level = "81-85",
+                monster = "Eschan Zdei",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 74,
+          },
+        mp_cost = 28,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 613,
+        requirements = 0,
+        skill = 43,
+        status = 93,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [614] = {
+        blu_points = 3,
+        cast_time = 3,
+        duration = 120,
+        element = 15,
+        en = "Saline Coat",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 614,
+        ja = "セイリーンコート",
+        learned_from = {
+            [1] = {
+                level = "68-71",
+                monster = "Ul'xzomit",
+                zone = 33,
+              },
+            [2] = {
+                level = "76",
+                monster = "Om'xzomit",
+                zone = 33,
+              },
+            [3] = {
+                level = "75-100",
+                monster = "Ab'xzomit",
+                zone = 15,
+              },
+            [4] = {
+                level = "115-119",
+                monster = "Eschan Xzomit",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 72,
+          },
+        mp_cost = 66,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 614,
+        requirements = 0,
+        skill = 43,
+        status = 191,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [615] = {
+        blu_points = 5,
+        cast_time = 3,
+        duration = 750,
+        element = 15,
+        en = "Plasma Charge",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 615,
+        ja = "プラズマチャージ",
+        learned_from = {
+            [1] = {
+                level = "68-71",
+                monster = "Ul'phuabo",
+                zone = 33,
+              },
+            [2] = {
+                level = "76",
+                monster = "Om'phuabo",
+                zone = 33,
+              },
+            [3] = {
+                level = "115-119",
+                monster = "Eschan Phuabo",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 75,
+          },
+        mp_cost = 24,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 615,
+        requirements = 0,
+        skill = 43,
+        status = 38,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [616] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 4,
+        en = "Temporal Shift",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 616,
+        ja = "テンポラルシフト",
+        learned_from = {
+            [1] = {
+                level = "68-71",
+                monster = "Ul'hpemde",
+                zone = 33,
+              },
+            [2] = {
+                level = "76",
+                monster = "Om'hpemde",
+                zone = 33,
+              },
+            [3] = {
+                level = "115-119",
+                monster = "Eschan Hpemde",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 73,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 4,
+        recast = 56,
+        recast_id = 616,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [617] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Vertical Cleave",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 617,
+        ja = "バーチカルクリーヴ",
+        learned_from = {
+            [1] = {
+                level = "74-76",
+                monster = "Eo'euvhi",
+                zone = 34,
+              },
+            [2] = {
+                level = "78-80",
+                monster = "Aw'euvhi",
+                zone = 35,
+              },
+            [3] = {
+                level = "115-119",
+                monster = "Eschan Euvhi",
+                zone = 289,
+              },
+            [4] = {
+                level = "110",
+                monster = "Thalesek",
+                zone = 37,
+              },
+          },
+        levels = {
+            [16] = 75,
+          },
+        mp_cost = 86,
+        prefix = "/magic",
+        range = 2,
+        recast = 37.25,
+        recast_id = 617,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [618] = {
+        blu_points = 2,
+        cast_time = 2.25,
+        element = 0,
+        en = "Blastbomb",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 618,
+        ja = "炸裂弾",
+        learned_from = {
+            [1] = {
+                level = "8-10",
+                monster = "Orcish Stonelauncher",
+                zone = 140,
+              },
+            [2] = {
+                level = "15-16",
+                monster = "Orcish Wallbreacher",
+                zone = 140,
+              },
+            [3] = {
+                level = "17-18",
+                monster = "Orcish Barricader",
+                zone = 140,
+              },
+            [4] = {
+                level = "16-18",
+                monster = "Orcish Flamethrower",
+                zone = 141,
+              },
+            [5] = {
+                level = "20-21",
+                monster = "Orcish Panzer",
+                zone = 141,
+              },
+            [6] = {
+                level = "37-40",
+                monster = "Orcish Stonelauncher",
+                zone = 24,
+              },
+            [7] = {
+                level = "39-42",
+                monster = "Orcish Firebelcher",
+                zone = 149,
+              },
+            [8] = {
+                level = "43-46",
+                monster = "Orcish Stonelauncher",
+                zone = 25,
+              },
+            [9] = {
+                level = "81-83",
+                monster = "Orcish Firebelcher",
+                zone = 85,
+              },
+          },
+        levels = {
+            [16] = 18,
+          },
+        mp_cost = 36,
+        prefix = "/magic",
+        range = 9,
+        recast = 15,
+        recast_id = 618,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [620] = {
+        blu_points = 3,
+        cast_time = 1,
+        element = 15,
+        en = "Battle Dance",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 620,
+        ja = "バトルダンス",
+        learned_from = {
+            [1] = {
+                level = "3-8",
+                monster = "Orcs",
+                zone = 101,
+              },
+            [2] = {
+                level = "3-8",
+                monster = "Orcs",
+                zone = 100,
+              },
+            [3] = {
+                level = "3-9",
+                monster = "Orcs",
+                zone = 140,
+              },
+            [4] = {
+                level = "8-10",
+                monster = "Orcs",
+                zone = 141,
+              },
+            [5] = {
+                level = "8-16",
+                monster = "Orcs",
+                zone = 102,
+              },
+            [6] = {
+                level = "11-15",
+                monster = "Orcs",
+                zone = 140,
+              },
+            [7] = {
+                level = "11-17",
+                monster = "Orcs",
+                zone = 141,
+              },
+            [8] = {
+                level = "62-64",
+                monster = "Orcs",
+                zone = 81,
+              },
+            [9] = {
+                level = "76-79",
+                monster = "Orcs",
+                zone = 82,
+              },
+            [10] = {
+                level = "77-83",
+                monster = "Orcs",
+                zone = 85,
+              },
+          },
+        levels = {
+            [16] = 12,
+          },
+        mp_cost = 12,
+        prefix = "/magic",
+        range = 4,
+        recast = 10,
+        recast_id = 620,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [621] = {
+        blu_points = 2,
+        cast_time = 3,
+        element = 7,
+        en = "Sandspray",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 621,
+        ja = "サンドスプレー",
+        learned_from = {
+            [1] = {
+                level = "67-69",
+                monster = "Qiqirn",
+                zone = 79,
+              },
+            [2] = {
+                level = "68-75",
+                monster = "Qiqirn",
+                zone = 51,
+              },
+            [3] = {
+                level = "76-77",
+                monster = "Qiqirn Goldsmith",
+                zone = 72,
+              },
+          },
+        levels = {
+            [16] = 66,
+          },
+        mp_cost = 43,
+        prefix = "/magic",
+        range = 4,
+        recast = 26,
+        recast_id = 621,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [622] = {
+        blu_points = 2,
+        cast_time = 1,
+        element = 15,
+        en = "Grand Slam",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 622,
+        ja = "グランドスラム",
+        learned_from = {
+            [1] = {
+                level = "28-30",
+                monster = "Gigas",
+                zone = 184,
+              },
+            [2] = {
+                level = "28-31",
+                monster = "Gigas",
+                zone = 126,
+              },
+            [3] = {
+                level = "35-44",
+                monster = "Gigas",
+                zone = 24,
+              },
+            [4] = {
+                level = "41-44",
+                monster = "Gigas",
+                zone = 25,
+              },
+            [5] = {
+                level = "65-69",
+                monster = "Gigas",
+                zone = 158,
+              },
+          },
+        levels = {
+            [16] = 30,
+          },
+        mp_cost = 24,
+        prefix = "/magic",
+        range = 4,
+        recast = 14.25,
+        recast_id = 622,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [623] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Head Butt",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 623,
+        ja = "ヘッドバット",
+        learned_from = {
+            [1] = {
+                level = "3-8",
+                monster = "Quadavs",
+                zone = 106,
+              },
+            [2] = {
+                level = "3-8",
+                monster = "Quadavs",
+                zone = 107,
+              },
+            [3] = {
+                level = "3-18",
+                monster = "Quadavs",
+                zone = 143,
+              },
+            [4] = {
+                level = "8-16",
+                monster = "Quadavs",
+                zone = 108,
+              },
+            [5] = {
+                level = "3-8",
+                monster = "Quadavs",
+                zone = 109,
+              },
+            [6] = {
+                level = "28-32",
+                monster = "Quadavs",
+                zone = 110,
+              },
+            [7] = {
+                level = "59-63",
+                monster = "Quadavs",
+                zone = 88,
+              },
+            [8] = {
+                level = "71-78",
+                monster = "Quadavs",
+                zone = 90,
+              },
+          },
+        levels = {
+            [16] = 12,
+          },
+        mp_cost = 12,
+        prefix = "/magic",
+        range = 2,
+        recast = 10,
+        recast_id = 623,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [626] = {
+        blu_points = 3,
+        cast_time = 3.75,
+        element = 0,
+        en = "Bomb Toss",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 626,
+        ja = "爆弾投げ",
+        learned_from = {
+            [1] = {
+                level = "17-25",
+                monster = "Goblins",
+                zone = 103,
+              },
+            [2] = {
+                level = "32-47",
+                monster = "Goblins",
+                zone = 123,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Goblin Meatgrinder",
+                zone = 254,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Goblin Plunderer",
+                zone = 254,
+              },
+          },
+        levels = {
+            [16] = 28,
+          },
+        mp_cost = 42,
+        prefix = "/magic",
+        range = 9,
+        recast = 24.5,
+        recast_id = 626,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [628] = {
+        blu_points = 3,
+        cast_time = 1,
+        element = 15,
+        en = "Frypan",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 628,
+        ja = "フライパン",
+        learned_from = {
+            [1] = {
+                level = "33-47",
+                monster = "Moblins",
+                zone = 11,
+              },
+            [2] = {
+                level = "33-55",
+                monster = "Goblins",
+                zone = 11,
+              },
+            [3] = {
+                level = "66-80",
+                monster = "Moblins",
+                zone = 12,
+              },
+          },
+        levels = {
+            [16] = 63,
+          },
+        mp_cost = 65,
+        prefix = "/magic",
+        range = 4,
+        recast = 26,
+        recast_id = 628,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [629] = {
+        blu_points = 3,
+        cast_time = 5.75,
+        element = 2,
+        en = "Flying Hip Press",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 629,
+        ja = "F.ヒッププレス",
+        learned_from = {
+            [1] = {
+                level = "32-35",
+                monster = "Bugbear Servingman",
+                zone = 11,
+              },
+            [2] = {
+                level = "42-45",
+                monster = "Bugbear Bondman",
+                zone = 11,
+              },
+            [3] = {
+                level = "65-67",
+                monster = "Bugbear Trashman",
+                zone = 12,
+              },
+            [4] = {
+                level = "71-76",
+                monster = "Bugbear Watchman",
+                zone = 12,
+              },
+          },
+        levels = {
+            [16] = 58,
+          },
+        mp_cost = 125,
+        prefix = "/magic",
+        range = 4,
+        recast = 34.5,
+        recast_id = 629,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [631] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Hydro Shot",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 631,
+        ja = "ハイドロショット",
+        learned_from = {
+            [1] = {
+                level = "34-38",
+                monster = "Sahagin",
+                zone = 123,
+              },
+            [2] = {
+                level = "41-48",
+                monster = "Sahagin",
+                zone = 176,
+              },
+            [3] = {
+                level = "52-59",
+                monster = "Sahagin",
+                zone = 176,
+              },
+          },
+        levels = {
+            [16] = 63,
+          },
+        mp_cost = 55,
+        prefix = "/magic",
+        range = 2,
+        recast = 26,
+        recast_id = 631,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [632] = {
+        blu_points = 3,
+        cast_time = 7,
+        duration = 90,
+        element = 15,
+        en = "Diamondhide",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 632,
+        ja = "金剛身",
+        learned_from = {
+            [1] = {
+                level = "67-75",
+                monster = "Troll",
+                zone = 62,
+              },
+            [2] = {
+                level = "72-73",
+                monster = "Troll",
+                zone = 51,
+              },
+            [3] = {
+                level = "71-73",
+                monster = "Troll",
+                zone = 52,
+              },
+            [4] = {
+                level = "79-83",
+                monster = "Troll",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 67,
+          },
+        mp_cost = 99,
+        prefix = "/magic",
+        range = 8,
+        recast = 26,
+        recast_id = 632,
+        requirements = 0,
+        skill = 43,
+        status = 37,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [633] = {
+        blu_points = 5,
+        cast_time = 3.5,
+        element = 7,
+        en = "Enervation",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 633,
+        ja = "吶喊",
+        learned_from = {
+            [1] = {
+                level = "67-75",
+                monster = "Troll",
+                zone = 62,
+              },
+            [2] = {
+                level = "72-73",
+                monster = "Troll",
+                zone = 51,
+              },
+            [3] = {
+                level = "71-73",
+                monster = "Troll",
+                zone = 52,
+              },
+            [4] = {
+                level = "79-83",
+                monster = "Troll",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 67,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 633,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [634] = {
+        blu_points = 5,
+        cast_time = 3,
+        element = 6,
+        en = "Light of Penance",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 634,
+        ja = "贖罪の光",
+        learned_from = {
+            [1] = {
+                level = "45-49",
+                monster = "Tonberry",
+                zone = 124,
+              },
+            [2] = {
+                level = "51-59",
+                monster = "Tonberry Cutter",
+                zone = 159,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Tonberry Bedeviler",
+                zone = 15,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Cryptonberry Occultist",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 58,
+          },
+        mp_cost = 53,
+        prefix = "/magic",
+        range = 9,
+        recast = 60,
+        recast_id = 634,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [636] = {
+        blu_points = 4,
+        cast_time = 2.5,
+        duration = 180,
+        element = 15,
+        en = "Warm-Up",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 636,
+        ja = "ワームアップ",
+        learned_from = {
+            [1] = {
+                level = "73-75",
+                monster = "Mamool Ja",
+                zone = 51,
+              },
+            [2] = {
+                level = "81-83",
+                monster = "Mamool Ja",
+                zone = 52,
+              },
+            [3] = {
+                level = "81-83",
+                monster = "Mamool Ja",
+                zone = 65,
+              },
+          },
+        levels = {
+            [16] = 68,
+          },
+        mp_cost = 59,
+        prefix = "/magic",
+        range = 0,
+        recast = 56,
+        recast_id = 636,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [637] = {
+        blu_points = 5,
+        cast_time = 6.5,
+        element = 0,
+        en = "Firespit",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 637,
+        ja = "ファイアースピット",
+        learned_from = {
+            [1] = {
+                level = "73-75",
+                monster = "Mamool Ja",
+                zone = 51,
+              },
+            [2] = {
+                level = "81-83",
+                monster = "Mamool Ja",
+                zone = 52,
+              },
+            [3] = {
+                level = "81-83",
+                monster = "Mamool Ja",
+                zone = 65,
+              },
+            [4] = {
+                level = "85",
+                monster = "Gotoh Zha the Redolent",
+                zone = 51,
+              },
+          },
+        levels = {
+            [16] = 68,
+          },
+        mp_cost = 121,
+        prefix = "/magic",
+        range = 12,
+        recast = 42.75,
+        recast_id = 637,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [638] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Feather Storm",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 638,
+        ja = "羽根吹雪",
+        learned_from = {
+            [1] = {
+                level = "3-8",
+                monster = "Yagudos",
+                zone = 116,
+              },
+            [2] = {
+                level = "3-8",
+                monster = "Yagudos",
+                zone = 115,
+              },
+            [3] = {
+                level = "3-10",
+                monster = "Yagudos",
+                zone = 145,
+              },
+            [4] = {
+                level = "8-16",
+                monster = "Yagudos",
+                zone = 117,
+              },
+            [5] = {
+                level = "21-23",
+                monster = "Yagudos",
+                zone = 119,
+              },
+            [6] = {
+                level = "61-64",
+                monster = "Yagudos",
+                zone = 95,
+              },
+            [7] = {
+                level = "76-78",
+                monster = "Yagudos",
+                zone = 97,
+              },
+            [8] = {
+                level = "77-82",
+                monster = "Yagudos",
+                zone = 99,
+              },
+          },
+        levels = {
+            [16] = 12,
+          },
+        mp_cost = 12,
+        prefix = "/magic",
+        range = 9,
+        recast = 10,
+        recast_id = 638,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [640] = {
+        blu_points = 4,
+        cast_time = 1,
+        element = 15,
+        en = "Tail Slap",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 640,
+        ja = "テールスラップ",
+        learned_from = {
+            [1] = {
+                level = "73-75",
+                monster = "Nix Songstress",
+                zone = 54,
+              },
+            [2] = {
+                level = "72-75",
+                monster = "Merrow Typhoondancer",
+                zone = 54,
+              },
+          },
+        levels = {
+            [16] = 69,
+          },
+        mp_cost = 77,
+        prefix = "/magic",
+        range = 4,
+        recast = 28.5,
+        recast_id = 640,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [641] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 15,
+        en = "Hysteric Barrage",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 641,
+        ja = "H.バラージ",
+        learned_from = {
+            [1] = {
+                level = "71-75",
+                monster = "Lamiae",
+                zone = 79,
+              },
+            [2] = {
+                level = "72-75",
+                monster = "Lamiae",
+                zone = 54,
+              },
+          },
+        levels = {
+            [16] = 69,
+          },
+        mp_cost = 61,
+        prefix = "/magic",
+        range = 2,
+        recast = 28.5,
+        recast_id = 641,
+        requirements = 0,
+        skill = 43,
+        status = 73,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [642] = {
+        blu_points = 3,
+        cast_time = 3.5,
+        duration = 90,
+        element = 15,
+        en = "Amplification",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 642,
+        ja = "ねたみ種",
+        learned_from = {
+            [1] = {
+                level = "73-75",
+                monster = "Black Pudding",
+                zone = 62,
+              },
+            [2] = {
+                level = "75-80",
+                monster = "Ebony Pudding",
+                zone = 61,
+              },
+            [3] = {
+                level = "77-79",
+                monster = "Pitchy Pudding",
+                zone = 92,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Licorice",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 70,
+          },
+        mp_cost = 48,
+        prefix = "/magic",
+        range = 12,
+        recast = 56,
+        recast_id = 642,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [643] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Cannonball",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 643,
+        ja = "キャノンボール",
+        learned_from = {
+            [1] = {
+                level = "73-76",
+                monster = "Wamouracampa",
+                zone = 62,
+              },
+            [2] = {
+                level = "79-81",
+                monster = "Wamoura Prince",
+                zone = 61,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gullycampa",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 70,
+          },
+        mp_cost = 66,
+        prefix = "/magic",
+        range = 12,
+        recast = 28.5,
+        recast_id = 643,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [644] = {
+        blu_points = 4,
+        cast_time = 3,
+        element = 4,
+        en = "Mind Blast",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 644,
+        ja = "マインドブラスト",
+        learned_from = {
+            [1] = {
+                level = "79-82",
+                monster = "Soulflayer",
+                zone = 79,
+              },
+            [2] = {
+                level = "82-83",
+                monster = "Soulflayer",
+                zone = 54,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Pneumaflayer",
+                zone = 217,
+              },
+          },
+        levels = {
+            [16] = 73,
+          },
+        mp_cost = 82,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 644,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [645] = {
+        blu_points = 4,
+        cast_time = 3,
+        element = 0,
+        en = "Exuviation",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 645,
+        ja = "イグジュビエーション",
+        learned_from = {
+            [1] = {
+                level = "77-80",
+                monster = "Wamoura",
+                zone = 62,
+              },
+            [2] = {
+                level = "80-82",
+                monster = "Wamoura",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 75,
+          },
+        mp_cost = 40,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 645,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [646] = {
+        blu_points = 4,
+        cast_time = 4,
+        element = 6,
+        en = "Magic Hammer",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 646,
+        ja = "マジックハンマー",
+        learned_from = {
+            [1] = {
+                level = "75-77",
+                monster = "Poroggo",
+                zone = 65,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Poroggo Seducteur",
+                zone = 132,
+              },
+          },
+        levels = {
+            [16] = 74,
+          },
+        mp_cost = 40,
+        prefix = "/magic",
+        range = 8,
+        recast = 52,
+        recast_id = 646,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [647] = {
+        blu_points = 2,
+        cast_time = 3.5,
+        duration = 900,
+        element = 2,
+        en = "Zephyr Mantle",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 647,
+        ja = "ゼファーマント",
+        learned_from = {
+            [1] = {
+                level = "68-70",
+                monster = "Puk",
+                zone = 51,
+              },
+            [2] = {
+                level = "76-78",
+                monster = "Sea Puk",
+                zone = 65,
+              },
+            [3] = {
+                level = "77-78",
+                monster = "Sea Puk",
+                zone = 52,
+              },
+            [4] = {
+                level = "75-80",
+                monster = "Peapuk",
+                zone = 217,
+              },
+            [5] = {
+                level = "75-80",
+                monster = "Crepuscule Puk",
+                zone = 132,
+              },
+            [6] = {
+                level = "75-80",
+                monster = "Desert Puk",
+                zone = 218,
+              },
+          },
+        levels = {
+            [16] = 65,
+          },
+        mp_cost = 31,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 647,
+        requirements = 0,
+        skill = 43,
+        status = 36,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [648] = {
+        blu_points = 1,
+        cast_time = 3,
+        element = 5,
+        en = "Regurgitation",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 648,
+        ja = "リガージテーション",
+        learned_from = {
+            [1] = {
+                level = "67-71",
+                monster = "Peiste",
+                zone = 89,
+              },
+            [2] = {
+                level = "74-77",
+                monster = "Peiste",
+                zone = 90,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Maritime Peiste",
+                zone = 216,
+              },
+          },
+        levels = {
+            [16] = 69,
+          },
+        mp_cost = 69,
+        prefix = "/magic",
+        range = 12,
+        recast = 24.5,
+        recast_id = 648,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [650] = {
+        blu_points = 4,
+        cast_time = 2.5,
+        element = 3,
+        en = "Seedspray",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 650,
+        ja = "シードスプレー",
+        learned_from = {
+            [1] = {
+                level = "49-52",
+                monster = "Rafflesia",
+                zone = 95,
+              },
+            [2] = {
+                level = "64-68",
+                monster = "Rafflesia",
+                zone = 96,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Highland Rafflesia",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 61,
+          },
+        mp_cost = 61,
+        prefix = "/magic",
+        range = 8,
+        recast = 36,
+        recast_id = 650,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [651] = {
+        blu_points = 4,
+        cast_time = 3.5,
+        element = 5,
+        en = "Corrosive Ooze",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 651,
+        ja = "コローシブウーズ",
+        learned_from = {
+            [1] = {
+                level = "56-62",
+                monster = "Scabrous Slug",
+                zone = 91,
+              },
+            [2] = {
+                level = "69-73",
+                monster = "Lou Carcolh",
+                zone = 90,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gunge Slug",
+                zone = 15,
+              },
+            [4] = {
+                level = "?",
+                monster = "Plantpassage Slug",
+                zone = 258,
+              },
+          },
+        levels = {
+            [16] = 66,
+          },
+        mp_cost = 55,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 651,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [652] = {
+        blu_points = 3,
+        cast_time = 2.5,
+        element = 15,
+        en = "Spiral Spin",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 652,
+        ja = "スパイラルスピン",
+        learned_from = {
+            [1] = {
+                level = "45-47",
+                monster = "Ladybug",
+                zone = 81,
+              },
+            [2] = {
+                level = "52-54",
+                monster = "Goblin's Ladybug",
+                zone = 81,
+              },
+            [3] = {
+                level = "62-64",
+                monster = "Biddybug",
+                zone = 82,
+              },
+            [4] = {
+                level = "71-74",
+                monster = "Mariehene",
+                zone = 85,
+              },
+            [5] = {
+                level = "79-82",
+                monster = "Nannakola",
+                zone = 218,
+              },
+          },
+        levels = {
+            [16] = 60,
+          },
+        mp_cost = 39,
+        prefix = "/magic",
+        range = 9,
+        recast = 45,
+        recast_id = 652,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [653] = {
+        blu_points = 2,
+        cast_time = 2,
+        element = 15,
+        en = "Asuran Claws",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 653,
+        ja = "アシュラクロー",
+        learned_from = {
+            [1] = {
+                level = "80-82",
+                monster = "Lobison",
+                zone = 82,
+              },
+            [2] = {
+                level = "80-82",
+                monster = "Lobison",
+                zone = 85,
+              },
+            [3] = {
+                level = "81-82",
+                monster = "Fusty Gnole",
+                zone = 137,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Luison",
+                zone = 132,
+              },
+          },
+        levels = {
+            [16] = 70,
+          },
+        mp_cost = 81,
+        prefix = "/magic",
+        range = 2,
+        recast = 60,
+        recast_id = 653,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [654] = {
+        blu_points = 4,
+        cast_time = 1,
+        element = 15,
+        en = "Sub-zero Smash",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 654,
+        ja = "サブゼロスマッシュ",
+        learned_from = {
+            [1] = {
+                level = "78-81",
+                monster = "Ruszor",
+                zone = 136,
+              },
+          },
+        levels = {
+            [16] = 72,
+          },
+        mp_cost = 44,
+        prefix = "/magic",
+        range = 4,
+        recast = 32.75,
+        recast_id = 654,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [655] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        duration = 90,
+        element = 0,
+        en = "Triumphant Roar",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 655,
+        ja = "共鳴",
+        learned_from = {
+            [1] = {
+                level = "77-80",
+                monster = "Gargouille",
+                zone = 136,
+              },
+            [2] = {
+                level = "78-82",
+                monster = "Dire Gargouille",
+                zone = 137,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gruesome Gargouille",
+                zone = 217,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Benumbed Vodoriga",
+                zone = 253,
+              },
+            [5] = {
+                level = "115-119",
+                monster = "Eschan Gargouille",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 71,
+          },
+        mp_cost = 24,
+        prefix = "/magic",
+        range = 0,
+        recast = 26,
+        recast_id = 655,
+        requirements = 0,
+        skill = 43,
+        status = 91,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [656] = {
+        blu_points = 3,
+        cast_time = 3,
+        element = 5,
+        en = "Acrid Stream",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 656,
+        ja = "アクリッドストリーム",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Veld Clionid",
+                zone = 132,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Ley Clionid",
+                zone = 15,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gully Clionid",
+                zone = 45,
+              },
+            [4] = {
+                level = "115-119",
+                monster = "Eschan Clionid",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 77,
+          },
+        mp_cost = 89,
+        prefix = "/magic",
+        range = 4,
+        recast = 23,
+        recast_id = 656,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [657] = {
+        blu_points = 3,
+        cast_time = 4,
+        element = 0,
+        en = "Blazing Bound",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 657,
+        ja = "ブレーズバウンド",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Gulch Limule",
+                zone = 45,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Sods Limule",
+                zone = 15,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gigadaphnia",
+                zone = 132,
+              },
+            [4] = {
+                level = "85-99",
+                monster = "Arid Limule",
+                zone = 218,
+              },
+            [5] = {
+                level = "85-99",
+                monster = "Stream Limule",
+                zone = 254,
+              },
+            [6] = {
+                level = "85-99",
+                monster = "Crag Limule",
+                zone = 253,
+              },
+            [7] = {
+                level = "115-119",
+                monster = "Eschan Limule",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 80,
+          },
+        mp_cost = 113,
+        prefix = "/magic",
+        range = 12,
+        recast = 45,
+        recast_id = 657,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [658] = {
+        blu_points = 4,
+        cast_time = 2.75,
+        element = 6,
+        en = "Plenilune Embrace",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 658,
+        ja = "P.エンブレイス",
+        learned_from = {
+            [1] = {
+                level = "73-76",
+                monster = "Decrepit Gnole",
+                zone = 82,
+              },
+            [2] = {
+                level = "80-82",
+                monster = "Lobison",
+                zone = 82,
+              },
+            [3] = {
+                level = "80-82",
+                monster = "Lobison",
+                zone = 85,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Luison",
+                zone = 132,
+              },
+            [5] = {
+                level = "~90",
+                monster = "Skoll",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 76,
+          },
+        mp_cost = 106,
+        prefix = "/magic",
+        range = 12,
+        recast = 12,
+        recast_id = 658,
+        requirements = 0,
+        skill = 43,
+        targets = 5,
+        type = "BlueMagic",
+      },
+    [659] = {
+        blu_points = 4,
+        cast_time = 2.75,
+        element = 5,
+        en = "Demoralizing Roar",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 659,
+        ja = "D.ロア",
+        learned_from = {
+            [1] = {
+                level = "45-47",
+                monster = "Lesser Wivre",
+                zone = 88,
+              },
+            [2] = {
+                level = "68-74",
+                monster = "Wivre",
+                zone = 89,
+              },
+            [3] = {
+                level = "78-83",
+                monster = "Wivre",
+                zone = 52,
+              },
+            [4] = {
+                level = "80",
+                monster = "Gharial",
+                zone = 51,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Glade Wivre",
+                zone = 254,
+              },
+            [6] = {
+                level = "75-90",
+                monster = "Mesa Wivre",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 80,
+          },
+        mp_cost = 46,
+        prefix = "/magic",
+        range = 8,
+        recast = 25,
+        recast_id = 659,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [660] = {
+        blu_points = 3,
+        cast_time = 1.5,
+        element = 3,
+        en = "Cimicine Discharge",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 660,
+        ja = "C.ディスチャージ",
+        learned_from = {
+            [1] = {
+                level = "75-78",
+                monster = "Gnat",
+                zone = 98,
+              },
+            [2] = {
+                level = "75-78",
+                monster = "Gnat",
+                zone = 97,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Nematocera",
+                zone = 45,
+              },
+            [4] = {
+                level = "78-82",
+                monster = "Chasm Gnat",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 78,
+          },
+        mp_cost = 32,
+        prefix = "/magic",
+        range = 8,
+        recast = 20,
+        recast_id = 660,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [661] = {
+        blu_points = 5,
+        cast_time = 2,
+        duration = 300,
+        element = 2,
+        en = "Animating Wail",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 661,
+        ja = "鯨波",
+        learned_from = {
+            [1] = {
+                level = "73-74",
+                monster = "Qutrub",
+                zone = 54,
+              },
+            [2] = {
+                level = "79-81",
+                monster = "Lamia Idolater",
+                zone = 79,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Bog Body",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 79,
+          },
+        mp_cost = 53,
+        prefix = "/magic",
+        range = 0,
+        recast = 45,
+        recast_id = 661,
+        requirements = 0,
+        skill = 43,
+        status = 33,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [662] = {
+        blu_points = 3,
+        cast_time = 3.5,
+        duration = 300,
+        element = 6,
+        en = "Battery Charge",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 662,
+        ja = "バッテリーチャージ",
+        learned_from = {
+            [1] = {
+                level = "34-35",
+                monster = "Magic Urn",
+                zone = 184,
+              },
+            [2] = {
+                level = "41-43",
+                monster = "Clockwork Pod",
+                zone = 204,
+              },
+            [3] = {
+                level = "95-99",
+                monster = "Sentient Carafe",
+                zone = 204,
+              },
+            [4] = {
+                level = "85-100",
+                monster = "Sinister Seidel",
+                zone = 254,
+              },
+          },
+        levels = {
+            [16] = 79,
+          },
+        mp_cost = 50,
+        prefix = "/magic",
+        range = 0,
+        recast = 11,
+        recast_id = 662,
+        requirements = 0,
+        skill = 43,
+        status = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [663] = {
+        blu_points = 4,
+        cast_time = 6,
+        element = 2,
+        en = "Leafstorm",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 663,
+        ja = "リーフストーム",
+        learned_from = {
+            [1] = {
+                level = "25-28",
+                monster = "Walking Tree",
+                zone = 104,
+              },
+            [2] = {
+                level = "33-35",
+                monster = "Fraelissa",
+                zone = 104,
+              },
+            [3] = {
+                level = "52-54",
+                monster = "Leshy",
+                zone = 24,
+              },
+            [4] = {
+                level = "71-73",
+                monster = "Defoliate Treant",
+                zone = 51,
+              },
+            [5] = {
+                level = "75-90",
+                monster = "Highland Treant",
+                zone = 15,
+              },
+            [6] = {
+                level = "80-95",
+                monster = "Rift Treant",
+                zone = 215,
+              },
+            [7] = {
+                level = "100-102",
+                monster = "Knobby Treant",
+                zone = 261,
+              },
+            [8] = {
+                level = "100-102",
+                monster = "Verdant Treant",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 77,
+          },
+        mp_cost = 132,
+        prefix = "/magic",
+        range = 8,
+        recast = 1,
+        recast_id = 663,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [664] = {
+        blu_points = 2,
+        cast_time = 1.5,
+        duration = 90,
+        element = 6,
+        en = "Regeneration",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 664,
+        ja = "リジェネレーション",
+        learned_from = {
+            [1] = {
+                level = "21-29",
+                monster = "Sea Monk",
+                zone = 248,
+              },
+            [2] = {
+                level = "31-35",
+                monster = "Sea Monk",
+                zone = 173,
+              },
+            [3] = {
+                level = "37-38",
+                monster = "Kraken",
+                zone = 126,
+              },
+            [4] = {
+                level = "55-59",
+                monster = "Flying Manta",
+                zone = 213,
+              },
+            [5] = {
+                level = "80-95",
+                monster = "Jasconius",
+                zone = 217,
+              },
+          },
+        levels = {
+            [16] = 78,
+          },
+        mp_cost = 36,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 664,
+        requirements = 0,
+        skill = 43,
+        status = 42,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [665] = {
+        blu_points = 1,
+        cast_time = 5,
+        element = 15,
+        en = "Final Sting",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 665,
+        ja = "ファイナルスピア",
+        learned_from = {
+            [1] = {
+                level = "2-5",
+                monster = "Maneating Hornet",
+                zone = 107,
+              },
+            [2] = {
+                level = "5-8",
+                monster = "Giant Bee",
+                zone = 115,
+              },
+            [3] = {
+                level = "40-42",
+                monster = "Death Jacket",
+                zone = 197,
+              },
+            [4] = {
+                level = "100",
+                monster = "Belaboring Wasp",
+                zone = 261,
+              },
+          },
+        levels = {
+            [16] = 81,
+          },
+        mp_cost = 88,
+        prefix = "/magic",
+        range = 4,
+        recast = 11,
+        recast_id = 665,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [666] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Goblin Rush",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 666,
+        ja = "ゴブリンラッシュ",
+        learned_from = {
+            [1] = {
+                level = "17-25",
+                monster = "Goblins",
+                zone = 103,
+              },
+            [2] = {
+                level = "32-47",
+                monster = "Goblins",
+                zone = 123,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Goblin Meatgrinder",
+                zone = 254,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Goblin Plunderer",
+                zone = 254,
+              },
+            [5] = {
+                level = "85-90",
+                monster = "Goblin Healer",
+                zone = 191,
+              },
+          },
+        levels = {
+            [16] = 81,
+          },
+        mp_cost = 76,
+        prefix = "/magic",
+        range = 4,
+        recast = 25.5,
+        recast_id = 666,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [667] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Vanity Dive",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 667,
+        ja = "バニティダイブ",
+        learned_from = {
+            [1] = {
+                level = "22-36",
+                monster = "Wanderer",
+                zone = 18,
+              },
+            [2] = {
+                level = "22-36",
+                monster = "Wanderer",
+                zone = 16,
+              },
+            [3] = {
+                level = "22-36",
+                monster = "Wanderer",
+                zone = 20,
+              },
+            [4] = {
+                level = "49-56",
+                monster = "Wanderer",
+                zone = 22,
+              },
+            [5] = {
+                level = "82-85",
+                monster = "Idle Wanderer",
+                zone = 18,
+              },
+            [6] = {
+                level = "82-85",
+                monster = "Idle Wanderer",
+                zone = 16,
+              },
+            [7] = {
+                level = "82-85",
+                monster = "Idle Wanderer",
+                zone = 20,
+              },
+            [8] = {
+                level = "82-85",
+                monster = "Idle Wanderer",
+                zone = 22,
+              },
+          },
+        levels = {
+            [16] = 82,
+          },
+        mp_cost = 58,
+        prefix = "/magic",
+        range = 4,
+        recast = 42.25,
+        recast_id = 667,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [668] = {
+        blu_points = 3,
+        cast_time = 5,
+        duration = 900,
+        element = 7,
+        en = "Magic Barrier",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 668,
+        ja = "マジックバリア",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Bat Eye",
+                zone = 111,
+              },
+            [2] = {
+                level = "45-48",
+                monster = "Evil Eye",
+                zone = 112,
+              },
+            [3] = {
+                level = "52-55",
+                monster = "Morbid Eye",
+                zone = 161,
+              },
+            [4] = {
+                level = "55-56",
+                monster = "Deadly Iris",
+                zone = 162,
+              },
+            [5] = {
+                level = "80-81",
+                monster = "Gawper",
+                zone = 136,
+              },
+          },
+        levels = {
+            [16] = 82,
+          },
+        mp_cost = 29,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 668,
+        requirements = 0,
+        skill = 43,
+        status = 152,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [669] = {
+        blu_points = 2,
+        cast_time = 1,
+        element = 15,
+        en = "Whirl of Rage",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 669,
+        ja = "怒りの旋風",
+        learned_from = {
+            [1] = {
+                level = "18-20",
+                monster = "Poltergeist",
+                zone = 102,
+              },
+            [2] = {
+                level = "18-20",
+                monster = "Poltergeist",
+                zone = 108,
+              },
+            [3] = {
+                level = "18-20",
+                monster = "Poltergeist",
+                zone = 117,
+              },
+            [4] = {
+                level = "25-27",
+                monster = "Boggart",
+                zone = 119,
+              },
+            [5] = {
+                level = "61-65",
+                monster = "Ominous Weapon",
+                zone = 122,
+              },
+            [6] = {
+                level = "61-69",
+                monster = "Eschan Weapon",
+                zone = 288,
+              },
+          },
+        levels = {
+            [16] = 83,
+          },
+        mp_cost = 73,
+        prefix = "/magic",
+        range = 4,
+        recast = 31,
+        recast_id = 669,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [670] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Benthic Typhoon",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 670,
+        ja = "ベンシクタイフーン",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Rock Murex",
+                zone = 215,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Escarp Murex",
+                zone = 216,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "River Murex",
+                zone = 217,
+              },
+            [4] = {
+                level = "?",
+                monster = "Hillock Murex",
+                zone = 254,
+              },
+            [5] = {
+                level = "115-119",
+                monster = "Eschan Murex",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 83,
+          },
+        mp_cost = 43,
+        prefix = "/magic",
+        range = 4,
+        recast = 51,
+        recast_id = 670,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [671] = {
+        blu_points = 4,
+        cast_time = 4,
+        element = 2,
+        en = "Auroral Drape",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 671,
+        ja = "オーロラルドレープ",
+        learned_from = {
+            [1] = {
+                level = "25-37",
+                monster = "Weeper",
+                zone = 18,
+              },
+            [2] = {
+                level = "25-37",
+                monster = "Weeper",
+                zone = 16,
+              },
+            [3] = {
+                level = "25-37",
+                monster = "Weeper",
+                zone = 20,
+              },
+            [4] = {
+                level = "50-57",
+                monster = "Weeper",
+                zone = 22,
+              },
+            [5] = {
+                level = "85-89",
+                monster = "Woeful Weeper",
+                zone = 18,
+              },
+            [6] = {
+                level = "85-89",
+                monster = "Woeful Weeper",
+                zone = 16,
+              },
+            [7] = {
+                level = "85-89",
+                monster = "Woeful Weeper",
+                zone = 20,
+              },
+            [8] = {
+                level = "85-89",
+                monster = "Woeful Weeper",
+                zone = 22,
+              },
+          },
+        levels = {
+            [16] = 84,
+          },
+        mp_cost = 51,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 671,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [672] = {
+        blu_points = 5,
+        cast_time = 6,
+        element = 7,
+        en = "Osmosis",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 672,
+        ja = "オスモーシス",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Crevice Amoeban",
+                zone = 215,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Protoamoeban",
+                zone = 216,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Stream Amoeban",
+                zone = 217,
+              },
+            [4] = {
+                level = "?",
+                monster = "Pond Amoeban",
+                zone = 254,
+              },
+            [5] = {
+                level = "115-119",
+                monster = "Eschan Amoeban",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 84,
+          },
+        mp_cost = 47,
+        prefix = "/magic",
+        range = 12,
+        recast = 56,
+        recast_id = 672,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [673] = {
+        blu_points = 4,
+        cast_time = 1,
+        element = 15,
+        en = "Quad. Continuum",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 673,
+        ja = "四連突",
+        learned_from = {
+            [1] = {
+                level = "29-41",
+                monster = "Gorger",
+                zone = 18,
+              },
+            [2] = {
+                level = "54-60",
+                monster = "Gorger",
+                zone = 22,
+              },
+            [3] = {
+                level = "?",
+                monster = "Hadal Satiator",
+                zone = 15,
+              },
+            [4] = {
+                level = "?",
+                monster = "Hadal Mirror",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 85,
+          },
+        mp_cost = 91,
+        prefix = "/magic",
+        range = 4,
+        recast = 31.75,
+        recast_id = 673,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [674] = {
+        blu_points = 1,
+        cast_time = 0.5,
+        duration = 180,
+        element = 0,
+        en = "Fantod",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 674,
+        ja = "ファンタッド",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Hippogryph",
+                zone = 30,
+              },
+            [2] = {
+                level = "45-47",
+                monster = "Cloud Hippogryph",
+                zone = 30,
+              },
+            [3] = {
+                level = "49-52",
+                monster = "Nimbus Hippogryph",
+                zone = 29,
+              },
+            [4] = {
+                level = "55-57",
+                monster = "Strato Hippogryph",
+                zone = 29,
+              },
+            [5] = {
+                level = "73-75",
+                monster = "Grauberg Hippogryph",
+                zone = 89,
+              },
+            [6] = {
+                level = "122-124",
+                monster = "Quarrelsome Hippogryph",
+                zone = 291,
+              },
+          },
+        levels = {
+            [16] = 85,
+          },
+        mp_cost = 12,
+        prefix = "/magic",
+        range = 0,
+        recast = 10,
+        recast_id = 674,
+        requirements = 0,
+        skill = 43,
+        status = 45,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [675] = {
+        blu_points = 3,
+        cast_time = 5.5,
+        element = 0,
+        en = "Thermal Pulse",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 675,
+        ja = "サーマルパルス",
+        learned_from = {
+            [1] = {
+                level = "73-76",
+                monster = "Wamouracampa",
+                zone = 62,
+              },
+            [2] = {
+                level = "79-81",
+                monster = "Wamoura Prince",
+                zone = 61,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gullycampa",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 86,
+          },
+        mp_cost = 151,
+        prefix = "/magic",
+        range = 8,
+        recast = 8,
+        recast_id = 675,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [677] = {
+        blu_points = 3,
+        cast_time = 0.5,
+        element = 15,
+        en = "Empty Thrash",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 677,
+        ja = "エンプティスラッシュ",
+        learned_from = {
+            [1] = {
+                level = "29-41",
+                monster = "Craver",
+                zone = 20,
+              },
+            [2] = {
+                level = "54-60",
+                monster = "Craver",
+                zone = 22,
+              },
+            [3] = {
+                level = "?",
+                monster = "Hungerer",
+                zone = 45,
+              },
+          },
+        levels = {
+            [16] = 87,
+          },
+        mp_cost = 33,
+        prefix = "/magic",
+        range = 4,
+        recast = 40.75,
+        recast_id = 677,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [678] = {
+        blu_points = 3,
+        cast_time = 2,
+        duration = 90,
+        element = 7,
+        en = "Dream Flower",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 678,
+        ja = "夢想花",
+        learned_from = {
+            [1] = {
+                level = "3-6",
+                monster = "Mandragora",
+                zone = 115,
+              },
+            [2] = {
+                level = "15-18",
+                monster = "Sylvestre",
+                zone = 118,
+              },
+            [3] = {
+                level = "80-95",
+                monster = "Hannequet",
+                zone = 215,
+              },
+            [4] = {
+                level = "100",
+                monster = "Blanched Mandragora",
+                zone = 261,
+              },
+            [5] = {
+                level = "100",
+                monster = "Pinetorum",
+                zone = 260,
+              },
+          },
+        levels = {
+            [16] = 87,
+          },
+        mp_cost = 68,
+        prefix = "/magic",
+        range = 8,
+        recast = 45,
+        recast_id = 678,
+        requirements = 0,
+        skill = 43,
+        status = 2,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [679] = {
+        blu_points = 3,
+        cast_time = 1.5,
+        duration = 300,
+        element = 2,
+        en = "Occultation",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 679,
+        ja = "オカルテーション",
+        learned_from = {
+            [1] = {
+                level = "31-38",
+                monster = "Seether",
+                zone = 18,
+              },
+            [2] = {
+                level = "31-38",
+                monster = "Seether",
+                zone = 16,
+              },
+            [3] = {
+                level = "31-38",
+                monster = "Seether",
+                zone = 20,
+              },
+            [4] = {
+                level = "51-58",
+                monster = "Seether",
+                zone = 22,
+              },
+            [5] = {
+                level = "~80",
+                monster = "Meditator",
+                zone = 132,
+              },
+            [6] = {
+                level = "85-89",
+                monster = "Livid Seether",
+                zone = 18,
+              },
+            [7] = {
+                level = "85-89",
+                monster = "Livid Seether",
+                zone = 16,
+              },
+            [8] = {
+                level = "85-89",
+                monster = "Livid Seether",
+                zone = 20,
+              },
+            [9] = {
+                level = "85-89",
+                monster = "Livid Seether",
+                zone = 22,
+              },
+          },
+        levels = {
+            [16] = 88,
+          },
+        mp_cost = 138,
+        prefix = "/magic",
+        range = 4,
+        recast = 26,
+        recast_id = 679,
+        requirements = 0,
+        skill = 43,
+        status = 36,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [680] = {
+        blu_points = 5,
+        cast_time = 5,
+        element = 4,
+        en = "Charged Whisker",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 680,
+        ja = "チャージドホイスカー",
+        learned_from = {
+            [1] = {
+                level = "37-39",
+                monster = "Attohwa Coeurl",
+                zone = 7,
+              },
+            [2] = {
+                level = "46-48",
+                monster = "Master Coeurl",
+                zone = 7,
+              },
+            [3] = {
+                level = "46-48",
+                monster = "Lynx",
+                zone = 98,
+              },
+            [4] = {
+                level = "49-51",
+                monster = "Lynx",
+                zone = 97,
+              },
+            [5] = {
+                level = "68-72",
+                monster = "War Lynx",
+                zone = 97,
+              },
+            [6] = {
+                level = "80-82",
+                monster = "Caracal",
+                zone = 137,
+              },
+          },
+        levels = {
+            [16] = 88,
+          },
+        mp_cost = 183,
+        prefix = "/magic",
+        range = 8,
+        recast = 23,
+        recast_id = 680,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [681] = {
+        blu_points = 5,
+        cast_time = 2.5,
+        element = 6,
+        en = "Winds of Promy.",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 681,
+        ja = "虚無の風",
+        learned_from = {
+            [1] = {
+                level = "28-40",
+                monster = "Thinker",
+                zone = 16,
+              },
+            [2] = {
+                level = "38",
+                monster = "Cerebrator",
+                zone = 16,
+              },
+            [3] = {
+                level = "52-60",
+                monster = "Thinker",
+                zone = 22,
+              },
+            [4] = {
+                level = "?",
+                monster = "Warder of Dignity",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 89,
+          },
+        mp_cost = 36,
+        prefix = "/magic",
+        range = 8,
+        recast = 17.5,
+        recast_id = 681,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [682] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Delta Thrust",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 682,
+        ja = "デルタスラスト",
+        learned_from = {
+            [1] = {
+                level = "67-71",
+                monster = "Peiste",
+                zone = 89,
+              },
+            [2] = {
+                level = "74-77",
+                monster = "Peiste",
+                zone = 90,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Maritime Peiste",
+                zone = 216,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Gukumatz",
+                zone = 216,
+              },
+            [5] = {
+                level = "102-104",
+                monster = "Mountain Peiste",
+                zone = 265,
+              },
+          },
+        levels = {
+            [16] = 89,
+          },
+        mp_cost = 28,
+        prefix = "/magic",
+        range = 4,
+        recast = 15,
+        recast_id = 682,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [683] = {
+        blu_points = 4,
+        cast_time = 6,
+        element = 7,
+        en = "Evryone. Grudge",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 683,
+        ja = "みんなの怨み",
+        learned_from = {
+            [1] = {
+                level = "45-49",
+                monster = "Tonberry",
+                zone = 124,
+              },
+            [2] = {
+                level = "51-59",
+                monster = "Tonberry",
+                zone = 159,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Tonberry",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 90,
+          },
+        mp_cost = 185,
+        prefix = "/magic",
+        range = 12,
+        recast = 18.5,
+        recast_id = 683,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [684] = {
+        blu_points = 4,
+        cast_time = 4,
+        element = 2,
+        en = "Reaving Wind",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 684,
+        ja = "リービンウィンド",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Amphiptere",
+                zone = 136,
+              },
+            [2] = {
+                level = "83",
+                monster = "Greater Amphiptere",
+                zone = 137,
+              },
+            [3] = {
+                level = "?",
+                monster = "Turul",
+                zone = 15,
+              },
+          },
+        levels = {
+            [16] = 90,
+          },
+        mp_cost = 84,
+        prefix = "/magic",
+        range = 8,
+        recast = 26,
+        recast_id = 684,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [685] = {
+        blu_points = 3,
+        cast_time = 5,
+        duration = 180,
+        element = 3,
+        en = "Barrier Tusk",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 685,
+        ja = "牙門",
+        learned_from = {
+            [1] = {
+                level = "78-79",
+                monster = "Marid",
+                zone = 51,
+              },
+            [2] = {
+                level = "78-79",
+                monster = "Marid",
+                zone = 52,
+              },
+            [3] = {
+                level = "78-79",
+                monster = "Grand Marid",
+                zone = 52,
+              },
+            [4] = {
+                level = "78-82",
+                monster = "Morose Marid",
+                zone = 217,
+              },
+            [5] = {
+                level = "?",
+                monster = "Ayravata",
+                zone = 217,
+              },
+            [6] = {
+                level = "87-88",
+                monster = "Iriz Ima",
+                zone = 51,
+              },
+          },
+        levels = {
+            [16] = 91,
+          },
+        mp_cost = 41,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 685,
+        requirements = 0,
+        skill = 43,
+        status = 116,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [686] = {
+        blu_points = 4,
+        cast_time = 8.5,
+        element = 7,
+        en = "Mortal Ray",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 686,
+        ja = "モータルレイ",
+        learned_from = {
+            [1] = {
+                level = "37-38",
+                monster = "Taurus",
+                zone = 27,
+              },
+            [2] = {
+                level = "44-48",
+                monster = "Stegotaur",
+                zone = 27,
+              },
+            [3] = {
+                level = "47-49",
+                monster = "Stegotaur",
+                zone = 28,
+              },
+            [4] = {
+                level = "57-59",
+                monster = "Teratotaur",
+                zone = 28,
+              },
+            [5] = {
+                level = "68-71",
+                monster = "Brontotaur",
+                zone = 5,
+              },
+            [6] = {
+                level = "72-75",
+                monster = "Tyrannotaur",
+                zone = 5,
+              },
+            [7] = {
+                level = "78-81",
+                monster = "Molech",
+                zone = 5,
+              },
+            [8] = {
+                level = "79-80",
+                monster = "Dryptotaur",
+                zone = 136,
+              },
+          },
+        levels = {
+            [16] = 91,
+          },
+        mp_cost = 267,
+        prefix = "/magic",
+        range = 4,
+        recast = 22,
+        recast_id = 686,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [687] = {
+        blu_points = 2,
+        cast_time = 2.5,
+        element = 5,
+        en = "Water Bomb",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 687,
+        ja = "水風船爆弾",
+        learned_from = {
+            [1] = {
+                level = "75-77",
+                monster = "Poroggo",
+                zone = 65,
+              },
+            [2] = {
+                level = "75-90",
+                monster = "Poroggo Seducteur",
+                zone = 132,
+              },
+          },
+        levels = {
+            [16] = 92,
+          },
+        mp_cost = 67,
+        prefix = "/magic",
+        range = 9,
+        recast = 32.25,
+        recast_id = 687,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [688] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Heavy Strike",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 688,
+        ja = "重い一撃",
+        learned_from = {
+            [1] = {
+                level = "40-42",
+                monster = "Stone Golem",
+                zone = 111,
+              },
+            [2] = {
+                level = "43-45",
+                monster = "Ore Golem",
+                zone = 204,
+              },
+            [3] = {
+                level = "56-58",
+                monster = "Colossus",
+                zone = 204,
+              },
+            [4] = {
+                level = "79-84",
+                monster = "Aura Statue",
+                zone = 178,
+              },
+            [5] = {
+                level = "85-100",
+                monster = "Verglas Golem",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 92,
+          },
+        mp_cost = 32,
+        prefix = "/magic",
+        range = 4,
+        recast = 28,
+        recast_id = 688,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [689] = {
+        blu_points = 3,
+        cast_time = 7,
+        element = 7,
+        en = "Dark Orb",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 689,
+        ja = "ダークオーブ",
+        learned_from = {
+            [1] = {
+                level = "77-80",
+                monster = "Gargouille",
+                zone = 136,
+              },
+            [2] = {
+                level = "78-82",
+                monster = "Dire Gargouille",
+                zone = 137,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Gruesome Gargouille",
+                zone = 217,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Benumbed Vodoriga",
+                zone = 253,
+              },
+            [5] = {
+                level = "115-119",
+                monster = "Eschan Gargouille",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 93,
+          },
+        mp_cost = 124,
+        prefix = "/magic",
+        range = 12,
+        recast = 8,
+        recast_id = 689,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [690] = {
+        blu_points = 5,
+        cast_time = 4.5,
+        element = 2,
+        en = "White Wind",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 690,
+        ja = "ホワイトウィンド",
+        learned_from = {
+            [1] = {
+                level = "101-105",
+                monster = "Snaggletooth Peapuk",
+                zone = 153,
+              },
+            [2] = {
+                level = "?",
+                monster = "Waugyl",
+                zone = 218,
+              },
+            [3] = {
+                level = "?",
+                monster = "Phantom Puk",
+                zone = 67,
+              },
+          },
+        levels = {
+            [16] = 94,
+          },
+        mp_cost = 145,
+        prefix = "/magic",
+        range = 8,
+        recast = 22.5,
+        recast_id = 690,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [692] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Sudden Lunge",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 692,
+        ja = "サドンランジ",
+        learned_from = {
+            [1] = {
+                level = "45-47",
+                monster = "Ladybug",
+                zone = 81,
+              },
+            [2] = {
+                level = "52-54",
+                monster = "Goblin's Ladybug",
+                zone = 81,
+              },
+            [3] = {
+                level = "62-64",
+                monster = "Biddybug",
+                zone = 82,
+              },
+            [4] = {
+                level = "71-74",
+                monster = "Mariehene",
+                zone = 85,
+              },
+            [5] = {
+                level = "79-82",
+                monster = "Nannakola",
+                zone = 218,
+              },
+          },
+        levels = {
+            [16] = 95,
+          },
+        mp_cost = 18,
+        prefix = "/magic",
+        range = 4,
+        recast = 15,
+        recast_id = 692,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [693] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 15,
+        en = "Quadrastrike",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 693,
+        ja = "クアドラストライク",
+        learned_from = {
+            [1] = {
+                level = "75-95",
+                monster = "Kindred Vanguard",
+                zone = 112,
+              },
+            [2] = {
+                level = "75-95",
+                monster = "Kindred Vanguard",
+                zone = 42,
+              },
+          },
+        levels = {
+            [16] = 96,
+          },
+        mp_cost = 98,
+        prefix = "/magic",
+        range = 4,
+        recast = 42.5,
+        recast_id = 693,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [694] = {
+        blu_points = 3,
+        cast_time = 3,
+        element = 5,
+        en = "Vapor Spray",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 694,
+        ja = "ヴェイパースプレー",
+        learned_from = {
+            [1] = {
+                level = "68-71",
+                monster = "Ul'phuabo",
+                zone = 33,
+              },
+            [2] = {
+                level = "76",
+                monster = "Om'phuabo",
+                zone = 33,
+              },
+            [3] = {
+                level = "115-119",
+                monster = "Eschan Phuabo",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 96,
+          },
+        mp_cost = 172,
+        prefix = "/magic",
+        range = 9,
+        recast = 19,
+        recast_id = 694,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [695] = {
+        blu_points = 4,
+        cast_time = 7,
+        element = 4,
+        en = "Thunder Breath",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 695,
+        ja = "サンダーブレス",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Balaur",
+                zone = 15,
+              },
+            [2] = {
+                level = "?",
+                monster = "Minaruja",
+                zone = 254,
+              },
+            [3] = {
+                level = "77~79, 89~91",
+                monster = "Kindred's Vouivre",
+                zone = 112,
+              },
+            [4] = {
+                level = "94~96",
+                monster = "Kindred's Vouivre",
+                zone = 42,
+              },
+          },
+        levels = {
+            [16] = 97,
+          },
+        mp_cost = 193,
+        prefix = "/magic",
+        range = 9,
+        recast = 48,
+        recast_id = 695,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [696] = {
+        blu_points = 5,
+        cast_time = 4,
+        duration = 180,
+        element = 0,
+        en = "O. Counterstance",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 696,
+        ja = "カウンタースタンス",
+        learned_from = {
+            [1] = {
+                level = "77-79",
+                monster = "Orc",
+                zone = 83,
+              },
+            [2] = {
+                level = "76-79",
+                monster = "Orc",
+                zone = 82,
+              },
+            [3] = {
+                level = "77-79",
+                monster = "Orc",
+                zone = 85,
+              },
+            [4] = {
+                level = "77-79",
+                monster = "Orc",
+                zone = 138,
+              },
+          },
+        levels = {
+            [16] = 98,
+          },
+        mp_cost = 18,
+        prefix = "/magic",
+        range = 0,
+        recast = 11,
+        recast_id = 696,
+        requirements = 0,
+        skill = 43,
+        status = 61,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [697] = {
+        blu_points = 4,
+        cast_time = 0.5,
+        element = 15,
+        en = "Amorphic Spikes",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 697,
+        ja = "槍玉",
+        learned_from = {
+            [1] = {
+                level = "73-75",
+                monster = "Black Pudding",
+                zone = 62,
+              },
+            [2] = {
+                level = "75-80",
+                monster = "Ebony Pudding",
+                zone = 61,
+              },
+            [3] = {
+                level = "77-79",
+                monster = "Pitchy Pudding",
+                zone = 92,
+              },
+            [4] = {
+                level = "75-90",
+                monster = "Licorice",
+                zone = 15,
+              },
+            [5] = {
+                level = "?",
+                monster = "Awoken Mokkuralfi",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 98,
+          },
+        mp_cost = 79,
+        prefix = "/magic",
+        range = 4,
+        recast = 58.25,
+        recast_id = 697,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [698] = {
+        blu_points = 2,
+        cast_time = 1,
+        element = 2,
+        en = "Wind Breath",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 698,
+        ja = "ウィンドブレス",
+        learned_from = {
+            [1] = {
+                level = "52-53",
+                monster = "Shadow Dragon",
+                zone = 112,
+              },
+            [2] = {
+                level = "?",
+                monster = "Vanguard Dragon",
+                zone = 112,
+              },
+            [3] = {
+                level = "75-90",
+                monster = "Rift Dragon",
+                zone = 215,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 26,
+        prefix = "/magic",
+        range = 9,
+        recast = 29.5,
+        recast_id = 698,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [699] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Barbed Crescent",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 699,
+        ja = "偃月刃",
+        learned_from = {
+            [1] = {
+                level = "41-48",
+                monster = "Fomor",
+                zone = 27,
+              },
+            [2] = {
+                level = "75-77",
+                monster = "Ephramadian Shade",
+                zone = 79,
+              },
+            [3] = {
+                level = "72-74",
+                monster = "Fallen Volunteer",
+                zone = 54,
+              },
+            [4] = {
+                level = "72-74",
+                monster = "Fallen Imperial Trooper",
+                zone = 54,
+              },
+            [5] = {
+                level = "72-74",
+                monster = "Fallen Imperial Wizard",
+                zone = 54,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 52,
+        prefix = "/magic",
+        range = 4,
+        recast = 22,
+        recast_id = 699,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [700] = {
+        blu_points = 6,
+        cast_time = 1,
+        duration = 90,
+        element = 0,
+        en = "Nat. Meditation",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 700,
+        ja = "N.メディテイト",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Calfcleaving Chapuli",
+                zone = 260,
+              },
+            [2] = {
+                level = "?",
+                monster = "Fernfelling Chapuli",
+                zone = 261,
+              },
+            [3] = {
+                level = "?",
+                monster = "Burrowing Chapuli",
+                zone = 268,
+              },
+            [4] = {
+                level = "?",
+                monster = "Cthonic Chapuli",
+                zone = 269,
+              },
+            [5] = {
+                level = "122~124",
+                monster = "Agitated Chapuli",
+                zone = 291,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 38,
+        prefix = "/magic",
+        range = 0,
+        recast = 60,
+        recast_id = 700,
+        requirements = 0,
+        skill = 43,
+        status = 91,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [701] = {
+        blu_points = 6,
+        cast_time = 0.5,
+        element = 2,
+        en = "Tem. Upheaval",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 701,
+        ja = "T.アップヒーヴ",
+        learned_from = {
+            [1] = {
+                level = "100-101",
+                monster = "Twitherym Infestation",
+                zone = 260,
+              },
+            [2] = {
+                level = "100-101",
+                monster = "Careening Twitherym",
+                zone = 261,
+              },
+            [3] = {
+                level = "?",
+                monster = "Malodorous Twitherym",
+                zone = 268,
+              },
+            [4] = {
+                level = "?",
+                monster = "Repugnant Twitherym",
+                zone = 269,
+              },
+            [5] = {
+                level = "?",
+                monster = "Frosty Twitherym",
+                zone = 265,
+              },
+            [6] = {
+                level = "?",
+                monster = "Leafdancer Twith",
+                zone = 272,
+              },
+            [7] = {
+                level = "?",
+                monster = "Whispering Twitherym",
+                zone = 266,
+              },
+            [8] = {
+                level = "?",
+                monster = "Twitherym",
+                zone = 263,
+              },
+            [9] = {
+                level = "?",
+                monster = "Restless Twitherym",
+                zone = 274,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 133,
+        prefix = "/magic",
+        range = 8,
+        recast = 12,
+        recast_id = 701,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [702] = {
+        blu_points = 6,
+        cast_time = 2,
+        element = 5,
+        en = "Rending Deluge",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 702,
+        ja = "R.デルージュ",
+        learned_from = {
+            [1] = {
+                level = "103-104",
+                monster = "Hoary Craklaw",
+                zone = 262,
+              },
+            [2] = {
+                level = "?",
+                monster = "Craklaw",
+                zone = 268,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 118,
+        prefix = "/magic",
+        range = 8,
+        recast = 35,
+        recast_id = 702,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [703] = {
+        blu_points = 6,
+        cast_time = 3,
+        element = 3,
+        en = "Embalming Earth",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 703,
+        ja = "エンバームアース",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Disturbed Matamata",
+                zone = 269,
+              },
+            [2] = {
+                level = "?",
+                monster = "Sinewy Matamata",
+                zone = 265,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 57,
+        prefix = "/magic",
+        range = 8,
+        recast = 24,
+        recast_id = 703,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [704] = {
+        blu_points = 6,
+        cast_time = 0.5,
+        element = 15,
+        en = "Paralyzing Triad",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 704,
+        ja = "パラライズトライアド",
+        learned_from = {
+            [1] = {
+                level = "100+",
+                monster = "Umbril",
+                zone = 260,
+              },
+            [2] = {
+                level = "100+",
+                monster = "Appetent Umbril",
+                zone = 261,
+              },
+            [3] = {
+                level = "104",
+                monster = "Phantasmagoric Umbril",
+                zone = 262,
+              },
+            [4] = {
+                level = "103-106",
+                monster = "Snowcap Umbril",
+                zone = 265,
+              },
+            [5] = {
+                level = "106+",
+                monster = "Shadowscourge Umbril",
+                zone = 263,
+              },
+            [6] = {
+                level = "103-106",
+                monster = "Livid Umbril",
+                zone = 270,
+              },
+            [7] = {
+                level = "114+",
+                monster = "Firth Umbril",
+                zone = 272,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 33,
+        prefix = "/magic",
+        range = 4,
+        recast = 15,
+        recast_id = 704,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [705] = {
+        blu_points = 3,
+        cast_time = 3.5,
+        element = 5,
+        en = "Foul Waters",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 705,
+        ja = "ファウルウォーター",
+        learned_from = {
+            [1] = {
+                level = "103-105",
+                monster = "Flatus Acuex",
+                zone = 270,
+              },
+            [2] = {
+                level = "114-116",
+                monster = "Astringent Acuex",
+                zone = 274,
+              },
+            [3] = {
+                level = "124-126",
+                monster = "Wheezing Acuex",
+                zone = 273,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 76,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 705,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [706] = {
+        blu_points = 2,
+        cast_time = 0.5,
+        element = 15,
+        en = "Glutinous Dart",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 706,
+        ja = "グルーティナスダート",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Velkk",
+                zone = 260,
+              },
+            [2] = {
+                level = "?",
+                monster = "Velkk",
+                zone = 262,
+              },
+            [3] = {
+                level = "?",
+                monster = "Velkk",
+                zone = 272,
+              },
+            [4] = {
+                level = "?",
+                monster = "Velkk",
+                zone = 266,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 16,
+        prefix = "/magic",
+        range = 12,
+        recast = 6,
+        recast_id = 706,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [707] = {
+        blu_points = 5,
+        cast_time = 0.5,
+        element = 6,
+        en = "Retinal Glare",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 707,
+        ja = "レテナグレア",
+        learned_from = {
+            [1] = {
+                level = "100+",
+                monster = "Beady Panopt",
+                zone = 260,
+              },
+            [2] = {
+                level = "100+",
+                monster = "Cave Panopt",
+                zone = 269,
+              },
+            [3] = {
+                level = "100+",
+                monster = "Tenacious Panopt",
+                zone = 263,
+              },
+            [4] = {
+                level = "122-124",
+                monster = "Obstreperous Panopt",
+                zone = 291,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 26,
+        prefix = "/magic",
+        range = 4,
+        recast = 45,
+        recast_id = 707,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [708] = {
+        blu_points = 6,
+        cast_time = 1,
+        element = 2,
+        en = "Subduction",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 708,
+        ja = "サブダックション",
+        learned_from = {
+            [1] = {
+                level = "103+",
+                monster = "Asperous Marolith",
+                zone = 270,
+              },
+            [2] = {
+                level = "95~",
+                monster = "Shambling Marolith",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 27,
+        prefix = "/magic",
+        range = 8,
+        recast = 5,
+        recast_id = 708,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [709] = {
+        blu_points = 7,
+        cast_time = 0.5,
+        element = 15,
+        en = "Thrashing Assault",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 709,
+        ja = "T.アッサルト",
+        learned_from = {
+            [1] = {
+                level = "105",
+                monster = "Meeble",
+                zone = 129,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 119,
+        prefix = "/magic",
+        range = 4,
+        recast = 60,
+        recast_id = 709,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [710] = {
+        blu_points = 6,
+        cast_time = 2,
+        duration = 300,
+        element = 2,
+        en = "Erratic Flutter",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 710,
+        ja = "エラチックフラッター",
+        learned_from = {
+            [1] = {
+                level = "77-80",
+                monster = "Wamoura",
+                zone = 62,
+              },
+            [2] = {
+                level = "80-82",
+                monster = "Wamoura",
+                zone = 61,
+              },
+            [3] = {
+                level = "81",
+                monster = "Ignamoth",
+                zone = 61,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 92,
+        prefix = "/magic",
+        range = 0,
+        recast = 45,
+        recast_id = 710,
+        requirements = 0,
+        skill = 43,
+        status = 33,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [711] = {
+        blu_points = 7,
+        cast_time = 2,
+        element = 6,
+        en = "Restoral",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 711,
+        ja = "レストラル",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Sub-zero Gear",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 127,
+        prefix = "/magic",
+        range = 0,
+        recast = 10,
+        recast_id = 711,
+        requirements = 0,
+        skill = 43,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [712] = {
+        blu_points = 6,
+        cast_time = 2.5,
+        element = 6,
+        en = "Rail Cannon",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 712,
+        ja = "レールキャノン",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Sub-zero Gear",
+                zone = 253,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 200,
+        prefix = "/magic",
+        range = 12,
+        recast = 52,
+        recast_id = 712,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [713] = {
+        blu_points = 6,
+        cast_time = 4,
+        element = 6,
+        en = "Diffusion Ray",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 713,
+        ja = "ディフュージョンレイ",
+        learned_from = {
+            [1] = {
+                level = "~90",
+                monster = "Refitted Chariot",
+                zone = 253,
+              },
+            [2] = {
+                level = "~90",
+                monster = "Impervious Chariot",
+                zone = 253,
+              },
+            [3] = {
+                level = "?",
+                monster = "Archaic Chariot",
+                zone = 72,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 238,
+        prefix = "/magic",
+        range = 8,
+        recast = 45,
+        recast_id = 713,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [714] = {
+        blu_points = 6,
+        cast_time = 0.5,
+        element = 15,
+        en = "Sinker Drill",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 714,
+        ja = "シンカードリル",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Mechanical Menace",
+                zone = 253,
+              },
+            [2] = {
+                level = "?",
+                monster = "Boompadu",
+                zone = 72,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 91,
+        prefix = "/magic",
+        range = 4,
+        recast = 20,
+        recast_id = 714,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [715] = {
-        name = "Molting Plumage",
-        mobs = {
-            {
+        blu_points = 6,
+        cast_time = 1,
+        element = 2,
+        en = "Molting Plumage",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 715,
+        ja = "モルトプルメイジ",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Tulfaire",
-                level = "Information Needed",
-                zone = "Marjami Ravine"
-            }
-        }
-    },
+                zone = 266,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 146,
+        prefix = "/magic",
+        range = 4,
+        recast = 25,
+        recast_id = 715,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [716] = {
-        name = "Nectarous Deluge",
-        mobs = {
-            {
+        blu_points = 6,
+        cast_time = 3,
+        element = 5,
+        en = "Nectarous Deluge",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 716,
+        ja = "ネクターデルージュ",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Snapweed",
-                level = "Information Needed",
-                zone = "Yorcia Weald"
-            }
-        }
-    },
+                zone = 263,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 97,
+        prefix = "/magic",
+        range = 8,
+        recast = 45,
+        recast_id = 716,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [717] = {
+        blu_points = 6,
+        cast_time = 0.5,
+        duration = 120,
+        element = 15,
+        en = "Sweeping Gouge",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 717,
+        ja = "スイープガウジ",
+        learned_from = {
+            [1] = {
+                level = "111-113",
+                monster = "Cicatricose Raaz",
+                zone = 267,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 29,
+        prefix = "/magic",
+        range = 4,
+        recast = 56,
+        recast_id = 717,
+        requirements = 0,
+        skill = 43,
+        status = 149,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [718] = {
-        name = "Atra. Libations",
-        mobs = {
-            {
-                monster = "Dullahan",
+        blu_points = 6,
+        cast_time = 4,
+        element = 7,
+        en = "Atra. Libations",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 718,
+        ja = "A.ライベーション",
+        learned_from = {
+            [1] = {
                 level = "116-118",
-                zone = "Outer Ra'Kaznar D-7 on Map 1"
-            },
-            {
+                monster = "Dullahan",
+                zone = 274,
+              },
+            [2] = {
+                level = "?",
                 monster = "Unrelenting Dullahan",
-                level = "Information Needed",
-                zone = "Sih Gates Map 2 (Use teleporter in Ceizak Battlegrounds G-10/11)"
-            }
-        }
-    },
+                zone = 261,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 164,
+        prefix = "/magic",
+        range = 4,
+        recast = 52,
+        recast_id = 718,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [719] = {
-        name = "Searing Tempest",
-        mobs = {
-            {
+        blu_points = 8,
+        cast_time = 6,
+        element = 0,
+        en = "Searing Tempest",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 719,
+        ja = "シアリングテンペスト",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Escalent (Baelfyr type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
-                monster = "Irascible Baelfyr",
+                zone = 264,
+              },
+            [2] = {
                 level = "100+",
-                zone = "Ceizak Battlegrounds Fire weather. E-7/8, J-6, I/J-7/8"
-            },
-            {
-                monster = "Fetid Baelfyr",
+                monster = "Irascible Baelfyr",
+                zone = 261,
+              },
+            [3] = {
                 level = "120+",
-                zone = "Sortie, Basement Map F Multiple Spawns Upon Entry"
-            }
-        }
-    },
-    [725] = {
-        name = "Blinding Fulgor",
-        mobs = {
-            {
-                monster = "Escalent (Baelfyr type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
-                monster = "Irascible Baelfyr",
-                level = "100+",
-                zone = "Ceizak Battlegrounds Fire weather. E-7/8, J-6, I/J-7/8"
-            },
-            {
                 monster = "Fetid Baelfyr",
-                level = "134-137",
-                zone = "Outer Ra'Kaznar (U2) Sortie - Basement. Section E."
-            }
-        }
-    },
+                zone = 274,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 719,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [720] = {
-        name = "Spectral Floe",
-        mobs = {
-            {
+        blu_points = 8,
+        cast_time = 6,
+        element = 1,
+        en = "Spectral Floe",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 720,
+        ja = "スペクトラルフロー",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Escalent (Gefyrst type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
+                zone = 264,
+              },
+            [2] = {
+                level = "?",
                 monster = "Treefrost Gefyrst",
-                level = "Question",
-                zone = "Foret de Hennetiel Water weather (I-7)"
-            },
-            {
-                monster = "Speleothem Gefyrst",
+                zone = 262,
+              },
+            [3] = {
                 level = "101-103",
-                zone = "Sih Gates Rainy or squall weather."
-            },
-            {
-                monster = "Bergschrund Gefyrst",
-                level = "126-127",
-                zone = "Woh Gates Snowy weather."
-            },
-            {
-                monster = "Hoarfrost Gefyrst",
-                level = "104-106",
-                zone = "Morimar Basalt Fields Snowy weather. (G-7)"
-            }
-        }
-    },
-    [726] = {
-        name = "Scouring Spate",
-        mobs = {
-            {
-                monster = "Escalent (Gefyrst type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
-                monster = "Treefrost Gefyrst",
-                level = "Question",
-                zone = "Foret de Hennetiel Water weather"
-            },
-            {
                 monster = "Speleothem Gefyrst",
-                level = "101-103",
-                zone = "Sih Gates Rainy or squall weather."
-            },
-            {
-                monster = "Bergschrund Gefyrst",
+                zone = 268,
+              },
+            [4] = {
                 level = "126-127",
-                zone = "Woh Gates Snowy weather."
-            },
-            {
-                monster = "Hoarfrost Gefyrst",
+                monster = "Bergschrund Gefyrst",
+                zone = 273,
+              },
+            [5] = {
                 level = "104-106",
-                zone = "Morimar Basalt Fields Snowy weather."
-            }
-        }
-    },
+                monster = "Hoarfrost Gefyrst",
+                zone = 265,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 720,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [721] = {
-        name = "Anvil Lightning",
-        mobs = {
-            {
+        blu_points = 8,
+        cast_time = 6,
+        element = 4,
+        en = "Anvil Lightning",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 721,
+        ja = "アンビルライトニング",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Ungeweder",
-                level = "Question",
-                zone = "Ceizak Battlegrounds During weather. West of Bivouac #2."
-            },
-            {
+                zone = 261,
+              },
+            [2] = {
+                level = "?",
                 monster = "Crackling Ungeweder",
-                level = "Question",
-                zone = "Marjami Ravine During weather. SouthEast of Bivouac #3."
-            },
-            {
+                zone = 266,
+              },
+            [3] = {
+                level = "?",
                 monster = "Escalent (Ungeweder type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            }
-        }
-    },
-    [727] = {
-        name = "Silent Storm",
-        mobs = {
-            {
-                monster = "Ungeweder",
-                level = "Question",
-                zone = "Ceizak Battlegrounds During weather. West of Bivouac #2."
-            },
-            {
-                monster = "Escalent (Ungeweder type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            }
-        }
-    },
+                zone = 264,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 721,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [722] = {
-        name = "Entomb",
-        mobs = {
-            {
+        blu_points = 8,
+        cast_time = 6,
+        element = 3,
+        en = "Entomb",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 722,
+        ja = "エントゥーム",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Escalent (Byrgen type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
+                zone = 264,
+              },
+            [2] = {
+                level = "?",
                 monster = "Stolid Byrgen",
-                level = "Question",
-                zone = "Yorcia Weald Dust storm or gloom weather"
-            },
-            {
+                zone = 263,
+              },
+            [3] = {
+                level = "?",
                 monster = "Elemental",
-                level = "Question",
-                zone = "Outer Ra'Kaznar Dust storm or gloom weather"
-            },
-            {
-                monster = "Unrepentant Byrgen",
+                zone = 274,
+              },
+            [4] = {
                 level = "121-123",
-                zone = "Ra'Kaznar Inner Court Gloom weather"
-            }
-        }
-    },
-    [728] = {
-        name = "Tenebral Crush",
-        mobs = {
-            {
-                monster = "Escalent (Byrgen type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Cape or ring Eudaemon Item preferred."
-            },
-            {
-                monster = "Stolid Byrgen",
-                level = "Question",
-                zone = "Yorcia Weald Dust storm or gloom weather"
-            },
-            {
-                monster = "Phlegmatic Byrgen",
-                level = "Question",
-                zone = "Outer Ra'Kaznar Dust storm or gloom weather. Two spawn (H-4) Map 1"
-            },
-            {
                 monster = "Unrepentant Byrgen",
-                level = "121-123",
-                zone = "Ra'Kaznar Inner Court Gloom weather"
-            }
-        }
-    },
+                zone = 276,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 722,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [723] = {
-        name = "Saurian Slide",
-        mobs = {
-            {
+        blu_points = 7,
+        cast_time = 0.5,
+        element = 15,
+        en = "Saurian Slide",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 723,
+        ja = "サウリアンスライド",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Velkk",
-                level = "Information Needed",
-                zone = "Yahse Hunting Grounds"
-            },
-            {
+                zone = 260,
+              },
+            [2] = {
+                level = "?",
                 monster = "Velkk",
-                level = "Information Needed",
-                zone = "Foret de Hennetiel"
-            },
-            {
+                zone = 262,
+              },
+            [3] = {
+                level = "?",
                 monster = "Velkk",
-                level = "Information Needed",
-                zone = "Dho Gates"
-            },
-            {
+                zone = 272,
+              },
+            [4] = {
+                level = "?",
                 monster = "Velkk",
-                level = "Information Needed",
-                zone = "Marjami Ravine"
-            }
-        }
-    },
+                zone = 266,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 109,
+        prefix = "/magic",
+        range = 4,
+        recast = 35,
+        recast_id = 723,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [724] = {
-        name = "Palling Salvo",
-        mobs = {
-            {
+        blu_points = 7,
+        cast_time = 3,
+        element = 7,
+        en = "Palling Salvo",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 724,
+        ja = "ポーリングサルヴォ",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Escalent (Fluturini type)",
-                level = "Question",
-                zone = "Yorcia Weald (U) Alluvion Skirmish. Sword, Shield, or Sash Eudaemon preferred."
-            },
-            {
+                zone = 264,
+              },
+            [2] = {
+                level = "?",
                 monster = "Fluturini",
-                level = "Question",
-                zone = "Outer Ra'Kaznar"
-            }
-        }
-    },
+                zone = 274,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 175,
+        prefix = "/magic",
+        range = 8,
+        recast = 45,
+        recast_id = 724,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [725] = {
+        blu_points = 8,
+        cast_time = 6,
+        element = 6,
+        en = "Blinding Fulgor",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 725,
+        ja = "B.フルゴア",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Escalent (Baelfyr type)",
+                zone = 264,
+              },
+            [2] = {
+                level = "100+",
+                monster = "Irascible Baelfyr",
+                zone = 261,
+              },
+            [3] = {
+                level = "134-137",
+                monster = "Fetid Baelfyr",
+                zone = 274,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 725,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [726] = {
+        blu_points = 8,
+        cast_time = 6,
+        element = 5,
+        en = "Scouring Spate",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 726,
+        ja = "スカウリングスペイト",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Escalent (Gefyrst type)",
+                zone = 264,
+              },
+            [2] = {
+                level = "?",
+                monster = "Treefrost Gefyrst",
+                zone = 262,
+              },
+            [3] = {
+                level = "101-103",
+                monster = "Speleothem Gefyrst",
+                zone = 268,
+              },
+            [4] = {
+                level = "126-127",
+                monster = "Bergschrund Gefyrst",
+                zone = 273,
+              },
+            [5] = {
+                level = "104-106",
+                monster = "Hoarfrost Gefyrst",
+                zone = 265,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 726,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [727] = {
+        blu_points = 8,
+        cast_time = 6,
+        duration = 300,
+        element = 2,
+        en = "Silent Storm",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 727,
+        ja = "サイレントストーム",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Ungeweder",
+                zone = 261,
+              },
+            [2] = {
+                level = "?",
+                monster = "Escalent (Ungeweder type)",
+                zone = 264,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 727,
+        requirements = 0,
+        skill = 43,
+        status = 6,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [728] = {
+        blu_points = 8,
+        cast_time = 6,
+        duration = 90,
+        element = 7,
+        en = "Tenebral Crush",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 728,
+        ja = "テネブラルクラッシュ",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Escalent (Byrgen type)",
+                zone = 264,
+              },
+            [2] = {
+                level = "?",
+                monster = "Stolid Byrgen",
+                zone = 263,
+              },
+            [3] = {
+                level = "?",
+                monster = "Phlegmatic Byrgen",
+                zone = 274,
+              },
+            [4] = {
+                level = "121-123",
+                monster = "Unrepentant Byrgen",
+                zone = 276,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 116,
+        overwrites = {
+            [1] = 717,
+          },
+        prefix = "/magic",
+        range = 8,
+        recast = 60,
+        recast_id = 728,
+        requirements = 0,
+        skill = 43,
+        status = 149,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [736] = {
+        cast_time = 3.5,
+        element = 4,
+        en = "Thunderbolt",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 736,
+        ja = "サンダーボルト",
+        learned_from = {
+            [1] = {
+                level = "80",
+                monster = "Behemoth",
+                zone = 127,
+              },
+            [2] = {
+                level = "85",
+                monster = "King Behemoth",
+                zone = 127,
+              },
+            [3] = {
+                level = "?",
+                monster = "Kholomodumo",
+                zone = 82,
+              },
+            [4] = {
+                level = "?",
+                monster = "Awoken Dendainsonne",
+                zone = 125,
+              },
+          },
+        levels = {
+            [16] = 95,
+          },
+        mp_cost = 138,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 736,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [737] = {
+        cast_time = 1.5,
+        duration = 90,
+        element = 3,
+        en = "Harden Shell",
+        icon_id = -1,
+        icon_id_nq = 59,
+        id = 737,
+        ja = "甲羅強化",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Thalassinon",
+                zone = 45,
+              },
+            [2] = {
+                level = "88-90",
+                monster = "Genbu",
+                zone = 130,
+              },
+            [3] = {
+                level = "103-105",
+                monster = "Pygmytoise",
+                zone = 212,
+              },
+          },
+        levels = {
+            [16] = 95,
+          },
+        mp_cost = 20,
+        prefix = "/magic",
+        range = 0,
+        recast = 30,
+        recast_id = 737,
+        requirements = 0,
+        skill = 43,
+        status = 93,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [738] = {
+        cast_time = 0.5,
+        element = 7,
+        en = "Absolute Terror",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 738,
+        ja = "アブソルートテラー",
+        learned_from = {
+            [1] = {
+                level = "75-90",
+                monster = "Naul",
+                zone = 45,
+              },
+            [2] = {
+                level = "88-90",
+                monster = "Fafnir",
+                zone = 154,
+              },
+            [3] = {
+                level = "88-90",
+                monster = "Nidhogg",
+                zone = 154,
+              },
+          },
+        levels = {
+            [16] = 96,
+          },
+        mp_cost = 29,
+        prefix = "/magic",
+        range = 4,
+        recast = 30,
+        recast_id = 738,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [739] = {
+        cast_time = 3.5,
+        element = 0,
+        en = "Gates of Hades",
+        icon_id = -1,
+        icon_id_nq = 56,
+        id = 739,
+        ja = "ゲーツオブハデス",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Cerberus",
+                zone = 77,
+              },
+            [2] = {
+                level = "?",
+                monster = "Sarameya",
+                zone = 61,
+              },
+            [3] = {
+                level = "?",
+                monster = "Black Shuck",
+                zone = 63,
+              },
+            [4] = {
+                level = "?",
+                monster = "Orthrus",
+                zone = 218,
+              },
+            [5] = {
+                legion = true,
+                level = "?",
+                monster = "Mired Cerberus",
+                zone = 110,
+              },
+            [6] = {
+                legion = true,
+                level = "?",
+                monster = "Mired Orthrus",
+                zone = 110,
+              },
+            [7] = {
+                level = "?",
+                monster = "Awoken Freke",
+                zone = 105,
+              },
+          },
+        levels = {
+            [16] = 97,
+          },
+        mp_cost = 156,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 739,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [740] = {
+        cast_time = 1,
+        duration = 60,
+        element = 15,
+        en = "Tourbillion",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 740,
+        ja = "トゥールビヨン",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Cerberus",
+                zone = 77,
+              },
+            [2] = {
+                level = "?",
+                monster = "Sarameya",
+                zone = 61,
+              },
+            [3] = {
+                level = "?",
+                monster = "Black Shuck",
+                zone = 63,
+              },
+            [4] = {
+                level = "?",
+                monster = "Orthrus",
+                zone = 218,
+              },
+            [5] = {
+                legion = true,
+                level = "?",
+                monster = "Mired Cerberus",
+                zone = 110,
+              },
+            [6] = {
+                legion = true,
+                level = "?",
+                monster = "Mired Orthrus",
+                zone = 110,
+              },
+            [7] = {
+                level = "?",
+                monster = "Awoken Freke",
+                zone = 105,
+              },
+          },
+        levels = {
+            [16] = 97,
+          },
+        mp_cost = 108,
+        overwrites = {
+            [1] = 717,
+            [2] = 728,
+          },
+        prefix = "/magic",
+        range = 10,
+        recast = 30,
+        recast_id = 740,
+        requirements = 0,
+        skill = 43,
+        status = 149,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [741] = {
+        cast_time = 1.5,
+        duration = 300,
+        element = 6,
+        en = "Pyric Bulwark",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 741,
+        ja = "ポーラーブルワーク",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "Ningishzida",
+                zone = 254,
+              },
+            [2] = {
+                level = "?",
+                monster = "Orochi",
+                zone = 66,
+              },
+            [3] = {
+                level = "?",
+                monster = "Hydra",
+                zone = 77,
+              },
+            [4] = {
+                level = "?",
+                monster = "Tinnin",
+                zone = 51,
+              },
+          },
+        levels = {
+            [16] = 98,
+          },
+        mp_cost = 50,
+        prefix = "/magic",
+        range = 0,
+        recast = 30,
+        recast_id = 741,
+        requirements = 0,
+        skill = 43,
+        status = 150,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [742] = {
+        cast_time = 1,
+        element = 15,
+        en = "Bilgestorm",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 742,
+        ja = "ビルジストーム",
+        learned_from = {
+            [1] = {
+                level = "?",
+                monster = "King Goldemar",
+                zone = 56,
+              },
+            [2] = {
+                level = "?",
+                monster = "Dvalinn",
+                zone = 217,
+              },
+            [3] = {
+                level = "?",
+                monster = "Durinn",
+                zone = 217,
+              },
+            [4] = {
+                legion = true,
+                level = "?",
+                monster = "Soaring Dvergr",
+                zone = 183,
+              },
+            [5] = {
+                legion = true,
+                level = "?",
+                monster = "Soaring Dweorg",
+                zone = 183,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 122,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 742,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [743] = {
+        cast_time = 0.5,
+        element = 15,
+        en = "Bloodrake",
+        icon_id = -1,
+        icon_id_nq = 64,
+        id = 743,
+        ja = "ブラッドレイク",
+        learned_from = {
+            [1] = {
+                level = "89",
+                monster = "Varkolak",
+                zone = 155,
+              },
+            [2] = {
+                level = "88",
+                monster = "Oupire",
+                zone = 72,
+              },
+            [3] = {
+                level = "80-82",
+                monster = "Count Dracula",
+                zone = 69,
+              },
+            [4] = {
+                level = "97-99",
+                monster = "Wurdalak",
+                zone = 167,
+              },
+            [5] = {
+                level = "100",
+                monster = "Lord Asag",
+                zone = 119,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 99,
+        prefix = "/magic",
+        range = 4,
+        recast = 30,
+        recast_id = 743,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [744] = {
+        cast_time = 1.5,
+        element = 2,
+        en = "Droning Whirlwind",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 744,
+        ja = "D.ワールウィンド",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Colkhab",
+                zone = 261,
+              },
+            [2] = {
+                level = "119",
+                monster = "Muyingwa",
+                zone = 271,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 224,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 744,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [745] = {
+        cast_time = 1,
+        element = 5,
+        en = "Carcharian Verve",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 745,
+        ja = "カルカリアンヴァーヴ",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Tchakka",
+                zone = 262,
+              },
+            [2] = {
+                level = "119",
+                monster = "Dakuwaqa",
+                zone = 271,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 65,
+        prefix = "/magic",
+        range = 0,
+        recast = 30,
+        recast_id = 745,
+        requirements = 0,
+        skill = 43,
+        status = 91,
+        targets = 1,
+        type = "BlueMagic",
+      },
+    [746] = {
+        cast_time = 0.5,
+        element = 7,
+        en = "Blistering Roar",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 746,
+        ja = "ブリスターローア",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Achuka",
+                zone = 265,
+              },
+            [2] = {
+                level = "119",
+                monster = "Tojil",
+                zone = 271,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 43,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 746,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [747] = {
+        cast_time = 1.5,
+        element = 6,
+        en = "Uproot",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 747,
+        ja = "アップルート",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Yumcax",
+                zone = 263,
+              },
+            [2] = {
+                level = "119",
+                monster = "Wopket",
+                zone = 264,
+              },
+            [3] = {
+                level = "?",
+                monster = "Mboze",
+                oddyssey = true,
+                zone = 0,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 88,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 747,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [748] = {
+        cast_time = 1,
+        element = 4,
+        en = "Crashing Thunder",
+        icon_id = -1,
+        icon_id_nq = 60,
+        id = 748,
+        ja = "クラッシュサンダー",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Hurkan",
+                zone = 266,
+              },
+            [2] = {
+                level = "119",
+                monster = "Cailimh",
+                zone = 264,
+              },
+            [3] = {
+                level = "125",
+                monster = "Palila",
+                zone = 289,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 172,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 748,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+    [749] = {
+        cast_time = 3,
+        element = 1,
+        en = "Polar Roar",
+        icon_id = -1,
+        icon_id_nq = 57,
+        id = 749,
+        ja = "ポラーロア",
+        learned_from = {
+            [1] = {
+                level = "116",
+                monster = "Kumhau",
+                zone = 267,
+              },
+            [2] = {
+                level = "119",
+                monster = "Utkux",
+                zone = 264,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 126,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 749,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [750] = {
-        name = "Mighty Guard (U)",
-        mobs = {
-            {
+        cast_time = 3,
+        duration = 180,
+        element = 6,
+        en = "Mighty Guard",
+        icon_id = -1,
+        icon_id_nq = 62,
+        id = 750,
+        ja = "マイティガード",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Sempurne",
-                level = "Question",
-                zone = "Abyssea - Empyreal Paradox Mission: No Time like the Future (RoV 3-17)"
-            },
-            {
+                zone = 255,
+              },
+            [2] = {
+                level = "?",
                 monster = "Shinryu",
-                level = "Question",
-                zone = "Abyssea - Empyreal Paradox Quest: The Wyrm God"
-            }
-        }
-    },
+                zone = 255,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 299,
+        prefix = "/magic",
+        range = 0,
+        recast = 30,
+        recast_id = 750,
+        requirements = 0,
+        skill = 43,
+        status = 604,
+        targets = 1,
+        type = "BlueMagic",
+      },
     [751] = {
-        name = "Cruel Joke (U)",
-        mobs = {
-            {
+        cast_time = 3,
+        duration = 60,
+        element = 7,
+        en = "Cruel Joke",
+        icon_id = -1,
+        icon_id_nq = 63,
+        id = 751,
+        ja = "クルエルジョーク",
+        learned_from = {
+            [1] = {
+                alluvion = true,
+                level = "?",
                 monster = "Balamor's Adumbration",
-                level = "Question",
-                zone = "Alluvion Skirmish Rala or Cirdas. Random occurrence when changing floors. Becomes much more frequent the higher the tier of entry item."
-            },
-            {
+                zone = 0,
+              },
+            [2] = {
+                level = "?",
                 monster = "Palloritus",
-                level = "Question",
-                zone = "Outer Ra'Kaznar (U) Vagary: Deathborne Gate Boss"
-            },
-            {
+                zone = 275,
+              },
+            [3] = {
+                level = "?",
                 monster = "Palloritus",
-                level = "Question",
-                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Palloritus"
-            }
-        }
-    },
+                zone = 277,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 187,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 751,
+        requirements = 0,
+        skill = 43,
+        status = 15,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [752] = {
-        name = "Cesspool (U)",
-        mobs = {
-            {
+        cast_time = 3,
+        element = 5,
+        en = "Cesspool",
+        icon_id = -1,
+        icon_id_nq = 61,
+        id = 752,
+        ja = "セスプール",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Rancibus",
-                level = "Question",
-                zone = "Outer Ra'Kaznar (U) Vagary: Brash Gate Boss"
-            },
-            {
+                zone = 275,
+              },
+            [2] = {
+                level = "?",
                 monster = "Rancibus",
-                level = "Question",
-                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Rancibus"
-            }
-        }
-    },
+                zone = 277,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 166,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 752,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
     [753] = {
-        name = "Tearing Gust (U)",
-        mobs = {
-            {
+        cast_time = 3,
+        element = 2,
+        en = "Tearing Gust",
+        icon_id = -1,
+        icon_id_nq = 58,
+        id = 753,
+        ja = "テーリングガスト",
+        learned_from = {
+            [1] = {
+                level = "?",
                 monster = "Putraxia",
-                level = "Question",
-                zone = "Outer Ra'Kaznar (U) Vagary: Duskbrood Gate Boss"
-            },
-            {
+                zone = 275,
+              },
+            [2] = {
+                level = "?",
                 monster = "Putraxia",
-                level = "Question",
-                zone = "Ra'Kaznar Turris Alternative Battlefield Vagary: Putraxia"
-            }
-        }
-    },
-}
+                zone = 277,
+              },
+          },
+        levels = {
+            [16] = 99,
+          },
+        mp_cost = 202,
+        prefix = "/magic",
+        range = 8,
+        recast = 30,
+        recast_id = 753,
+        requirements = 0,
+        skill = 43,
+        targets = 32,
+        type = "BlueMagic",
+      },
+  }
