@@ -40,7 +40,7 @@ local bit = require("bit")
 
 res = require('resources')
 chat = require('chat')
-local spellsDB = require('spells')
+local spellsDB = require('data/spells')
 
 
 _addon.name    = 'aspiringBLU'
