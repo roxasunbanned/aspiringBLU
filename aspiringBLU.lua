@@ -1,5 +1,5 @@
 --[[
-AspiringBLU v0.1
+AspiringBLU v0.2
 
 When a monster uses a Blue Magic spell, the spell is added to a list of spells that the player has not yet learned and an audio clip is played.
 When the monster is defeated, the player is notified with an additional chat message and audio clip.
@@ -46,7 +46,7 @@ local spellsDB = require('data/spells')
 _addon.name    = 'aspiringBLU'
 _addon.author  = 'roxasunbanned'
 _addon.version = '0.1'
-_addon.commands = {'targetblu'}
+_addon.commands = {'aspiringblu', 'aspblu'}
 _addon.prefix = _addon.name .. ": "
 
 -- Global variable to store new Blue Magic spells used
@@ -82,6 +82,16 @@ for i,v in pairs(res.monster_abilities) do
     spell_id_map[i] = find_blu_spell(monster_ability_name)
 end
 
+-- Handle parsing and processing of chat commands
+function aspiringblu_command(cmd, ...)
+    if (cmd == 'target') then
+        targetblu_command()
+    end
+    if (cmd == 'check') then
+        update_area_info()
+    end
+end
+
 -- Function to get spell name by spell_id
 function get_spell_name(spell_id)
     local spell = res.spells[spell_id]
@@ -104,7 +114,7 @@ function get_bit(value, bit_position)
 end
 
 -- Function to handle targeting the BLU spell caster
-function handle_target_blu_command()
+function targetblu_command()
     if #blu_magic_used == 0 then
         windower.add_to_chat(123,  _addon.prefix .. "No Blue Magic targets available.")
         return
@@ -242,7 +252,7 @@ function update_area_info()
 end
 
 -- Register events and commands
-windower.register_event('addon command', handle_target_blu_command)
+windower.register_event('addon command', aspiringblu_command)
 windower.register_event('incoming chunk', checkChunk)
 windower.register_event('action', actionCheck)
 windower.register_event ('zone change', update_area_info)
