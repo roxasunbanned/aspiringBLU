@@ -45,7 +45,7 @@ local spellsDB = require('data/spells')
 
 _addon.name    = 'aspiringBLU'
 _addon.author  = 'roxasunbanned'
-_addon.version = '0.1'
+_addon.version = '0.2'
 _addon.commands = {'aspiringblu', 'aspblu'}
 _addon.prefix = _addon.name .. ": "
 
